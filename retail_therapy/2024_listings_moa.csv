@@ -1,0 +1,486 @@
+Row Number,Date Captured,Location Category,Store,Address
+1,2024-09-02,Services,A Sure Fit,N364
+2,2024-09-02,Food Court,A&W,S376
+3,2024-09-02,Food Court,A&W,C376
+4,2024-09-02,Services,AARP,W228
+5,2024-09-02,Men's Apparel,Abercrombie & Fitch,N205
+6,2024-09-02,Children's Apparel,Abercrombie Kids,N210
+7,2024-09-02,n/a,Activate,E312
+8,2024-09-02,Women's Apparel,Aerie,E200
+9,2024-09-02,Women's Apparel,Aéropostale,N267
+10,2024-09-02,Local Business,Air Traffic Toys,E315
+11,2024-09-02,Toys + Games + Hobbies,Airbrush Art,UNickelodeon
+12,2024-09-02,Books + Cards + Gifts,Airbudz,N6104
+13,2024-09-02,Women's Apparel,Akris @ Nordstrom,N1000
+14,2024-09-02,Shoes,ALDO,N188
+15,2024-09-02,Women's Apparel,All Star ELITE,S210B
+16,2024-09-02,Accessories,Almost Famous Body Piercing,E350
+17,2024-09-02,Women's Apparel,Alpaca Connection,E367
+18,2024-09-02,Women's Apparel,Altar’d State,N105
+19,2024-09-02,Attractions + Entertainment,Amazing Mirror Maze,N353
+20,2024-09-02,Services,Amazon Lockers,C1001
+21,2024-09-02,Women's Apparel,American Eagle,N248
+22,2024-09-02,Women's Apparel,American Eagle,S120
+23,2024-09-02,Mall of America® Gift Cards,Anime Corner | Cart,E6109
+24,2024-09-02,n/a,Anime Figures | Cart,N6103
+25,2024-09-02,Toys + Games + Hobbies,Anime Fix,W370
+26,2024-09-02,Women's Apparel,Ann Taylor,S218
+27,2024-09-02,Women's Apparel,Anthropologie,C128
+28,2024-09-02,Services,App-Based Ride Services Pickup/Drop-Off,1Level
+29,2024-09-02,Services,App-Based Ride Services Pickup/Drop-Off,1Level
+30,2024-09-02,Services,App-Based Ride Services Pickup/Drop-Off,1Level
+31,2024-09-02,Electronics + Tech,Apple,W114
+32,2024-09-02,Men's Apparel,Arc’teryx,W145
+33,2024-09-02,Women's Apparel,Aritzia,W115
+34,2024-09-02,Toys + Games + Hobbies,Art Cart,UNickelodeon
+35,2024-09-02,Women's Apparel,Arula,S160
+36,2024-09-02,Women's Apparel,Arwa Fashion,S220
+37,2024-09-02,Women's Apparel,Athleta,S145
+38,2024-09-02,Sweets + Treats,Auntie Anne's,N366
+39,2024-09-02,Sweets + Treats,Auntie Anne's,E242
+40,2024-09-02,Health + Beauty,Aveda Experience Center,W288
+41,2024-09-02,Women's Apparel,A|X Armani Exchange,S141
+42,2024-09-02,Attractions + Entertainment,B&B Theatres Bloomington 13 at Mall of America®,S401
+43,2024-09-02,Luggage + Bags,Baggallini,S280
+44,2024-09-02,Electronics + Tech,Bamboo Cases | Kiosk,N6111
+45,2024-09-02,Women's Apparel,Banana Republic,W100A
+46,2024-09-02,Jewelry + Watches,Banter by Piercing Pagoda,W1808
+47,2024-09-02,Books + Cards + Gifts,Barnes & Noble,E118
+48,2024-09-02,Local Business,Baseus by 4 Less Tech,E357
+49,2024-09-02,Health + Beauty,Bath & Body Works,N172
+50,2024-09-02,Health + Beauty,Bath & Body Works,S234A
+51,2024-09-02,Sweets + Treats,Beard Papa's,N375
+52,2024-09-02,Books + Cards + Gifts,Beef Jerky Experience,N341
+53,2024-09-02,Full Service Restaurants,Benihana,S358
+54,2024-09-02,Health + Beauty,Blasted Ink,E356
+55,2024-09-02,Jewelry + Watches,Body Corner | Cart,N6113
+56,2024-09-02,Food Court,Bonchon Korean Fried Chicken,S372
+57,2024-09-02,Shoes,Boot Barn,N386
+58,2024-09-02,Men's Apparel,BOSS,S176
+59,2024-09-02,Books + Cards + Gifts,BoxLunch,N134
+60,2024-09-02,Services,BPD,E217
+61,2024-09-02,Luggage + Bags,Brighton,S224
+62,2024-09-02,Health + Beauty,Brow Art 23,E362
+63,2024-09-02,Women's Apparel,Brunello Cucinelli Boutique @ Nordstrom,N1000
+64,2024-09-02,Full Service Restaurants,Bubba Gump Shrimp Co.,S396
+65,2024-09-02,Women's Apparel,Buckle,E203
+66,2024-09-02,Full Service Restaurants,Buffalo Wild Wings,S312
+67,2024-09-02,Toys + Games + Hobbies,Build-A-Bear Workshop®,E172
+68,2024-09-02,Women's Apparel,Burberry,S178
+69,2024-09-02,Fast Casual,Burger Burger,S321
+70,2024-09-02,Food Court,Burger King,C360
+71,2024-09-02,Food Court,Bussin Birria Tacos,C332
+72,2024-09-02,Full Service Restaurants,Cadillac Ranch,S352
+73,2024-09-02,Men's Apparel,Canada Goose,W162
+74,2024-09-02,Full Service Restaurants,Cantina Laredo,W300
+75,2024-09-02,Home,Canvas Corner,N314
+76,2024-09-02,Coffee + Tea,Capital One Café,S132
+77,2024-09-02,Women's Apparel,Carhartt,N162
+78,2024-09-02,Coffee + Tea,Caribou Coffee,S380
+79,2024-09-02,Coffee + Tea,Caribou Coffee,N224
+80,2024-09-02,Coffee + Tea,Caribou Coffee,N194
+81,2024-09-02,Coffee + Tea,Caribou Coffee,CTransit
+82,2024-09-02,Toys + Games + Hobbies,Caricatures,UNickelodeon
+83,2024-09-02,Sweets + Treats,Carlo's Bakery,N335
+84,2024-09-02,Children's Apparel,Carter’s babies and kids + OshKosh B’gosh,S254
+85,2024-09-02,Home,Casper,S140
+86,2024-09-02,Full Service Restaurants,"Cedar + Stone, Urban Table",1Level
+87,2024-09-02,Electronics + Tech,Cell Repair | Kiosk,E6335
+88,2024-09-02,Services,Cell Shield | Kiosk,E6320
+89,2024-09-02,Electronics + Tech,Cell Shield | Kiosk,S6311
+90,2024-09-02,Electronics + Tech,Cell Shield | Kiosk,E6105
+91,2024-09-02,Electronics + Tech,Cell Solution | Kiosk,W6113
+92,2024-09-02,Electronics + Tech,Cellairis | Kiosk,N6171
+93,2024-09-02,Mall of America® Gift Cards,Center Self-Service Ticketing,UNickelodeon
+94,2024-09-02,Women's Apparel,Champs Sports,E205
+95,2024-09-02,Accessories,CHANEL Accessories @ Nordstrom,N1000
+96,2024-09-02,Women's Apparel,CHANEL Boutique @ Nordstrom,N1000
+97,2024-09-02,Health + Beauty,CHANEL Fragrance and Beauty Boutique,W142
+98,2024-09-02,Women's Apparel,Charlotte Russe,S255
+99,2024-09-02,Accessories,Charm Planet,E6320
+100,2024-09-02,Local Business,Chicago Furniture,S258
+101,2024-09-02,Fast Casual,Chick-fil-A,C354
+102,2024-09-02,Online Ordering,Chipotle,S322
+103,2024-09-02,Books + Cards + Gifts,Chocolate Moonshine,W326
+104,2024-09-02,holiday,Christmas Treasures,N184
+105,2024-09-02,Men's Apparel,Chubbies,S116
+106,2024-09-02,Sweets + Treats,Cinnabon,E180
+107,2024-09-02,Accessories,Claire's,E179
+108,2024-09-02,Accessories,Claire's,E292
+109,2024-09-02,Accessories,Claire's,N394
+110,2024-09-02,Shoes,Clarks,E146
+111,2024-09-02,Attractions + Entertainment,ClimbZone,N252
+112,2024-09-02,Women's Apparel,Club Monaco,N102
+113,2024-09-02,Luggage + Bags,Coach,W274
+114,2024-09-02,Coffee + Tea,Coaster Café,C5102
+115,2024-09-02,Sweets + Treats,Cold Stone Creamery,S382
+116,2024-09-02,Sweets + Treats,Cold Stone Creamery,E134
+117,2024-09-02,Women's Apparel,Columbia Sportswear,W112
+118,2024-09-02,Women's Apparel,Cotton:On,N278
+119,2024-09-02,Full Service Restaurants,Cowboy Jack's,S320
+120,2024-09-02,Full Service Restaurants,CRAVE,S368
+121,2024-09-02,Attractions + Entertainment,Crayola Experience,S300
+122,2024-09-02,Toys + Games + Hobbies,Crayola Store,S300
+123,2024-09-02,Shoes,Crocs,N108
+124,2024-09-02,Mall of America® Gift Cards,Custom World,E275
+125,2024-09-02,Men's Apparel,Custom World | Kiosk,N6101
+126,2024-09-02,Sweets + Treats,Dairy Queen/Orange Julius,E282
+127,2024-09-02,Fast Casual,DeLeo Bros Pizza,E123
+128,2024-09-02,Accessories,Dior Accessories @ Nordstrom,N1000
+129,2024-09-02,Women's Apparel,Dior Boutique @ Nordstrom,N1000
+130,2024-09-02,Sweets + Treats,Doc Popcorn,E306
+131,2024-09-02,Home,Doremi Sofa,E264
+132,2024-09-02,Attractions + Entertainment,Double Dare Human Crane,MWest
+133,2024-09-02,Shoes,Dr. Martens,N138
+134,2024-09-02,Mall of America® Gift Cards,Dream Riders,CNortheast
+135,2024-09-02,Shoes,DSW,W124
+136,2024-09-02,Shoes,DTLR,N244
+137,2024-09-02,Coffee + Tea,Dunkin',E280
+138,2024-09-02,Attractions + Entertainment,Dutchman's Deck Adventure Course,DutchmansDeck
+139,2024-09-02,Mall of America® Gift Cards,East Self-Service Ticketing,UNickelodeon
+140,2024-09-02,Jewelry + Watches,East Side Jewelry | Kiosk,E6106
+141,2024-09-02,Convenience,Ebisu,N306
+142,2024-09-02,Women's Apparel,Eddie Bauer,S214
+143,2024-09-02,Women's Apparel,Edikted,W209
+144,2024-09-02,Women's Apparel,EVEREVE,W132
+145,2024-09-02,Women's Apparel,Everything But Water,W290
+146,2024-09-02,Women's Apparel,Evsie,E212A
+147,2024-09-02,Women's Apparel,Express,W204
+148,2024-09-02,Eyewear,Eyebobs,W128
+149,2024-09-02,Women's Apparel,Fabletics,W134
+150,2024-09-02,Toys + Games + Hobbies,Face Painting,UNickelodeon
+151,2024-09-02,Shoes,Famous Footwear,W310
+152,2024-09-02,Shoes,Famous Footwear,N151
+153,2024-09-02,Health + Beauty,Final Cut Sports Barbershop,N372
+154,2024-09-02,Full Service Restaurants,FireLake Grill House + Cocktail Bar,2Level
+155,2024-09-02,Home,Five Below,E334
+156,2024-09-02,Jewelry + Watches,Fixology,N390
+157,2024-09-02,Women's Apparel,FJALLRAVEN,S128
+158,2024-09-02,Shoes,Fly Zone at Kids Foot Locker,E272B
+159,2024-09-02,Attractions + Entertainment,FlyOver America,C5120
+160,2024-09-02,Men's Apparel,Focused Clothing,N382
+161,2024-09-02,Shoes,Foot Locker,N356
+162,2024-09-02,Women's Apparel,Forever 21,E144
+163,2024-09-02,Jewelry + Watches,Fossil,S180
+164,2024-09-02,Women's Apparel,Francesca's Collections,N216
+165,2024-09-02,Women's Apparel,Franki by Francesca's,S290
+166,2024-09-02,Women's Apparel,Free People,S149
+167,2024-09-02,Sweets + Treats,Freshens Crepes and Smoothies,W328
+168,2024-09-02,Toys + Games + Hobbies,Fun Toys,S6204
+169,2024-09-02,Toys + Games + Hobbies,Fun Toys,W6116
+170,2024-09-02,Toys + Games + Hobbies,Fun Toys,N6105
+171,2024-09-02,Toys + Games + Hobbies,Games by James,E358
+172,2024-09-02,Electronics + Tech,GameStop,N351
+173,2024-09-02,Women's Apparel,Garage,N140
+174,2024-09-02,Toys + Games + Hobbies,GEAR Store,UNickelodeon
+175,2024-09-02,Health + Beauty,GNC/General Nutrition Center,N370
+176,2024-09-02,Women's Apparel,Goldy's Locker Room,W366
+177,2024-09-02,Home,Good Health Saunas,N384
+178,2024-09-02,Jewelry + Watches,gorjana,W126
+179,2024-09-02,Men's Apparel,Got Kilt?,W385
+180,2024-09-02,Sweets + Treats,Great American Cookies,E283
+181,2024-09-02,Sweets + Treats,Great American Cookies,W152
+182,2024-09-02,Attractions + Entertainment,Great Big Game Show,E300
+183,2024-09-02,Food Court,Great Steak & Potato,C368
+184,2024-09-02,Food Court,Great Steak & Potato,S388
+185,2024-09-02,Sweets + Treats,GRUB,UNickelodeon
+186,2024-09-02,Accessories,Gucci Accessories @ Nordstrom,N1000
+187,2024-09-02,Women's Apparel,GUESS,S260
+188,2024-09-02,Women's Apparel,H&M,C118
+189,2024-09-02,Men's Apparel,H&M Man,C218
+190,2024-09-02,Women's Apparel,H.O.Q.K. House of Queens and Kings,S256
+191,2024-09-02,Sweets + Treats,Häagen-Dazs,E130
+192,2024-09-02,Men's Apparel,Hammer Made,S150
+193,2024-09-02,Jewelry + Watches,Helzberg Diamonds,W154
+194,2024-09-02,Books + Cards + Gifts,Herbal Alchemy,W369
+195,2024-09-02,Jewelry + Watches,Heritage Estate Jewelry Co.,E290
+196,2024-09-02,Books + Cards + Gifts,Hideaway Express,E352
+197,2024-09-02,Women's Apparel,Hockey Minnesota by Goldy's Locker Room,E160
+198,2024-09-02,Convenience,Holiday Stationstore,W123
+199,2024-09-02,Women's Apparel,Hollister,W210
+200,2024-09-02,Home,Home & Beyond,N200
+201,2024-09-02,Full Service Restaurants,Hooters,E404
+202,2024-09-02,Women's Apparel,Hot Topic,N168
+203,2024-09-02,Home,I Love Minnesota,W372
+204,2024-09-02,Electronics + Tech,iAccessories | Kiosk,S6107
+205,2024-09-02,Food Court,Ichiddo Ramen,C322
+206,2024-09-02,Jewelry + Watches,Impulse,E360
+207,2024-09-02,Men's Apparel,INDOCHINO,S107
+208,2024-09-02,n/a,Iris Galerie,E104
+209,2024-09-02,Sweets + Treats,IT'SUGAR,N270
+210,2024-09-02,Women's Apparel,J.Jill,S228
+211,2024-09-02,Fast Casual,Jamba Juice,E317
+212,2024-09-02,Shoes,JD,E241
+213,2024-09-02,Food Court,Jerk King,S385A
+214,2024-09-02,Food Court,Johnny Rockets,S370
+215,2024-09-02,Shoes,Johnston & Murphy,W144
+216,2024-09-02,Shoes,Journeys,N154
+217,2024-09-02,Coffee + Tea,Juicebox,C310
+218,2024-09-02,Hotels,JW Marriott Minneapolis Mall of America®,L2141
+219,2024-09-02,Toys + Games + Hobbies,Kappa Toys,S238
+220,2024-09-02,Luggage + Bags,kate spade new york,S106
+221,2024-09-02,Jewelry + Watches,Kay Jewelers,N174
+222,2024-09-02,Jewelry + Watches,Kendra Scott,S156
+223,2024-09-02,Services,KeyMe,E6302
+224,2024-09-02,Services,KeyMe,W7301
+225,2024-09-02,n/a,KeyMe 3,E84-03
+226,2024-09-02,Shoes,Kids Foot Locker,E272A
+227,2024-09-02,Shoes,Kids Foot Locker,N356
+228,2024-09-02,Health + Beauty,Kiehl's,N121
+229,2024-09-02,Shoes,Kizik,W282
+230,2024-09-02,Toys + Games + Hobbies,Knit & Crochet,W388
+231,2024-09-02,Full Service Restaurants,Kura Sushi,N378
+232,2024-09-02,Health + Beauty,L'Occitane,W268
+233,2024-09-02,Health + Beauty,L.A. Nails,W364
+234,2024-09-02,Women's Apparel,L.L.Bean,S100
+235,2024-09-02,Sweets + Treats,La Michoacana Purepecha,E284
+236,2024-09-02,Women's Apparel,Lane Bryant,S229
+237,2024-09-02,Jewelry + Watches,Larissa Loden,W292
+238,2024-09-02,n/a,Laughing Waters Spa,BRadisson
+239,2024-09-02,Health + Beauty,Lavish Shea Butter,W6107
+240,2024-09-02,n/a,LED Balloons | Cart,E6319
+241,2024-09-02,Eyewear,Lenscrafters,N304
+242,2024-09-02,Men's Apparel,LEVELS,W358
+243,2024-09-02,Women's Apparel,Levi's,S262
+244,2024-09-02,Women's Apparel,Lids,E346
+245,2024-09-02,Women's Apparel,Lids,E178
+246,2024-09-02,Women's Apparel,Lids,N274
+247,2024-09-02,Sweets + Treats,Lindt Chocolate,S284
+248,2024-09-02,Food Court,Little Tokyo,C380A
+249,2024-09-02,Accessories,Little Words Project,N132
+250,2024-09-02,Home,LLAKTA,S282
+251,2024-09-02,Shoes,LMNTS,N221
+252,2024-09-02,Women's Apparel,Loft,S270
+253,2024-09-02,Mall of America® Gift Cards,Log Chute Photo,UNickelodeon
+254,2024-09-02,Food Court,Long John Silvers,S378
+255,2024-09-02,Jewelry + Watches,Lotus Beads,N368
+256,2024-09-02,Books + Cards + Gifts,Love From Minnesota,W380
+257,2024-09-02,Home,Lovesac,W327
+258,2024-09-02,Jewelry + Watches,Lovisa,W270
+259,2024-09-02,n/a,Lovisa,N149
+260,2024-09-02,Women's Apparel,lululemon experiential store,W116
+261,2024-09-02,Coffee + Tea,lululemon fuel space,W116A
+262,2024-09-02,Health + Beauty,LUSH,N186
+263,2024-09-02,Health + Beauty,M Health Fairview,E332
+264,2024-09-02,Sweets + Treats,M&M’S,C5160
+265,2024-09-02,Health + Beauty,MAC Cosmetics,W294
+266,2024-09-02,Department Stores,Macy's,S4000
+267,2024-09-02,Women's Apparel,Macy's Backstage,S4000B
+268,2024-09-02,Women's Apparel,Madewell,S143
+269,2024-09-02,Mall of America® Gift Cards,Maggie's Boutique,E102
+270,2024-09-02,Books + Cards + Gifts,Mall of America® Gift Store,E285
+271,2024-09-02,Books + Cards + Gifts,Mall of America® Gift Store,S225
+272,2024-09-02,Full Service Restaurants,Margaritaville,E344
+273,2024-09-02,Women's Apparel,Marine Layer,W156
+274,2024-09-02,Fast Casual,Mason’s Famous Lobster Rolls,N6373
+275,2024-09-02,Fast Casual,Master Noodle,S319
+276,2024-09-02,Women's Apparel,maurices,E212
+277,2024-09-02,Men's Apparel,MCMillions Apparel,S222
+278,2024-09-02,Luggage + Bags,Michael Kors,S184
+279,2024-09-02,Books + Cards + Gifts,Minnesot-ah!,E157
+280,2024-09-02,Toys + Games + Hobbies,Mins Fashions,S6310
+281,2024-09-02,Electronics + Tech,Mobile Zone,E266
+282,2024-09-02,Sweets + Treats,Mochinut,E244
+283,2024-09-02,Women's Apparel,Mona Williams,S286
+284,2024-09-02,Attractions + Entertainment,Moose Mountain Adventure Golf,N376
+285,2024-09-02,Electronics + Tech,Mudasir iAccessories | Kiosk,W6202
+286,2024-09-02,Men's Apparel,Mugsy,S170
+287,2024-09-02,Services,Muhayyo Henna Tattoo,E6318
+288,2024-09-02,Attractions + Entertainment,Museum of Illusions,C281
+289,2024-09-02,Services,Mystic Lake Casino Hotel,E296
+290,2024-09-02,Food Court,Naf Naf Grill,C326
+291,2024-09-02,Health + Beauty,Nail Trix,E363
+292,2024-09-02,Fast Casual,Nautical Bowls,S336
+293,2024-09-02,Health + Beauty,Nectar Bath Treats,E125
+294,2024-09-02,Coffee + Tea,Nespresso,W133
+295,2024-09-02,Services,New Dragon Acupressure,E268
+296,2024-09-02,Attractions + Entertainment,Nickelodeon Universe®,C5100
+297,2024-09-02,Books + Cards + Gifts,Nickelodeon™ Shop,UNickelodeon
+298,2024-09-02,Shoes,Nike Mall of America,W227
+299,2024-09-02,Local Business,Niko Niko Boba,N123
+300,2024-09-02,Coffee + Tea,Niko Niko Boba,S343
+301,2024-09-02,Coffee + Tea,Niko Niko Boba,N392
+302,2024-09-02,Fast Casual,Noodles & Company,S342
+303,2024-09-02,Department Stores,Nordstrom,N1000
+304,2024-09-02,Coffee + Tea,Nordstrom eBar,1Level
+305,2024-09-02,Full Service Restaurants,Nordstrom Grill,3Level
+306,2024-09-02,Women's Apparel,Nordstrom Rack,W324
+307,2024-09-02,Mall of America® Gift Cards,North Food Cart,UNickelodeon
+308,2024-09-02,Mall of America® Gift Cards,North Self-Service Ticketing,UNickelodeon
+309,2024-09-02,Mall of America® Gift Cards,Northeast Food Cart,UNickelodeon
+310,2024-09-02,Sweets + Treats,Northwoods Candy Emporium,N312
+311,2024-09-02,Sweets + Treats,Nothing Bundt Cakes®,N294
+312,2024-09-02,Health + Beauty,NULEEV CBD,W286
+313,2024-09-02,Eyewear,Oakley,N107
+314,2024-09-02,Eyewear,Oakley,N260
+315,2024-09-02,Women's Apparel,OFFL/NE™ by Aerie,S162
+316,2024-09-02,Children's Apparel,Oh Baby!,N284
+317,2024-09-02,Women's Apparel,Old Navy,E138
+318,2024-09-02,Services,Old Time Photos,N374
+319,2024-09-02,Attractions + Entertainment,Onionhead's Revenge,S200
+320,2024-09-02,Food Court,OPA! of Greece,S385B
+321,2024-09-02,Sweets + Treats,Oppa Sweets,W384
+322,2024-09-02,Kids,PAC 1980,E247
+323,2024-09-02,Women's Apparel,PacSun,E246
+324,2024-09-02,Food Court,Panda Express,C370
+325,2024-09-02,Food Court,Panda Express,S374
+326,2024-09-02,Jewelry + Watches,Pandora Jewelry,N127
+327,2024-09-02,Jewelry + Watches,Pandora Jewelry @ Macy's,S4000
+328,2024-09-02,Fast Casual,Panera Bread,S316
+329,2024-09-02,Books + Cards + Gifts,Paper Source,N116
+330,2024-09-02,Services,Parkview Meeting + Event Center,C5204
+331,2024-09-02,Home,Pepper Palace,N345
+332,2024-09-02,Mall of America® Gift Cards,Pepsi Orange Streak Photo,UNickelodeon
+333,2024-09-02,Health + Beauty,Perfumania,N219
+334,2024-09-02,Jewelry + Watches,Persepolis,W383
+335,2024-09-02,Food Court,Piada Italian Street Food,N326
+336,2024-09-02,Women's Apparel,Pink,W220
+337,2024-09-02,Fast Casual,Popeyes Louisiana Kitchen,S391
+338,2024-09-02,Food Court,Poukei,C380
+339,2024-09-02,Accessories,Prada Accessories @ Nordstrom,N1000
+340,2024-09-02,Health + Beauty,Princess & Diva Kids Fun Spa,E368
+341,2024-09-02,Women's Apparel,Pro Image Sports,N258
+342,2024-09-02,Men's Apparel,Psycho Bunny,W160
+343,2024-09-02,Shoes,Puff Sneaks North,N6102
+344,2024-09-02,Shoes,Puff Sneaks West,W6108
+345,2024-09-02,Toys + Games + Hobbies,Puma Weavings,UNickelodeon
+346,2024-09-02,Home,Purple Mattress,S108
+347,2024-09-02,Food Court,Qdoba,C364
+348,2024-09-02,Hotels,Radisson Blu Hotel,K2100
+349,2024-09-02,Women's Apparel,Ragstock,N144
+350,2024-09-02,Women's Apparel,Ragstock,S276
+351,2024-09-02,Men's Apparel,Rainbow,E309
+352,2024-09-02,Full Service Restaurants,Rainforest Cafe,S306
+353,2024-09-02,Health + Beauty,Relaxing Massage,N367
+354,2024-09-02,Attractions + Entertainment,Rick Bronson's House of Comedy,E408
+355,2024-09-02,Jewelry + Watches,Riddle's Jewelry,S292
+356,2024-09-02,Toys + Games + Hobbies,Ridemakerz,E152
+357,2024-09-02,Mall of America® Gift Cards,Rock Bottom Plunge Photo,UNickelodeon
+358,2024-09-02,Attractions + Entertainment,Rock of Ages Blacklight Minigolf,E336
+359,2024-09-02,Sweets + Treats,Rocket Fizz,E148
+360,2024-09-02,Sweets + Treats,Rocky Mountain Chocolate Factory,E128
+361,2024-09-02,Jewelry + Watches,Rolex at Watches of Switzerland,W136A
+362,2024-09-02,Services,Rowan,S158
+363,2024-09-02,Men's Apparel,Royalty Apparel,W368
+364,2024-09-02,Food Court,Ruby Thai Kitchen,S379
+365,2024-09-02,Food Court,Sbarro,S390
+366,2024-09-02,Attractions + Entertainment,SEA LIFE Minnesota Aquarium,E120
+367,2024-09-02,Health + Beauty,Sephora,W200
+368,2024-09-02,Eyewear,Shady Rays,N170
+369,2024-09-02,Fast Casual,Shake Shack,N332
+370,2024-09-02,Health + Beauty,Shiatsu Renu,W390
+371,2024-09-02,Health + Beauty,Shiatsu Renu | Kiosk,E220
+372,2024-09-02,Shoes,Shoe MGK | Kiosk,W6201
+373,2024-09-02,Shoes,Shoe MGK | Kiosk,E6110
+374,2024-09-02,Shoes,Skechers,N214
+375,2024-09-02,Books + Cards + Gifts,Sketching Memories | Kiosk,E6201
+376,2024-09-02,Food Court,Slice Brothers Pizza,C335
+377,2024-09-02,n/a,Soccer Jerseys | Cart,W6109
+378,2024-09-02,Accessories,Socks & Bottoms,E112
+379,2024-09-02,Shoes,SoftMoc,N159
+380,2024-09-02,Women's Apparel,Soma,W135
+381,2024-09-02,Mall of America® Gift Cards,South Food Cart,UNickelodeon
+382,2024-09-02,Mall of America® Gift Cards,South Self-Service Ticketing,UNickelodeon
+383,2024-09-02,Accessories,Sox Appeal,W391
+384,2024-09-02,Home,Spencer's,N354
+385,2024-09-02,Home,Spencer's,N275
+386,2024-09-02,Women's Apparel,Spirit Halloween,S104
+387,2024-09-02,Toys + Games + Hobbies,Squishable®,E106
+388,2024-09-02,Accessories,Stance,N262
+389,2024-09-02,Coffee + Tea,Starbucks @ Barnes & Noble,E118
+390,2024-09-02,Coffee + Tea,Starbucks Coffee,E164
+391,2024-09-02,Coffee + Tea,Starbucks Coffee,W276
+392,2024-09-02,Shoes,Steve Madden,N282
+393,2024-09-02,Convenience,Street Corner News,E122
+394,2024-09-02,Sweets + Treats,Sugar Factory Express,S339
+395,2024-09-02,Eyewear,Sunglass Hut,W296
+396,2024-09-02,Eyewear,Sunglass Hut,W362
+397,2024-09-02,Eyewear,Sunglass Hut,N256
+398,2024-09-02,Eyewear,Sunglass Hut,N118
+399,2024-09-02,Jewelry + Watches,Swarovski,N288
+400,2024-09-02,Jewelry + Watches,Swatch,E162
+401,2024-09-02,Fast Casual,Sweet Paris Crêperie and Café,N100
+402,2024-09-02,Toys + Games + Hobbies,Sweet Puppies,E6323
+403,2024-09-02,Sweets + Treats,Sweet Treats,UNickelodeon
+404,2024-09-02,Electronics + Tech,T-Mobile,S118
+405,2024-09-02,Attractions + Entertainment,Tactical Urban Combat,W340
+406,2024-09-02,Electronics + Tech,Tesla | Kiosk,N6175
+407,2024-09-02,Children's Apparel,The Children's Place,S272
+408,2024-09-02,Attractions + Entertainment,The Escape Game,E300
+409,2024-09-02,Attractions + Entertainment,The Fair on 4,E402
+410,2024-09-02,Jewelry + Watches,The Inspiration Company,E110
+411,2024-09-02,Attractions + Entertainment,The LEGO Store,S164
+412,2024-09-02,Men's Apparel,The Normal Brand,S142
+413,2024-09-02,Women's Apparel,The North Face,S166
+414,2024-09-02,Men's Apparel,Third Degree Heat,W244
+415,2024-09-02,Coffee + Tea,Tii Cup @ Macy's,S4000E
+416,2024-09-02,Women's Apparel,Tilly's,N246
+417,2024-09-02,Shoes,Timberland,W278
+418,2024-09-02,Women's Apparel,Tommy Bahama,W235
+419,2024-09-02,Men's Apparel,Topman @ Nordstrom,N1000
+420,2024-09-02,Women's Apparel,Topshop @ Nordstrom,N1000
+421,2024-09-02,Women's Apparel,Torrid,N148
+422,2024-09-02,Toys + Games + Hobbies,Toy Store,UNickelodeon
+423,2024-09-02,Toys + Games + Hobbies,Toys and Games @ Barnes & Noble,E118
+424,2024-09-02,Toys + Games + Hobbies,Toys R Us @ Macy's,S4000
+425,2024-09-02,Toys + Games + Hobbies,"Toys""R""Us Flagship",E141
+426,2024-09-02,Shoes,Tradehome Shoes,E156
+427,2024-09-02,Accessories,Travel Style Luggage,S105
+428,2024-09-02,Men's Apparel,TravisMathew,S173
+429,2024-09-02,Sweets + Treats,Treats Cereal Bar + Boba,E372
+430,2024-09-02,Women's Apparel,Trendica,S206
+431,2024-09-02,Men's Apparel,True Classic,S130
+432,2024-09-02,Luggage + Bags,Tumi,W140
+433,2024-09-02,Full Service Restaurants,Twin City Grill,N130
+434,2024-09-02,Books + Cards + Gifts,UBetcha!,E154
+435,2024-09-02,Shoes,UGG,S144
+436,2024-09-02,Health + Beauty,Ulta Beauty,E215
+437,2024-09-02,n/a,Ultra LED Signs,W6115
+438,2024-09-02,Women's Apparel,Under Armour,W240
+439,2024-09-02,Coffee + Tea,Uni Uni,E114
+440,2024-09-02,Mall of America® Gift Cards,Unique,N365
+441,2024-09-02,n/a,Universe of Light,C5100
+442,2024-09-02,Men's Apparel,UNTUCKit,N114
+443,2024-09-02,Women's Apparel,Urban Outfitters,W122
+444,2024-09-02,Men's Apparel,Urban Planet,E248
+445,2024-09-02,Services,Valet - North,LLower
+446,2024-09-02,Services,Valet - South,LLower
+447,2024-09-02,Shoes,Vans,N254
+448,2024-09-02,Luggage + Bags,Vera Bradley,S288
+449,2024-09-02,Late Night Dining,Vern's Bayou Bar,S200
+450,2024-09-02,Jewelry + Watches,Veronica's Jewelry,W387
+451,2024-09-02,Women's Apparel,Victoria's Secret,W220
+452,2024-09-02,Women's Apparel,Victoria's Secret,N178
+453,2024-09-02,Women's Apparel,"Vikings Locker Room, a Fanatics Experience",E126
+454,2024-09-02,Food Court,Vitali's Kitchen,S392
+455,2024-09-02,Men's Apparel,Vuori,S152
+456,2024-09-02,Sweets + Treats,Wafels & Dinges,W360
+457,2024-09-02,Full Service Restaurants,Wahlburgers,N234
+458,2024-09-02,Convenience,Walgreens,E330
+459,2024-09-02,Eyewear,Warby Parker,W158
+460,2024-09-02,Jewelry + Watches,Watches of Switzerland,W136
+461,2024-09-02,Health + Beauty,waterdrop®,W165
+462,2024-09-02,Men's Apparel,Watson,S210A
+463,2024-09-02,Toys + Games + Hobbies,Wax Hands,N218
+464,2024-09-02,Mall of America® Gift Cards,West Food Cart,UNickelodeon
+465,2024-09-02,Mall of America® Gift Cards,West Self-Service Ticketing,UNickelodeon
+466,2024-09-02,Sweets + Treats,Wetzel's Pretzels | Kiosk,W1805
+467,2024-09-02,Health + Beauty,White Barn Candle,S234B
+468,2024-09-02,Women's Apparel,White House | Black Market,S148
+469,2024-09-02,Women's Apparel,Wilson,N101
+470,2024-09-02,Women's Apparel,Windsor,N240
+471,2024-09-02,Attractions + Entertainment,Wink World,N380
+472,2024-09-02,Health + Beauty,Worker B,S126
+473,2024-09-02,Attractions + Entertainment,Xscape Arcade,E342
+474,2024-09-02,Attractions + Entertainment,XSCAPE Entertainment Center,C5152
+475,2024-09-02,Attractions + Entertainment,Xscape Entertainment Center,C5155
+476,2024-09-02,Home,Yankee Candle Co.,N286
+477,2024-09-02,Jewelry + Watches,Zales,E240
+478,2024-09-02,Women's Apparel,Zara,C185
+479,2024-09-02,Women's Apparel,Zumiez,N236
+480,2024-09-02,Home,Zwilling,S168
+481,2024-09-02,Books + Cards + Gifts,3D Crystals | Kiosk,E6102
+482,2024-09-02,Home,3D World,E278
+483,2024-09-02,Men's Apparel,5bulouz,S204
+484,2024-09-02,Attractions + Entertainment,5D Extreme Attraction by Matrix Technology,C5130
+485,2024-09-02,Jewelry + Watches,925 Sterling Avenue | Kiosk,W6103

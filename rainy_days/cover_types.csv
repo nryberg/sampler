@@ -1,0 +1,7 @@
+Cover_Type,Cover_Long,Max_Coverage_pct
+CLR,Clear,0.0
+FEW,Few Clouds,0.25
+SCT,Scattered,0.5
+BKN,Broken,0.88
+OVC,Overcast,1.0
+OVX,Obscured,
