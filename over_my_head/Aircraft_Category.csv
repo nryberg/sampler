@@ -1,0 +1,8 @@
+Category,Description
+A1 , Light (< 15 500 lbs.)  
+A2 , Small (15 500 to 75 000 lbs.)  
+A3 , Large (75 000 to 300 000 lbs.)  
+A4 , High Vortex Large(aircraft such as B-757)  
+A5 , Heavy (> 300 000 lbs.)  
+A6 , High Performance ( > 5 g acceleration and > 400kts)  
+A7 , Rotorcraft  
