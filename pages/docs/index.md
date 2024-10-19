@@ -1,4 +1,10 @@
-# Welcome to MkDocs
+# Welcome to the Data Sampler
+
+A choice selection of small datasets for use in data pipelines and analytics.
+
+:fontawesome-regular-face-laugh-wink:
+
+
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
