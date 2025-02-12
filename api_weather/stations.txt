@@ -1,0 +1,19 @@
+KMSP    Minnesota
+KORD    Illinois
+KJFK    New York
+KSEA    Washington
+KSFO    California
+KPHX    Arizona
+KIAH    Texas
+KMIA    Florida
+KATL    Georgia
+PHNL    Hawaii
+KPDX    Oregon
+KLAX    California
+KDFW    Texas
+PANC    Alaska
+KBGR    Maine
+KINL    Minnesota
+KMCI    Missouri
+KGPI    Montana
+KCRP    Texas

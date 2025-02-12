@@ -1,0 +1,12 @@
+station
+timestamp
+elevation
+windSpeed
+windDirection
+visibility
+temperature
+dewPoint
+windChill
+heatIndex
+relativeHumidity
+precipitationLast6Hours
