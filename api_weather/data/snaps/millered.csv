@@ -1,0 +1,21 @@
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+315,https://api.weather.gov/stations/KATL,2025-02-18T09:52:00+00:00,63.523890978545,-3.123961087205,null,9.36,300,0,16090,Mostly Cloudy
+59,https://api.weather.gov/stations/KBGR,2025-02-18T09:53:00+00:00,45.646695171458,-20.43787629913422,null,22.32,280,-11.7,16090,Mostly Clear
+6,https://api.weather.gov/stations/KBRO,2025-02-18T09:53:00+00:00,89.992032132584,null,null,18.36,150,20.6,16090,Cloudy
+13,https://api.weather.gov/stations/KCRP,2025-02-18T09:51:00+00:00,89.659105457718,null,null,14.76,120,16.1,16090,Cloudy
+182,https://api.weather.gov/stations/KDFW,2025-02-18T09:53:00+00:00,73.709316572126,null,null,18.36,130,10.6,16090,Cloudy
+906,https://api.weather.gov/stations/KGPI,2025-02-18T09:55:00+00:00,88.480083908667,-9.124792609639444,null,7.56,360,-5.6,4830,Light Snow and Fog/Mist
+33,https://api.weather.gov/stations/KIAH,2025-02-18T09:53:00+00:00,85.795186713907,null,null,14.76,100,11.7,16090,Cloudy
+361,https://api.weather.gov/stations/KINL,2025-02-18T09:54:00+00:00,72.548430865795,-36.74718603065333,null,9.36,290,-28.3,16090,Clear
+7,https://api.weather.gov/stations/KJFK,2025-02-18T09:51:00+00:00,34.373607067531,-13.147942327107666,null,38.88,290,-4.4,16090,Mostly Clear and Windy
+32,https://api.weather.gov/stations/KLAX,2025-02-18T09:53:00+00:00,92.993524010865,null,null,9.36,90,12.2,11270,Mostly Cloudy
+312,https://api.weather.gov/stations/KMCI,2025-02-18T09:53:00+00:00,71.655534453692,null,null,null,null,-17.2,3220,Light Snow
+4,https://api.weather.gov/stations/KMIA,2025-02-18T09:53:00+00:00,81.450937739722,null,null,5.4,10,21.1,16090,Mostly Clear
+255,https://api.weather.gov/stations/KMSP,2025-02-18T09:53:00+00:00,70.059953954311,-34.38723403914111,null,14.76,330,-24.4,16090,Clear
+205,https://api.weather.gov/stations/KORD,2025-02-18T09:51:00+00:00,55.346790860912,-27.629134564745556,null,12.96,310,-19.4,16090,Mostly Clear
+12,https://api.weather.gov/stations/KPDX,2025-02-18T09:53:00+00:00,86.090017231195,null,null,0,0,8.9,16090,Light Rain
+337,https://api.weather.gov/stations/KPHX,2025-02-18T09:51:00+00:00,27.846919553712,null,null,14.76,90,13.9,16090,Mostly Cloudy
+137,https://api.weather.gov/stations/KSEA,2025-02-18T09:53:00+00:00,96.601586728182,4.123447822866667,null,9.36,160,6.1,16090,Cloudy
+5,https://api.weather.gov/stations/KSFO,2025-02-18T09:56:00+00:00,100,null,null,11.16,270,10,16090,Mostly Clear
+44,https://api.weather.gov/stations/PANC,2025-02-18T09:53:00+00:00,null,-3.8639995185283333,null,7.56,180,-1.1,16090,Mostly Cloudy
+5,https://api.weather.gov/stations/PHNL,2025-02-18T09:53:00+00:00,null,null,null,null,null,null,16090,Mostly Clear
