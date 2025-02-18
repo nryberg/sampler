@@ -1,3 +1,4 @@
+station_id  state_name
 KMSP    Minnesota
 KORD    Illinois
 KJFK    New York
