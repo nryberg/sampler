@@ -1,0 +1,13 @@
+{
+  "elevation": 255,
+  "station": "https://api.weather.gov/stations/KMSP",
+  "timestamp": "2025-02-19T10:53:00+00:00",
+  "relativeHumidity": 67.267750109568,
+  "windChill": -31.771636240815557,
+  "heatIndex": null,
+  "windSpeed": 12.96,
+  "windDirection": 310,
+  "temperature": -22.8,
+  "visibility": 16090,
+  "textDescription": "Clear"
+}
