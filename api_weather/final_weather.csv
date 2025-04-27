@@ -1,0 +1,20 @@
+[1m[4melevation[0m,[1m[4mstation[0m,[1m[4mtimestamp[0m,[1m[4mrelativeHumidity[0m,[1m[4mwindChill[0m,[1m[4mheatIndex[0m,[1m[4mwindSpeed[0m,[1m[4mwindDirection[0m,[1m[4mtemperature[0m,[1m[4mvisibility[0m,[1m[4mtextDescription[0m
+315[0m,https://api.weather.gov/stations/KATL[0m,2025-04-19T00:52:00+00:00[0m,44.868447242658[0m,null[0m,24.727120566891667[0m,11.16[0m,150[0m,25[0m,16090[0m,Mostly Clear[0m
+59[0m,https://api.weather.gov/stations/KBGR[0m,2025-04-19T00:53:00+00:00[0m,70.439505977909[0m,5.254708506063333[0m,null[0m,7.56[0m,140[0m,6.7[0m,16090[0m,Cloudy[0m
+13[0m,https://api.weather.gov/stations/KCRP[0m,2025-04-19T00:51:00+00:00[0m,84.475861800671[0m,null[0m,25.76131416924[0m,37.08[0m,150[0m,25[0m,12870[0m,Cloudy and Windy[0m
+182[0m,https://api.weather.gov/stations/KDFW[0m,2025-04-19T00:53:00+00:00[0m,52.688225660121[0m,null[0m,27.792073961405556[0m,29.52[0m,160[0m,27.2[0m,16090[0m,Cloudy[0m
+906[0m,https://api.weather.gov/stations/KGPI[0m,2025-04-19T00:55:00+00:00[0m,29.916273112003[0m,null[0m,null[0m,null[0m,null[0m,12.8[0m,16090[0m,Clear[0m
+33[0m,https://api.weather.gov/stations/KIAH[0m,2025-04-19T00:53:00+00:00[0m,66.731286260605[0m,null[0m,28.140426062712223[0m,null[0m,null[0m,26.7[0m,16090[0m,Mostly Cloudy[0m
+361[0m,https://api.weather.gov/stations/KINL[0m,2025-04-19T00:54:00+00:00[0m,66.374179406691[0m,-2.2598773321994443[0m,null[0m,14.76[0m,300[0m,1.7[0m,16090[0m,Cloudy[0m
+7[0m,https://api.weather.gov/stations/KJFK[0m,2025-04-19T00:51:00+00:00[0m,79.654510078888[0m,null[0m,null[0m,25.92[0m,190[0m,11.7[0m,16090[0m,Cloudy[0m
+32[0m,https://api.weather.gov/stations/KLAX[0m,2025-04-19T00:53:00+00:00[0m,64.241540272317[0m,null[0m,null[0m,18.36[0m,270[0m,15[0m,16090[0m,Mostly Cloudy[0m
+312[0m,https://api.weather.gov/stations/KMCI[0m,2025-04-19T00:41:00+00:00[0m,68.525286256056[0m,null[0m,null[0m,20.52[0m,340[0m,11.7[0m,16090[0m,Cloudy[0m
+4[0m,https://api.weather.gov/stations/KMIA[0m,2025-04-19T00:53:00+00:00[0m,59.869198871269[0m,null[0m,24.458806859416665[0m,18.36[0m,80[0m,24.4[0m,16090[0m,Mostly Clear[0m
+255[0m,https://api.weather.gov/stations/KMSP[0m,2025-04-19T00:53:00+00:00[0m,46.310471804071[0m,null[0m,null[0m,null[0m,null[0m,11.1[0m,16090[0m,Mostly Cloudy[0m
+205[0m,https://api.weather.gov/stations/KORD[0m,2025-04-19T00:51:00+00:00[0m,66.453172358623[0m,null[0m,23.420721722697223[0m,null[0m,null[0m,23.3[0m,16090[0m,Mostly Cloudy[0m
+12[0m,https://api.weather.gov/stations/KPDX[0m,2025-04-19T00:53:00+00:00[0m,14.20181129523[0m,null[0m,25.136380628264444[0m,9.36[0m,290[0m,26.1[0m,16090[0m,Partly Cloudy[0m
+337[0m,https://api.weather.gov/stations/KPHX[0m,2025-04-19T00:51:00+00:00[0m,28.265842790616[0m,null[0m,22.423608117310554[0m,29.52[0m,230[0m,23.3[0m,16090[0m,Mostly Cloudy[0m
+137[0m,https://api.weather.gov/stations/KSEA[0m,2025-04-19T00:53:00+00:00[0m,21.766335882272[0m,null[0m,20.493898770259445[0m,11.16[0m,180[0m,21.7[0m,16090[0m,Mostly Clear[0m
+5[0m,https://api.weather.gov/stations/KSFO[0m,2025-04-19T00:56:00+00:00[0m,71.830365829443[0m,null[0m,null[0m,null[0m,null[0m,13.9[0m,16090[0m,Mostly Clear[0m
+44[0m,https://api.weather.gov/stations/PANC[0m,2025-04-19T00:53:00+00:00[0m,null[0m,2.5407621757344443[0m,null[0m,14.76[0m,260[0m,5.6[0m,16090[0m,Mostly Cloudy[0m
+5[0m,https://api.weather.gov/stations/PHNL[0m,2025-04-19T00:53:00+00:00[0m,68.612054435067[0m,null[0m,26.007092532471113[0m,14.76[0m,340[0m,25.6[0m,16090[0m,Mostly Cloudy[0m

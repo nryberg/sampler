@@ -1,0 +1,38 @@
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+315,https://api.weather.gov/stations/KATL,2025-04-19T00:52:00+00:00,44.868447,null,24.727121,11.160000,150,25,16090,Mostly Clear
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+59,https://api.weather.gov/stations/KBGR,2025-04-19T00:53:00+00:00,70.439506,5.254709,null,7.560000,140,6.700000,16090,Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+13,https://api.weather.gov/stations/KCRP,2025-04-19T00:51:00+00:00,84.475862,null,25.761314,37.080000,150,25,12870,Cloudy and Windy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+182,https://api.weather.gov/stations/KDFW,2025-04-19T00:53:00+00:00,52.688226,null,27.792074,29.520000,160,27.200000,16090,Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+906,https://api.weather.gov/stations/KGPI,2025-04-19T00:55:00+00:00,29.916273,null,null,null,null,12.800000,16090,Clear
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+33,https://api.weather.gov/stations/KIAH,2025-04-19T00:53:00+00:00,66.731286,null,28.140426,null,null,26.700000,16090,Mostly Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+361,https://api.weather.gov/stations/KINL,2025-04-19T00:54:00+00:00,66.374179,-2.259877,null,14.760000,300,1.700000,16090,Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+7,https://api.weather.gov/stations/KJFK,2025-04-19T00:51:00+00:00,79.654510,null,null,25.920000,190,11.700000,16090,Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+32,https://api.weather.gov/stations/KLAX,2025-04-19T00:53:00+00:00,64.241540,null,null,18.360000,270,15,16090,Mostly Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+312,https://api.weather.gov/stations/KMCI,2025-04-19T00:41:00+00:00,68.525286,null,null,20.520000,340,11.700000,16090,Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+4,https://api.weather.gov/stations/KMIA,2025-04-19T00:53:00+00:00,59.869199,null,24.458807,18.360000,80,24.400000,16090,Mostly Clear
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+255,https://api.weather.gov/stations/KMSP,2025-04-19T00:53:00+00:00,46.310472,null,null,null,null,11.100000,16090,Mostly Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+205,https://api.weather.gov/stations/KORD,2025-04-19T00:51:00+00:00,66.453172,null,23.420722,null,null,23.300000,16090,Mostly Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+12,https://api.weather.gov/stations/KPDX,2025-04-19T00:53:00+00:00,14.201811,null,25.136381,9.360000,290,26.100000,16090,Partly Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+337,https://api.weather.gov/stations/KPHX,2025-04-19T00:51:00+00:00,28.265843,null,22.423608,29.520000,230,23.300000,16090,Mostly Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+137,https://api.weather.gov/stations/KSEA,2025-04-19T00:53:00+00:00,21.766336,null,20.493899,11.160000,180,21.700000,16090,Mostly Clear
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+5,https://api.weather.gov/stations/KSFO,2025-04-19T00:56:00+00:00,71.830366,null,null,null,null,13.900000,16090,Mostly Clear
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+44,https://api.weather.gov/stations/PANC,2025-04-19T00:53:00+00:00,null,2.540762,null,14.760000,260,5.600000,16090,Mostly Cloudy
+elevation,station,timestamp,relativeHumidity,windChill,heatIndex,windSpeed,windDirection,temperature,visibility,textDescription
+5,https://api.weather.gov/stations/PHNL,2025-04-19T00:53:00+00:00,68.612054,null,26.007093,14.760000,340,25.600000,16090,Mostly Cloudy

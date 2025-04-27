@@ -1,0 +1,21 @@
+1=station_id,2=state_name,3=city_name,4=url
+1=KATL,2=Georgia,3=Atlanta,4=https://api.weather.gov/stations/KATL/observations/latest
+1=KBGR,2=Maine,3=Bangor,4=https://api.weather.gov/stations/KBGR/observations/latest
+1=KCRP,2=Texas,3=Corpus Christi,4=https://api.weather.gov/stations/KCRP/observations/latest
+1=KDFW,2=Texas,3=Dallas-Fort Worth,4=https://api.weather.gov/stations/KDFW/observations/latest
+1=KGPI,2=Montana,3=Kalispell,4=https://api.weather.gov/stations/KGPI/observations/latest
+1=KIAH,2=Texas,3=Houston,4=https://api.weather.gov/stations/KIAH/observations/latest
+1=KINL,2=Minnesota,3=International Falls,4=https://api.weather.gov/stations/KINL/observations/latest
+1=KJFK,2=New York,3=New York,4=https://api.weather.gov/stations/KJFK/observations/latest
+1=KLAX,2=California,3=Los Angeles,4=https://api.weather.gov/stations/KLAX/observations/latest
+1=KMCI,2=Missouri,3=Kansas City,4=https://api.weather.gov/stations/KMCI/observations/latest
+1=KMIA,2=Florida,3=Miami,4=https://api.weather.gov/stations/KMIA/observations/latest
+1=KMSP,2=Minnesota,3=Minneapolis-Saint Paul,4=https://api.weather.gov/stations/KMSP/observations/latest
+1=KORD,2=Illinois,3=Chicago,4=https://api.weather.gov/stations/KORD/observations/latest
+1=KPDX,2=Oregon,3=Portland,4=https://api.weather.gov/stations/KPDX/observations/latest
+1=KPHX,2=Arizona,3=Pheonix,4=https://api.weather.gov/stations/KPHX/observations/latest
+1=KSEA,2=Washington,3=Seattle,4=https://api.weather.gov/stations/KSEA/observations/latest
+1=KSFO,2=California,3=San Francisco,4=https://api.weather.gov/stations/KSFO/observations/latest
+1=PANC,2=Alaska,3=Anchorage,4=https://api.weather.gov/stations/PANC/observations/latest
+1=PHNL,2=Hawaii,3=Honolulu,4=https://api.weather.gov/stations/PHNL/observations/latest
+1=KBRO,2=Texas,3=Brownsville,4=https://api.weather.gov/stations/KBRO/observations/latest

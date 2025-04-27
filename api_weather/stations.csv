@@ -1,0 +1,21 @@
+station_id,state_name,city_name,url
+KATL,Georgia,Atlanta,https://api.weather.gov/stations/KATL/observations/latest
+KBGR,Maine,Bangor,https://api.weather.gov/stations/KBGR/observations/latest
+KCRP,Texas,Corpus Christi,https://api.weather.gov/stations/KCRP/observations/latest
+KDFW,Texas,Dallas-Fort Worth,https://api.weather.gov/stations/KDFW/observations/latest
+KGPI,Montana,Kalispell,https://api.weather.gov/stations/KGPI/observations/latest
+KIAH,Texas,Houston,https://api.weather.gov/stations/KIAH/observations/latest
+KINL,Minnesota,International Falls,https://api.weather.gov/stations/KINL/observations/latest
+KJFK,New York,New York,https://api.weather.gov/stations/KJFK/observations/latest
+KLAX,California,Los Angeles,https://api.weather.gov/stations/KLAX/observations/latest
+KMCI,Missouri,Kansas City,https://api.weather.gov/stations/KMCI/observations/latest
+KMIA,Florida,Miami,https://api.weather.gov/stations/KMIA/observations/latest
+KMSP,Minnesota,Minneapolis-Saint Paul,https://api.weather.gov/stations/KMSP/observations/latest
+KORD,Illinois,Chicago,https://api.weather.gov/stations/KORD/observations/latest
+KPDX,Oregon,Portland,https://api.weather.gov/stations/KPDX/observations/latest
+KPHX,Arizona,Pheonix,https://api.weather.gov/stations/KPHX/observations/latest
+KSEA,Washington,Seattle,https://api.weather.gov/stations/KSEA/observations/latest
+KSFO,California,San Francisco,https://api.weather.gov/stations/KSFO/observations/latest
+PANC,Alaska,Anchorage,https://api.weather.gov/stations/PANC/observations/latest
+PHNL,Hawaii,Honolulu,https://api.weather.gov/stations/PHNL/observations/latest
+KBRO,Texas,Brownsville,https://api.weather.gov/stations/KBRO/observations/latest

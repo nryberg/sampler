@@ -1,0 +1,247 @@
+{
+  "elevation": 315,
+  "station": "https://api.weather.gov/stations/KATL",
+  "timestamp": "2025-04-19T00:52:00+00:00",
+  "relativeHumidity": 44.868447242658,
+  "windChill": null,
+  "heatIndex": 24.727120566891667,
+  "windSpeed": 11.16,
+  "windDirection": 150,
+  "temperature": 25,
+  "visibility": 16090,
+  "textDescription": "Mostly Clear"
+}
+{
+  "elevation": 59,
+  "station": "https://api.weather.gov/stations/KBGR",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 70.439505977909,
+  "windChill": 5.254708506063333,
+  "heatIndex": null,
+  "windSpeed": 7.56,
+  "windDirection": 140,
+  "temperature": 6.7,
+  "visibility": 16090,
+  "textDescription": "Cloudy"
+}
+{
+  "elevation": 13,
+  "station": "https://api.weather.gov/stations/KCRP",
+  "timestamp": "2025-04-19T00:51:00+00:00",
+  "relativeHumidity": 84.475861800671,
+  "windChill": null,
+  "heatIndex": 25.76131416924,
+  "windSpeed": 37.08,
+  "windDirection": 150,
+  "temperature": 25,
+  "visibility": 12870,
+  "textDescription": "Cloudy and Windy"
+}
+{
+  "elevation": 182,
+  "station": "https://api.weather.gov/stations/KDFW",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 52.688225660121,
+  "windChill": null,
+  "heatIndex": 27.792073961405556,
+  "windSpeed": 29.52,
+  "windDirection": 160,
+  "temperature": 27.2,
+  "visibility": 16090,
+  "textDescription": "Cloudy"
+}
+{
+  "elevation": 906,
+  "station": "https://api.weather.gov/stations/KGPI",
+  "timestamp": "2025-04-19T00:55:00+00:00",
+  "relativeHumidity": 29.916273112003,
+  "windChill": null,
+  "heatIndex": null,
+  "windSpeed": null,
+  "windDirection": null,
+  "temperature": 12.8,
+  "visibility": 16090,
+  "textDescription": "Clear"
+}
+{
+  "elevation": 33,
+  "station": "https://api.weather.gov/stations/KIAH",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 66.731286260605,
+  "windChill": null,
+  "heatIndex": 28.140426062712223,
+  "windSpeed": null,
+  "windDirection": null,
+  "temperature": 26.7,
+  "visibility": 16090,
+  "textDescription": "Mostly Cloudy"
+}
+{
+  "elevation": 361,
+  "station": "https://api.weather.gov/stations/KINL",
+  "timestamp": "2025-04-19T00:54:00+00:00",
+  "relativeHumidity": 66.374179406691,
+  "windChill": -2.2598773321994443,
+  "heatIndex": null,
+  "windSpeed": 14.76,
+  "windDirection": 300,
+  "temperature": 1.7,
+  "visibility": 16090,
+  "textDescription": "Cloudy"
+}
+{
+  "elevation": 7,
+  "station": "https://api.weather.gov/stations/KJFK",
+  "timestamp": "2025-04-19T00:51:00+00:00",
+  "relativeHumidity": 79.654510078888,
+  "windChill": null,
+  "heatIndex": null,
+  "windSpeed": 25.92,
+  "windDirection": 190,
+  "temperature": 11.7,
+  "visibility": 16090,
+  "textDescription": "Cloudy"
+}
+{
+  "elevation": 32,
+  "station": "https://api.weather.gov/stations/KLAX",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 64.241540272317,
+  "windChill": null,
+  "heatIndex": null,
+  "windSpeed": 18.36,
+  "windDirection": 270,
+  "temperature": 15,
+  "visibility": 16090,
+  "textDescription": "Mostly Cloudy"
+}
+{
+  "elevation": 312,
+  "station": "https://api.weather.gov/stations/KMCI",
+  "timestamp": "2025-04-19T00:41:00+00:00",
+  "relativeHumidity": 68.525286256056,
+  "windChill": null,
+  "heatIndex": null,
+  "windSpeed": 20.52,
+  "windDirection": 340,
+  "temperature": 11.7,
+  "visibility": 16090,
+  "textDescription": "Cloudy"
+}
+{
+  "elevation": 4,
+  "station": "https://api.weather.gov/stations/KMIA",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 59.869198871269,
+  "windChill": null,
+  "heatIndex": 24.458806859416665,
+  "windSpeed": 18.36,
+  "windDirection": 80,
+  "temperature": 24.4,
+  "visibility": 16090,
+  "textDescription": "Mostly Clear"
+}
+{
+  "elevation": 255,
+  "station": "https://api.weather.gov/stations/KMSP",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 46.310471804071,
+  "windChill": null,
+  "heatIndex": null,
+  "windSpeed": null,
+  "windDirection": null,
+  "temperature": 11.1,
+  "visibility": 16090,
+  "textDescription": "Mostly Cloudy"
+}
+{
+  "elevation": 205,
+  "station": "https://api.weather.gov/stations/KORD",
+  "timestamp": "2025-04-19T00:51:00+00:00",
+  "relativeHumidity": 66.453172358623,
+  "windChill": null,
+  "heatIndex": 23.420721722697223,
+  "windSpeed": null,
+  "windDirection": null,
+  "temperature": 23.3,
+  "visibility": 16090,
+  "textDescription": "Mostly Cloudy"
+}
+{
+  "elevation": 12,
+  "station": "https://api.weather.gov/stations/KPDX",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 14.20181129523,
+  "windChill": null,
+  "heatIndex": 25.136380628264444,
+  "windSpeed": 9.36,
+  "windDirection": 290,
+  "temperature": 26.1,
+  "visibility": 16090,
+  "textDescription": "Partly Cloudy"
+}
+{
+  "elevation": 337,
+  "station": "https://api.weather.gov/stations/KPHX",
+  "timestamp": "2025-04-19T00:51:00+00:00",
+  "relativeHumidity": 28.265842790616,
+  "windChill": null,
+  "heatIndex": 22.423608117310554,
+  "windSpeed": 29.52,
+  "windDirection": 230,
+  "temperature": 23.3,
+  "visibility": 16090,
+  "textDescription": "Mostly Cloudy"
+}
+{
+  "elevation": 137,
+  "station": "https://api.weather.gov/stations/KSEA",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 21.766335882272,
+  "windChill": null,
+  "heatIndex": 20.493898770259445,
+  "windSpeed": 11.16,
+  "windDirection": 180,
+  "temperature": 21.7,
+  "visibility": 16090,
+  "textDescription": "Mostly Clear"
+}
+{
+  "elevation": 5,
+  "station": "https://api.weather.gov/stations/KSFO",
+  "timestamp": "2025-04-19T00:56:00+00:00",
+  "relativeHumidity": 71.830365829443,
+  "windChill": null,
+  "heatIndex": null,
+  "windSpeed": null,
+  "windDirection": null,
+  "temperature": 13.9,
+  "visibility": 16090,
+  "textDescription": "Mostly Clear"
+}
+{
+  "elevation": 44,
+  "station": "https://api.weather.gov/stations/PANC",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": null,
+  "windChill": 2.5407621757344443,
+  "heatIndex": null,
+  "windSpeed": 14.76,
+  "windDirection": 260,
+  "temperature": 5.6,
+  "visibility": 16090,
+  "textDescription": "Mostly Cloudy"
+}
+{
+  "elevation": 5,
+  "station": "https://api.weather.gov/stations/PHNL",
+  "timestamp": "2025-04-19T00:53:00+00:00",
+  "relativeHumidity": 68.612054435067,
+  "windChill": null,
+  "heatIndex": 26.007092532471113,
+  "windSpeed": 14.76,
+  "windDirection": 340,
+  "temperature": 25.6,
+  "visibility": 16090,
+  "textDescription": "Mostly Cloudy"
+}

@@ -1,14 +1,10 @@
-# Using the stations.txt file, this script will pull the weather data for each station and save it to a csv file
-# I would like to pull the attributes in the attributes.txt file
-# I would like to pull the latest observation for each station
-
 import requests
 import json
 import csv
 import pandas as pd
 import numpy
 
-# Read in the stations.txt file
+# Read in the stations.csv file
 # This file contains the station id and the state name
 # The station id is used to pull the weather data
 # The state name is used to name the csv file
