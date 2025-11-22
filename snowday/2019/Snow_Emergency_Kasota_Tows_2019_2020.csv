@@ -1,0 +1,1247 @@
+﻿OBJECTID,Call_Taken,Customer,Location,Latitude,Longitude,Ward,Neighborho,Community,Tow_Zone,Day,Snow_Emerg
+1,12/30/2019 09:25pm,Snow Emergency,"2006 DUPONT AVE S,Minneapolis,MN",44.96237,-93.29343,7,Lowry Hill,Calhoun Isle,3,1,Kasota
+2,12/30/2019 09:28pm,Snow Emergency,"2006 DUPONT AVE S,Minneapolis,MN",44.96237,-93.29343,7,Lowry Hill,Calhoun Isle,1,1,Kasota
+3,12/30/2019 09:36pm,Snow Emergency,"1200 8TH ST SE,Minneapolis,MN",44.985312,-93.235291,3,Marcy Holmes,University,1,1,Kasota
+4,12/30/2019 09:37pm,Snow Emergency,"4805 Lyndale Ave N,Minneapolis,MN",45.04247,-93.28671,4,Lind - Bohanon,Camden,1,1,Kasota
+5,12/30/2019 09:39pm,Snow Emergency,"1435 8TH ST SE,Minneapolis,MN",44.984309,-93.23208,3,Marcy Holmes,University,4,1,Kasota
+6,12/30/2019 09:39pm,Snow Emergency,"4805 Lyndale Ave N,Minneapolis,MN",45.04247,-93.28671,4,Lind - Bohanon,Camden,3,1,Kasota
+7,12/30/2019 09:43pm,Snow Emergency,"3322 CHICAGO AVE S,Minneapolis,MN",44.94243,-93.26297,9,Central,Powderhorn,3,1,Kasota
+8,12/30/2019 09:45pm,Snow Emergency,"4643 LYNDALE AVE N ,Minneapolis,MN",45.03987,-93.28777,4,Lind - Bohanon,Camden,1,1,Kasota
+9,12/30/2019 09:47pm,Snow Emergency,"4729 LYNDALE AVE N ,Minneapolis,MN",45.04112,-93.28707,4,Lind - Bohanon,Camden,5,1,Kasota
+10,12/30/2019 09:58pm,Snow Emergency,"36TH & CHICAGO AVE S,Minneapolis,MN",44.93776,-93.26253,9,Central,Powderhorn,4,1,Kasota
+11,12/30/2019 09:59pm,Snow Emergency,"CHICAGO & LAKE ST ,Minneapolis,MN",44.94837,-93.26265,9,Midtown Phillips,Phillips,4,1,Kasota
+12,12/30/2019 09:59pm,Snow Emergency,"19TH & NICOLLET AVE S,Minneapolis,MN",44.96392,-93.2778,6,Steven's Square - Loring Heights,Central,4,1,Kasota
+13,12/30/2019 10:03pm,Snow Emergency,"1 19TH AVE S,Minneapolis,MN",44.975313,-93.245359,2,University of Minnesota,University,1,1,Kasota
+14,12/30/2019 10:04pm,Snow Emergency,"2100 DUPONT AVE S,Minneapolis,MN",44.96177,-93.29344,7,Lowry Hill,Calhoun Isle,3,1,Kasota
+15,12/30/2019 10:05pm,Snow Emergency,"1000 8TH ST SE,Minneapolis,MN",44.98617,-93.23808,3,Marcy Holmes,University,3,1,Kasota
+16,12/30/2019 10:06pm,Snow Emergency,"4537 4th ave s,Minneapolis,MN",44.92039,-93.26986,8,Regina,Nokomis,5,1,Kasota
+17,12/30/2019 10:06pm,Snow Emergency,"2701 2ND ST ,Minneapolis,MN",45.007238,-93.280441,5,Hawthorne,Near North,5,1,Kasota
+18,12/30/2019 10:08pm,Snow Emergency,"3819 LYNDALE AVE N ,Minneapolis,MN",45.02452,-93.28842,4,Webber - Camden,Camden,1,1,Kasota
+19,12/30/2019 10:10pm,Snow Emergency,"3320 CHICAGO AVE S,Minneapolis,MN",44.942333,-93.262705,9,Central,Powderhorn,3,1,Kasota
+20,12/30/2019 10:11pm,Snow Emergency,"36TH & CHICAGO AVE S,Minneapolis,MN",44.93776,-93.26253,9,Central,Powderhorn,5,1,Kasota
+21,12/30/2019 10:14pm,Snow Emergency,"3649 LYNDALE AVE S,Minneapolis,MN",44.936153,-93.287988,8,King Field,Southwest,5,1,Kasota
+22,12/30/2019 10:17pm,Snow Emergency,"401-499 university ave se,Minneapolis,MN",44.98532,-93.25015,3,Marcy Holmes,University,5,1,Kasota
+23,12/30/2019 10:21pm,Snow Emergency,"3550 LYNDALE AVE N ,Minneapolis,MN",45.01995,-93.2876,4,McKinley,Camden,4,1,Kasota
+24,12/30/2019 10:21pm,Snow Emergency,"600 UNIVERSITY AVE SE,Minneapolis,MN",44.9835,-93.24756,3,Marcy Holmes,University,3,1,Kasota
+25,12/30/2019 10:24pm,Snow Emergency,"1000 8TH ST SE,Minneapolis,MN",44.98617,-93.23808,3,Marcy Holmes,University,3,1,Kasota
+26,12/30/2019 10:24pm,Snow Emergency,"98-2 UNIVERSITY AVE SE,Minneapolis,MN",44.986755,-93.255062,3,Nicollet Island - East Bank,University,1,1,Kasota
+27,12/30/2019 10:25pm,Snow Emergency,"LAKE PLACE & IRVING AVE S ,Minneapolis,MN",44.95985,-93.29971,7,East Isles,Calhoun Isle,3,1,Kasota
+28,12/30/2019 10:27pm,Snow Emergency,"7TH & UNIVERSITY AVE SE,Minneapolis,MN",44.98338,-93.24628,3,Marcy Holmes,University,3,1,Kasota
+29,12/30/2019 10:28pm,Snow Emergency,"99 UNIVERSITY AVE NE,Minneapolis,MN",44.988968,-93.256872,3,Nicollet Island - East Bank,University,3,1,Kasota
+30,12/30/2019 10:30pm,Snow Emergency,"3317 LYNDALE AVE N ,Minneapolis,MN",45.01554,-93.28837,4,McKinley,Camden,1,1,Kasota
+31,12/30/2019 10:33pm,Snow Emergency,"1000 8TH ST SE,Minneapolis,MN",44.98617,-93.23808,3,Marcy Holmes,University,5,1,Kasota
+32,12/30/2019 10:34pm,Snow Emergency,"2401 2ND ST N ,Minneapolis,MN",45.003791,-93.280335,5,Hawthorne,Near North,1,1,Kasota
+33,12/30/2019 10:35pm,Snow Emergency,"700 8TH ST SE,Minneapolis,MN",44.98794,-93.24235,3,Marcy Holmes,University,5,1,Kasota
+34,12/30/2019 10:36pm,Snow Emergency,"2315 IRVING AVE S,Minneapolis,MN",44.95956,-93.29925,7,East Isles,Calhoun Isle,5,1,Kasota
+35,12/30/2019 10:40pm,Snow Emergency,"800 8TH ST SE,Minneapolis,MN",44.987532,-93.240879,3,Marcy Holmes,University,6,1,Kasota
+36,12/30/2019 10:40pm,Snow Emergency,"4400 CHICAGO AVE S,Minneapolis,MN",44.92307,-93.26295,8,Regina,Nokomis,4,1,Kasota
+37,12/30/2019 10:42pm,Snow Emergency,"4741 4TH AVE S,Minneapolis,MN",44.91666,-93.26992,8,Field,Nokomis,5,1,Kasota
+38,12/30/2019 10:44pm,Snow Emergency,"3200 CHICAGO AVE S,Minneapolis,MN",44.94457,-93.26301,9,Central,Powderhorn,5,1,Kasota
+39,12/30/2019 10:44pm,Snow Emergency,"4741 4TH AVE S,Minneapolis,MN",44.91666,-93.26992,8,Field,Nokomis,4,1,Kasota
+40,12/30/2019 10:46pm,Snow Emergency,"3101 4TH AVE S,Minneapolis,MN",44.9465,-93.26999,9,Central,Powderhorn,5,1,Kasota
+41,12/30/2019 10:47pm,Snow Emergency,"LAKE PL & IRVING AVE S,Minneapolis,MN",44.95985,-93.29971,7,East Isles,Calhoun Isle,1,1,Kasota
+42,12/30/2019 10:46pm,Snow Emergency,"1000 8TH ST SE,Minneapolis,MN",44.98617,-93.23808,3,Marcy Holmes,University,4,1,Kasota
+43,12/30/2019 10:49pm,Snow Emergency,"CHICAGO AVE & LAKE ST ,Minneapolis,MN",44.94837,-93.26265,9,Midtown Phillips,Phillips,6,1,Kasota
+44,12/30/2019 10:49pm,Snow Emergency,"27TH & IRVING AVE S,Minneapolis,MN",44.95406,-93.30056,7,East Isles,Calhoun Isle,1,1,Kasota
+45,12/30/2019 10:50pm,Snow Emergency,"29TH & IRVING AVE ,Minneapolis,MN",45.00957,-93.29937,5,Jordan,Near North,4,1,Kasota
+46,12/30/2019 10:51pm,Snow Emergency,"4600 CHICAGO AVE S,Minneapolis,MN",44.91953,-93.26298,8,Field,Nokomis,3,1,Kasota
+47,12/30/2019 10:52pm,Snow Emergency,"44TH & CHICAGO AVE S,Minneapolis,MN",44.92333,-93.26252,11,Northrop,Nokomis,4,1,Kasota
+48,12/30/2019 10:52pm,Snow Emergency,"701 UNIVERSITY AVE SE,Minneapolis,MN",44.98356,-93.24579,3,Marcy Holmes,University,4,1,Kasota
+49,12/30/2019 10:53pm,Snow Emergency,"2401-2599 2ND ST N ,Minneapolis,MN",45.003791,-93.280335,5,Hawthorne,Near North,1,1,Kasota
+50,12/30/2019 10:54pm,Snow Emergency,"1201-1299 2nd st n,Minneapolis,MN",44.991719,-93.279911,5,North Loop,Central,4,1,Kasota
+51,12/30/2019 10:54pm,Snow Emergency,"402 4TH ST SE,Minneapolis,MN",44.985897,-93.249709,3,Marcy Holmes,University,4,1,Kasota
+52,12/30/2019 10:55pm,Snow Emergency,"700 UNIVERSITY AVE SE,Minneapolis,MN",44.98297,-93.24622,3,Marcy Holmes,University,3,1,Kasota
+53,12/30/2019 10:55pm,Snow Emergency,"26TH & IRVING AVE S,Minneapolis,MN",44.95611,-93.29974,7,East Isles,Calhoun Isle,5,1,Kasota
+54,12/30/2019 10:55pm,Snow Emergency,"1201 2ND AVE N ,Minneapolis,MN",44.978835,-93.295791,5,Harrison,Near North,1,1,Kasota
+55,12/30/2019 10:56pm,Snow Emergency,"201 21ST AVE N ,Minneapolis,MN",45.000115,-93.28039,5,Hawthorne,Near North,6,1,Kasota
+56,12/30/2019 10:58pm,Snow Emergency,"501 2ND ST N ,Minneapolis,MN",44.98713,-93.27452,3,North Loop,Central,3,1,Kasota
+57,12/30/2019 10:59pm,Snow Emergency,"THE MALL & IRVING AVE S,Minneapolis,MN",44.94992,-93.30209,7,East Isles,Calhoun Isle,4,1,Kasota
+58,12/30/2019 10:59pm,Snow Emergency,"3015 IRVING AVE S,Minneapolis,MN",44.94782,-93.301975,10,ECCO,Calhoun Isle,1,1,Kasota
+59,12/30/2019 11:00pm,Snow Emergency,"29TH & IRVING AVE ,Minneapolis,MN",45.00957,-93.29937,5,Jordan,Near North,4,1,Kasota
+60,12/30/2019 11:02pm,Snow Emergency,"4TH ST SE & 6TH AVE SE,Minneapolis,MN",44.98492,-93.24688,3,Marcy Holmes,University,5,1,Kasota
+61,12/30/2019 11:03pm,Snow Emergency,"39TH & CHICAGO AVE ,Minneapolis,MN",44.93236,-93.26251,8,Bryant,Powderhorn,3,1,Kasota
+62,12/30/2019 11:03pm,Snow Emergency,"4831 CHICAGO AVE S ,Minneapolis,MN",44.914909,-93.262485,11,Northrop,Nokomis,5,1,Kasota
+63,12/30/2019 11:05pm,Snow Emergency,"700 UNIVERSITY AVE SE,Minneapolis,MN",44.98297,-93.24622,3,Marcy Holmes,University,5,1,Kasota
+64,12/30/2019 10:44pm,Snow Emergency,"4741 4TH AVE S,Minneapolis,MN",44.91666,-93.26992,8,Field,Nokomis,4,1,Kasota
+65,12/30/2019 11:10pm,Snow Emergency,"29TH & IRVING AVE ,Minneapolis,MN",45.00957,-93.29937,5,Jordan,Near North,5,1,Kasota
+66,12/30/2019 11:14pm,Snow Emergency,"748 4TH ST SE,Minneapolis,MN",44.983957,-93.24484,3,Marcy Holmes,University,6,1,Kasota
+67,12/30/2019 11:16pm,Snow Emergency,"717 UNIVERSITY AVE NE,Minneapolis,MN",44.996346,-93.261914,3,St. Anthony West,Northeast,4,1,Kasota
+68,12/30/2019 11:21pm,Snow Emergency,"780 UNIVERSITY AVE SE,Minneapolis,MN",44.982844,-93.245283,3,Marcy Holmes,University,3,1,Kasota
+69,12/30/2019 11:22pm,Snow Emergency,"40TH & CHICAGO AVE ,Minneapolis,MN",44.93055,-93.26249,8,Bryant,Powderhorn,6,1,Kasota
+70,12/30/2019 11:25pm,Snow Emergency,"3215 LYNDALE AVE N,Minneapolis,MN",45.01364,-93.28837,4,McKinley,Camden,5,1,Kasota
+71,12/30/2019 11:25pm,Snow Emergency,"GRANT & LASALLE AVE ,Minneapolis,MN",44.96985,-93.27933,7,Loring Park,Central,3,1,Kasota
+72,12/30/2019 11:26pm,Snow Emergency,"1300 BLK LASALLE AVE,Minneapolis,MN",44.970431,-93.279455,7,Loring Park,Central,3,1,Kasota
+73,12/30/2019 11:27pm,Snow Emergency,"401-499 2ND ST N ,Minneapolis,MN",44.98629,-93.27336,3,North Loop,Central,1,1,Kasota
+74,12/30/2019 11:27pm,Snow Emergency,"2900 IRVING AVE S,Minneapolis,MN",44.94927,-93.30224,7,East Isles,Calhoun Isle,3,1,Kasota
+75,12/30/2019 11:29pm,Snow Emergency,"600-698 UNIVERSITY AVE SE,Minneapolis,MN",44.9835,-93.24756,3,Marcy Holmes,University,5,1,Kasota
+76,12/30/2019 11:29pm,Snow Emergency,"300 8TH SE,Minneapolis,MN",44.974316,-93.268895,7,Downtown West,Central,1,1,Kasota
+77,12/30/2019 11:30pm,Snow Emergency,"400 8TH ST SE,Minneapolis,MN",44.98966,-93.24676,3,Marcy Holmes,University,3,1,Kasota
+78,12/30/2019 11:36pm,Snow Emergency,"GRANT & LASALLE AVE ,Minneapolis,MN",44.96985,-93.27933,7,Loring Park,Central,3,1,Kasota
+79,12/30/2019 11:36pm,Snow Emergency,"27TH & HENNEPIN AVE ,Minneapolis,MN",44.95372,-93.29763,7,East Isles,Calhoun Isle,5,1,Kasota
+80,12/30/2019 11:38pm,Snow Emergency,"GRANT & LASALLE AVE ,Minneapolis,MN",44.96985,-93.27933,7,Loring Park,Central,3,1,Kasota
+81,12/30/2019 11:43pm,Snow Emergency,"31ST & IRVING AVE S,Minneapolis,MN",44.94655,-93.30211,10,ECCO,Calhoun Isle,4,1,Kasota
+82,12/30/2019 11:45pm,Snow Emergency,"40TH & BLOOMINGTON AVE S,Minneapolis,MN",44.93051,-93.25239,8,Bancroft,Powderhorn,5,1,Kasota
+83,12/30/2019 11:47pm,Snow Emergency,"600 8TH ST SE,Minneapolis,MN",44.98857,-93.24368,3,Marcy Holmes,University,1,1,Kasota
+84,12/30/2019 11:47pm,Snow Emergency,"1417 LASALLE AVE ,Minneapolis,MN",44.96824,-93.2789,7,Loring Park,Central,3,1,Kasota
+85,12/30/2019 11:49pm,Snow Emergency,"4001 BLOOMINGTON AVE S,Minneapolis,MN",44.92993,-93.25234,8,Bancroft,Powderhorn,3,1,Kasota
+86,12/30/2019 11:52pm,Snow Emergency,"1362 LASALLE AVE ,Minneapolis,MN",44.96934,-93.27976,7,Loring Park,Central,5,1,Kasota
+87,12/30/2019 11:54pm,Snow Emergency,"1362 LASALLE AVE ,Minneapolis,MN",44.96934,-93.27976,7,Loring Park,Central,6,1,Kasota
+88,12/30/2019 11:57pm,Snow Emergency,"500 8TH ST SE,Minneapolis,MN",44.989182,-93.245019,3,Marcy Holmes,University,1,1,Kasota
+89,12/30/2019 11:57pm,Snow Emergency,"1417 LASALLE AVE S,Minneapolis,MN",44.96824,-93.2789,7,Loring Park,Central,5,1,Kasota
+90,12/31/2019 12:02am,Snow Emergency,"1100 VAN WHITE BLVD,Minneapolis,MN",44.98934,-93.29227,5,Near - North,Near North,3,1,Kasota
+91,12/31/2019 12:03am,Snow Emergency,"1462 LASALLE AVE,Minneapolis,MN",44.968123,-93.279513,7,Loring Park,Central,1,1,Kasota
+92,12/31/2019 12:06am,Snow Emergency,"300-398 11 AVE SE,Minneapolis,MN",44.981179,-93.240494,3,Marcy Holmes,University,3,1,Kasota
+93,12/31/2019 12:08am,Snow Emergency,"1100 VAN WHITE BLVD,Minneapolis,MN",44.98934,-93.29227,5,Near - North,Near North,1,1,Kasota
+94,12/31/2019 12:09am,Snow Emergency,"301 11TH AVE SE,Minneapolis,MN",44.981382,-93.240746,3,Marcy Holmes,University,4,1,Kasota
+95,12/31/2019 12:09am,Snow Emergency,"1517 LASALLE AVE ,Minneapolis,MN",44.96711,-93.2789,7,Loring Park,Central,4,1,Kasota
+96,12/31/2019 12:13am,Snow Emergency,"1425 LASALLE AVE S,Minneapolis,MN",44.96798,-93.27908,7,Loring Park,Central,1,1,Kasota
+97,12/30/2019 11:35am,Snow Emergency,"38TH ST E & CHICAGO AVE S,Minneapolis,MN",44.93416,-93.26248,8,Powderhorn Park,Powderhorn,6,1,Kasota
+98,12/31/2019 12:14am,Snow Emergency,"311 11TH AVE SE,Minneapolis,MN",44.98168,-93.24067,3,Marcy Holmes,University,4,1,Kasota
+99,12/31/2019 12:15am,Snow Emergency,"4200 CHICAGO AVE S,Minneapolis,MN",44.92678,-93.26289,8,Regina,Nokomis,5,1,Kasota
+100,12/31/2019 12:17am,Snow Emergency,"1501 LASALLE ,Minneapolis,MN",44.96746,-93.27908,7,Loring Park,Central,1,1,Kasota
+101,12/31/2019 12:22am,Snow Emergency,"3125 BLOOMINGTON AVE S,Minneapolis,MN",44.94572,-93.2521,9,Powderhorn Park,Powderhorn,1,1,Kasota
+102,12/31/2019 12:22am,Snow Emergency,"1362 LASALLE AVE ,Minneapolis,MN",44.96934,-93.27976,7,Loring Park,Central,6,1,Kasota
+103,12/31/2019 12:25am,Snow Emergency,"1525 LASALLE AVE S,Minneapolis,MN",44.96686,-93.2789,7,Loring Park,Central,1,1,Kasota
+104,12/31/2019 12:26am,Snow Emergency,"1530 LASALLE AVE S,Minneapolis,MN",44.96668,-93.2797,7,Loring Park,Central,5,1,Kasota
+105,12/31/2019 12:27am,Snow Emergency,"1530 LASALLE AVE ,Minneapolis,MN",44.96668,-93.2797,7,Loring Park,Central,6,1,Kasota
+106,12/31/2019 12:28am,Snow Emergency,"2122 EMERSON AVE N ,Minneapolis,MN",45.00108,-93.29366,5,Hawthorne,Near North,4,1,Kasota
+107,12/31/2019 12:29am,Snow Emergency,"4TH ST SE & 6TH AVE SE,Minneapolis,MN",44.98492,-93.24688,3,Marcy Holmes,University,3,1,Kasota
+108,12/31/2019 12:29am,Snow Emergency,"2000 E 31ST ST,Minneapolis,MN",44.94668,-93.243559,9,Corcoran,Powderhorn,5,1,Kasota
+109,12/31/2019 12:30am,Snow Emergency,"1800 LASALLE AVE S,Minneapolis,MN",44.96521,-93.27963,7,Steven's Square - Loring Heights,Central,3,1,Kasota
+110,12/31/2019 12:31am,Snow Emergency,"1399 UPTON AVE N ,Minneapolis,MN",44.993179,-93.314755,5,Willard - Hay,Near North,3,1,Kasota
+111,12/31/2019 12:32am,Snow Emergency,"2304 EMERSON AVE N ,Minneapolis,MN",45.00282,-93.29367,5,Hawthorne,Near North,1,1,Kasota
+112,12/31/2019 12:34am,Snow Emergency,"2122 EMERSON AVE N ,Minneapolis,MN",45.00108,-93.29366,5,Hawthorne,Near North,2,1,Kasota
+113,12/31/2019 12:35am,Snow Emergency,"299 11TH AVE SE,Minneapolis,MN",44.981199,-93.240974,3,Marcy Holmes,University,1,1,Kasota
+114,12/31/2019 12:37am,Snow Emergency,"1806 LASALLE AVE,Minneapolis,MN",44.96503,-93.27971,7,Steven's Square - Loring Heights,Central,4,1,Kasota
+115,12/31/2019 12:39am,Snow Emergency,"1806 LASALLE ,Minneapolis,MN",44.96503,-93.27971,7,Steven's Square - Loring Heights,Central,6,1,Kasota
+116,12/31/2019 12:39am,Snow Emergency,"4900 CHICAGO AVE S,Minneapolis,MN",44.91409,-93.26303,8,Field,Nokomis,3,1,Kasota
+117,12/31/2019 12:39am,Snow Emergency,"299 11TH AVE SE,Minneapolis,MN",44.981199,-93.240974,3,Marcy Holmes,University,2,1,Kasota
+118,12/31/2019 12:43am,Snow Emergency,"2200 E 31 ST ,Minneapolis,MN",44.946685,-93.240429,9,Corcoran,Powderhorn,6,1,Kasota
+119,12/31/2019 12:44am,Snow Emergency,"499 2ND ST N ,Minneapolis,MN",44.986812,-93.273626,3,North Loop,Central,3,1,Kasota
+120,12/31/2019 12:45am,Snow Emergency,"3008 EMERSON AVE N ,Minneapolis,MN",45.01173,-93.29395,5,Hawthorne,Near North,3,1,Kasota
+121,12/31/2019 12:49am,Snow Emergency,"1806 LASALLE AVE S,Minneapolis,MN",44.96503,-93.27971,7,Steven's Square - Loring Heights,Central,2,1,Kasota
+122,12/31/2019 12:49am,Snow Emergency,"4898 UPTON AVE S,Minneapolis,MN",44.91436,-93.315175,13,Fulton,Southwest,1,1,Kasota
+123,12/31/2019 12:51am,Snow Emergency,"498 2ND ST N ,Minneapolis,MN",44.987044,-93.273441,3,North Loop,Central,4,1,Kasota
+124,12/31/2019 12:54am,Snow Emergency,"3226 EMERSON AVE N ,Minneapolis,MN",45.01403,-93.29394,4,Folwell,Camden,4,1,Kasota
+125,12/31/2019 12:59am,Snow Emergency,"3200 BLOOMINGTON AVE S,Minneapolis,MN",44.94458,-93.25279,9,Powderhorn Park,Powderhorn,4,1,Kasota
+126,12/31/2019 01:00am,Snow Emergency,"3500 BLOOMINGTON AVE S,Minneapolis,MN",44.93937,-93.25266,9,Powderhorn Park,Powderhorn,3,1,Kasota
+127,12/31/2019 01:00am,Snow Emergency,"1806 LASALLE AVE ,Minneapolis,MN",44.96503,-93.27971,7,Steven's Square - Loring Heights,Central,3,1,Kasota
+128,12/31/2019 01:02am,Snow Emergency,"1001 2ND ST SE,Minneapolis,MN",44.981019,-93.243233,3,Marcy Holmes,University,4,1,Kasota
+129,12/31/2019 01:02am,Snow Emergency,"1800 LASALLE AVE S,Minneapolis,MN",44.96521,-93.27963,7,Steven's Square - Loring Heights,Central,6,1,Kasota
+130,12/31/2019 01:03am,Snow Emergency,"2200 E 31ST ST ,Minneapolis,MN",44.946685,-93.240429,9,Corcoran,Powderhorn,1,1,Kasota
+131,12/31/2019 01:07am,Snow Emergency,"4700 MINNEHAHA AVE S,Minneapolis,MN",44.91808,-93.2145,12,Hiawatha,Longfellow,3,1,Kasota
+132,12/31/2019 01:08am,Snow Emergency,"1822 LASALLE AVE S,Minneapolis,MN",44.96444,-93.27985,7,Steven's Square - Loring Heights,Central,4,1,Kasota
+133,12/31/2019 01:09am,Snow Emergency,"1822 LASALLE AVE S,Minneapolis,MN",44.96444,-93.27985,7,Steven's Square - Loring Heights,Central,1,1,Kasota
+134,12/31/2019 01:10am,Snow Emergency,"3311 FREMONT AVE N ,Minneapolis,MN",45.01537,-93.29594,4,Folwell,Camden,2,1,Kasota
+135,12/31/2019 01:15am,Snow Emergency,"2414 EMERSON AVE N ,Minneapolis,MN",45.00428,-93.29366,5,Hawthorne,Near North,6,1,Kasota
+136,12/31/2019 01:16am,Snow Emergency,"3143 BLOOMINGTON AVE S,Minneapolis,MN",44.94527,-93.2521,9,Powderhorn Park,Powderhorn,1,1,Kasota
+137,12/31/2019 01:16am,Snow Emergency,"1822 LASALLE AVE,Minneapolis,MN",44.96444,-93.27985,7,Steven's Square - Loring Heights,Central,4,1,Kasota
+138,12/31/2019 01:16am,Snow Emergency,"301 10TH AVE N ,Minneapolis,MN",44.989199,-93.281839,3,North Loop,Central,1,1,Kasota
+139,12/31/2019 01:17am,Snow Emergency,"1362 LASALLE AVE S,Minneapolis,MN",44.96934,-93.27976,7,Loring Park,Central,3,1,Kasota
+140,12/31/2019 01:17am,Snow Emergency,"220 11TH AVE SE,Minneapolis,MN",44.980404,-93.241529,2,Marcy Holmes,University,6,1,Kasota
+141,12/31/2019 01:18am,Snow Emergency,"1822 LASALLE AVE,Minneapolis,MN",44.96444,-93.27985,7,Steven's Square - Loring Heights,Central,1,1,Kasota
+142,12/31/2019 01:19am,Snow Emergency,"301 10TH AVE N ,Minneapolis,MN",44.989199,-93.281839,3,North Loop,Central,4,1,Kasota
+143,12/31/2019 01:19am,Snow Emergency,"1822 LASALLE AVE ,Minneapolis,MN",44.96444,-93.27985,7,Steven's Square - Loring Heights,Central,3,1,Kasota
+144,12/31/2019 01:20am,Snow Emergency,"3393 FREMONT AVE N ,Minneapolis,MN",45.016488,-93.295725,4,Folwell,Camden,2,1,Kasota
+145,12/31/2019 01:20am,Snow Emergency,"220 11TH AVE SE,Minneapolis,MN",44.980404,-93.241529,2,Marcy Holmes,University,3,1,Kasota
+146,12/31/2019 01:22am,Snow Emergency,"3311 FREMONT AVE N ,Minneapolis,MN",45.01537,-93.29594,4,Folwell,Camden,4,1,Kasota
+147,12/31/2019 01:22am,Snow Emergency,"1932 LASALLE AVE ,Minneapolis,MN",44.963027,-93.279557,7,Steven's Square - Loring Heights,Central,6,1,Kasota
+148,12/31/2019 01:22am,Snow Emergency,"2567 ESSEX ST SE,Minneapolis,MN",44.971244,-93.22197,2,Prospect Park - East River Road,University,6,1,Kasota
+149,12/31/2019 01:26am,Snow Emergency,"498 2ND ST N ,Minneapolis,MN",44.987044,-93.273441,3,North Loop,Central,4,1,Kasota
+150,12/31/2019 01:27am,Snow Emergency,"4600 MINNEHAHA AVE ,Minneapolis,MN",44.919409,-93.214893,12,Hiawatha,Longfellow,3,1,Kasota
+151,12/31/2019 01:28am,Snow Emergency,"307 16TH AVE SE,Minneapolis,MN",44.97878,-93.23381,2,University of Minnesota,University,4,1,Kasota
+152,12/31/2019 01:30am,Snow Emergency,"1800 E 31ST ST,Minneapolis,MN",44.94675,-93.24852,9,Powderhorn Park,Powderhorn,3,1,Kasota
+153,12/31/2019 01:31am,Snow Emergency,"2567 ESSEX ST SE,Minneapolis,MN",44.971244,-93.22197,2,Prospect Park - East River Road,University,4,1,Kasota
+154,12/31/2019 01:32am,Snow Emergency,"1907 LASALLE AVE,Minneapolis,MN",44.96393,-93.279131,7,Steven's Square - Loring Heights,Central,3,1,Kasota
+155,12/31/2019 01:33am,Snow Emergency,"2700 E 38TH ST ,Minneapolis,MN",44.93423,-93.23302,12,Standish,Powderhorn,6,1,Kasota
+156,12/31/2019 01:31am,Snow Emergency,"31ST & HENNEPIN AVE ,Minneapolis,MN",44.9466,-93.29832,10,ECCO,Calhoun Isle,6,1,Kasota
+157,12/31/2019 01:35am,Snow Emergency,"4901 UPTON AVE S,Minneapolis,MN",44.91409,-93.31468,13,Fulton,Southwest,3,1,Kasota
+158,12/31/2019 01:36am,Snow Emergency,"3901 4TH AVE S,Minneapolis,MN",44.93214,-93.26989,8,Bryant,Powderhorn,6,1,Kasota
+159,12/31/2019 01:38am,Snow Emergency,"700 E 15TH ST ,Minneapolis,MN",44.968195,-93.2649,7,Elliot Park,Central,2,1,Kasota
+160,12/31/2019 01:40am,Snow Emergency,"3427 FREMONT AVE N ,Minneapolis,MN",45.01758,-93.29594,4,Folwell,Camden,1,1,Kasota
+161,12/31/2019 01:41am,Snow Emergency,"3901 4TH AVE S,Minneapolis,MN",44.93214,-93.26989,8,Bryant,Powderhorn,6,1,Kasota
+162,12/31/2019 01:45am,Snow Emergency,"4599 NICOLLET AVE S,Minneapolis,MN",44.91976,-93.277815,8,King Field,Southwest,6,1,Kasota
+163,12/31/2019 01:45am,Snow Emergency,"2630 ESSEX ST SE,Minneapolis,MN",44.97045,-93.220764,2,Prospect Park - East River Road,University,5,1,Kasota
+164,12/31/2019 01:46am,Snow Emergency,"3443 FREMONT AVE N ,Minneapolis,MN",45.01802,-93.29594,4,Folwell,Camden,2,1,Kasota
+165,12/31/2019 01:48am,Snow Emergency,"27TH & ESSEX ST SE,Minneapolis,MN",44.97037,-93.22019,2,Prospect Park - East River Road,University,5,1,Kasota
+166,12/31/2019 01:50am,Snow Emergency,"700 15TH ST E,Minneapolis,MN",44.968195,-93.2649,7,Elliot Park,Central,3,1,Kasota
+167,12/31/2019 01:50am,Snow Emergency,"700 15TH ST E,Minneapolis,MN",44.968195,-93.2649,7,Elliot Park,Central,4,1,Kasota
+168,12/31/2019 01:51am,Snow Emergency,"698 WASHINGTON AVE N ,Minneapolis,MN",44.987424,-93.276344,3,North Loop,Central,3,1,Kasota
+169,12/31/2019 01:53am,Snow Emergency,"3407 FREMONT AVE N ,Minneapolis,MN",45.01704,-93.29594,4,Folwell,Camden,5,1,Kasota
+170,12/31/2019 01:54am,Snow Emergency,"700 15TH ST E,Minneapolis,MN",44.968195,-93.2649,7,Elliot Park,Central,3,1,Kasota
+171,12/31/2019 01:58am,Snow Emergency,"2630 ESSEX ST SE,Minneapolis,MN",44.97045,-93.220764,2,Prospect Park - East River Road,University,1,1,Kasota
+172,12/31/2019 01:58am,Snow Emergency,"2624 ESSEX ST SE,Minneapolis,MN",44.9703,-93.22077,2,Prospect Park - East River Road,University,5,1,Kasota
+173,12/31/2019 01:59am,Snow Emergency,"3447 FREMONT AVE N ,Minneapolis,MN",45.01813,-93.29595,4,Folwell,Camden,6,1,Kasota
+174,12/31/2019 02:01am,Snow Emergency,"224 7TH AVE N ,Minneapolis,MN",44.987289,-93.276999,3,North Loop,Central,4,1,Kasota
+175,12/31/2019 02:03am,Snow Emergency,"2624 ESSEX ST SE,Minneapolis,MN",44.9703,-93.22077,2,Prospect Park - East River Road,University,6,1,Kasota
+176,12/31/2019 02:05am,Snow Emergency,"700 15TH ST E,Minneapolis,MN",44.968195,-93.2649,7,Elliot Park,Central,2,1,Kasota
+177,12/31/2019 02:08am,Snow Emergency,"1398 WASHINGTON AVE N ,Minneapolis,MN",44.99294,-93.281365,5,Near - North,Near North,1,1,Kasota
+178,12/31/2019 02:09am,Snow Emergency,"600 DELAWARE ST SE,Minneapolis,MN",44.972395,-93.23008,2,University of Minnesota,University,4,1,Kasota
+179,12/31/2019 02:10am,Snow Emergency,"3451 FREMONT AVE N ,Minneapolis,MN",45.01824,-93.29594,4,Folwell,Camden,5,1,Kasota
+180,12/31/2019 02:10am,Snow Emergency,"2705 E 38TH ST ,Minneapolis,MN",44.93395,-93.2326,12,Standish,Powderhorn,1,1,Kasota
+181,12/31/2019 02:11am,Snow Emergency,"600 DELWARE ST SE,Minneapolis,MN",44.972395,-93.23008,2,University of Minnesota,University,6,1,Kasota
+182,12/31/2019 02:11am,Snow Emergency,"1119 7TH ST N ,Minneapolis,MN",44.990164,-93.29208,5,Near - North,Near North,2,1,Kasota
+183,12/31/2019 02:11am,Snow Emergency,"700 15TH ST E,Minneapolis,MN",44.968195,-93.2649,7,Elliot Park,Central,2,1,Kasota
+184,12/31/2019 02:14am,Snow Emergency,"600 DELWARE ST SE,Minneapolis,MN",44.972395,-93.23008,2,University of Minnesota,University,1,1,Kasota
+185,12/31/2019 02:15am,Snow Emergency,"4600 MINNEHAHA AVE ,Minneapolis,MN",44.919409,-93.214893,12,Hiawatha,Longfellow,3,1,Kasota
+186,12/31/2019 02:18am,Snow Emergency,"2700 E 38TH ST ,Minneapolis,MN",44.93423,-93.23302,12,Standish,Powderhorn,4,1,Kasota
+187,12/31/2019 12:35am,Snow Emergency,"33RD & HENNEPIN AVE S,Minneapolis,MN",44.94292,-93.29836,10,ECCO,Calhoun Isle,3,1,Kasota
+188,12/31/2019 02:20am,Snow Emergency,"1800 E 31ST ST ,Minneapolis,MN",44.94675,-93.24852,9,Powderhorn Park,Powderhorn,2,1,Kasota
+189,12/31/2019 02:26am,Snow Emergency,"3500 NICOLLET AVE S,Minneapolis,MN",44.93935,-93.27827,8,Lyndale,Powderhorn,3,1,Kasota
+190,12/31/2019 02:31am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.96066,-93.28008,10,Whittier,Powderhorn,3,1,Kasota
+191,12/31/2019 02:34am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.96066,-93.28008,10,Whittier,Powderhorn,4,1,Kasota
+192,12/31/2019 02:37am,Snow Emergency,"3614 FREMONT AVE N ,Minneapolis,MN",45.02082,-93.29523,4,Folwell,Camden,1,1,Kasota
+193,12/31/2019 02:38am,Snow Emergency,"2000 9TH ST S,Minneapolis,MN",44.964144,-93.243972,6,Seward,Longfellow,3,1,Kasota
+194,12/31/2019 02:42am,Snow Emergency,"4350 FREMONT AVE N ,Minneapolis,MN",45.03503,-93.29522,4,Webber - Camden,Camden,6,1,Kasota
+195,12/31/2019 02:41am,Snow Emergency,"2711 W 44TH ST ,Minneapolis,MN",44.92315,-93.31431,13,Linden Hills,Southwest,2,1,Kasota
+196,12/31/2019 02:42am,Snow Emergency,"2631 W 44TH ST ,Minneapolis,MN",44.92297,-93.31321,13,Linden Hills,Southwest,5,1,Kasota
+197,12/31/2019 02:44am,Snow Emergency,"4333 FREMONT AVE N ,Minneapolis,MN",45.03431,-93.29613,4,Webber - Camden,Camden,4,1,Kasota
+198,12/31/2019 02:45am,Snow Emergency,"900 20TH AVE S,Minneapolis,MN",44.96357,-93.2445,6,Seward,Longfellow,5,1,Kasota
+199,12/31/2019 02:45am,Snow Emergency,"2115 BLAISDELL AVE S,Minneapolis,MN",44.96133,-93.27912,10,Whittier,Powderhorn,5,1,Kasota
+200,12/31/2019 02:48am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.96066,-93.28008,10,Whittier,Powderhorn,4,1,Kasota
+201,12/31/2019 02:53am,Snow Emergency,"2517 E 38TH ST ,Minneapolis,MN",44.933985,-93.235197,12,Standish,Powderhorn,3,1,Kasota
+202,12/31/2019 02:55am,Snow Emergency,"2901 W 43RD ST ,Minneapolis,MN",44.924646,-93.316257,13,Linden Hills,Southwest,2,1,Kasota
+203,12/31/2019 02:57am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.96066,-93.28008,10,Whittier,Powderhorn,5,1,Kasota
+204,12/31/2019 02:57am,Snow Emergency,"2711 W 44TH ST,Minneapolis,MN",44.92315,-93.31431,13,Linden Hills,Southwest,3,1,Kasota
+205,12/31/2019 03:00am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.96066,-93.28008,10,Whittier,Powderhorn,3,1,Kasota
+206,12/31/2019 03:00am,Snow Emergency,"2416 BLAISDELL AVE S,Minneapolis,MN",44.95852,-93.28009,10,Whittier,Powderhorn,1,1,Kasota
+207,12/31/2019 03:01am,Snow Emergency,"600 DELAWARE ST SE,Minneapolis,MN",44.972395,-93.23008,2,University of Minnesota,University,3,1,Kasota
+208,12/31/2019 03:04am,Snow Emergency,"2553 FREMONT AVE N ,Minneapolis,MN",45.005539,-93.295795,5,Jordan,Near North,4,1,Kasota
+209,12/31/2019 03:06am,Snow Emergency,"2199 9TH ST S,Minneapolis,MN",44.963855,-93.241121,6,Seward,Longfellow,3,1,Kasota
+210,12/31/2019 03:10am,Snow Emergency,"1808 COMO AVE SE,Minneapolis,MN",44.98756,-93.22634,2,Como,University,5,1,Kasota
+211,12/31/2019 03:11am,Snow Emergency,"2620 FREMONT AVE N ,Minneapolis,MN",45.00689,-93.29522,5,Jordan,Near North,2,1,Kasota
+212,12/31/2019 03:13am,Snow Emergency,"220 11TH AVE SE,Minneapolis,MN",44.980404,-93.241529,2,Marcy Holmes,University,3,1,Kasota
+213,12/31/2019 03:13am,Snow Emergency,"2415 BLAISDELL AVE S,Minneapolis,MN",44.958489,-93.279475,10,Whittier,Powderhorn,3,1,Kasota
+214,12/31/2019 03:13am,Snow Emergency,"2414 BLAISDELL AVE S,Minneapolis,MN",44.958489,-93.279745,10,Whittier,Powderhorn,3,1,Kasota
+215,12/31/2019 03:14am,Snow Emergency,"2653 FREMONT AVE N ,Minneapolis,MN",45.00761,-93.29592,5,Jordan,Near North,4,1,Kasota
+216,12/31/2019 03:14am,Snow Emergency,"2101 9TH ST S,Minneapolis,MN",44.963855,-93.242276,6,Seward,Longfellow,4,1,Kasota
+217,12/31/2019 03:27am,Snow Emergency,"2450 BLAISDELL AVE S,Minneapolis,MN",44.95749,-93.2801,10,Whittier,Powderhorn,2,1,Kasota
+218,12/31/2019 03:29am,Snow Emergency,"2429 BLAISDELL AVE S,Minneapolis,MN",44.958077,-93.279475,10,Whittier,Powderhorn,6,1,Kasota
+219,12/31/2019 03:32am,Snow Emergency,"2399 9TH ST S,Minneapolis,MN",44.963825,-93.237985,6,Seward,Longfellow,1,1,Kasota
+220,12/31/2019 03:34am,Snow Emergency,"3825 28TH AVE S,Minneapolis,MN",44.93331,-93.23173,12,Standish,Powderhorn,1,1,Kasota
+221,12/31/2019 03:34am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.96066,-93.28008,10,Whittier,Powderhorn,2,1,Kasota
+222,12/31/2019 03:35am,Snow Emergency,"2415 BLAISDELL AVE S,Minneapolis,MN",44.958489,-93.279475,10,Whittier,Powderhorn,4,1,Kasota
+223,12/31/2019 03:37am,Snow Emergency,"2415 BLAISDELL AVE S,Minneapolis,MN",44.958489,-93.279475,10,Whittier,Powderhorn,3,1,Kasota
+224,12/31/2019 03:39am,Snow Emergency,"2631 W 44TH ST ,Minneapolis,MN",44.92297,-93.31321,13,Linden Hills,Southwest,1,1,Kasota
+225,12/31/2019 03:40am,Snow Emergency,"2450 BLAISDELL AVE S,Minneapolis,MN",44.95749,-93.2801,10,Whittier,Powderhorn,4,1,Kasota
+226,12/31/2019 03:42am,Snow Emergency,"2300 9TH ST S,Minneapolis,MN",44.964095,-93.239199,6,Seward,Longfellow,3,1,Kasota
+227,12/31/2019 03:42am,Snow Emergency,"2631 W 44TH ST ,Minneapolis,MN",44.92297,-93.31321,13,Linden Hills,Southwest,3,1,Kasota
+228,12/31/2019 03:44am,Snow Emergency,"2150 BLAISDELL AVE S,Minneapolis,MN",44.961403,-93.279805,10,Whittier,Powderhorn,4,1,Kasota
+229,12/31/2019 04:02am,Snow Emergency,"2450 BLAISDELL AVE S,Minneapolis,MN",44.95749,-93.2801,10,Whittier,Powderhorn,1,1,Kasota
+230,12/31/2019 04:09am,Snow Emergency,"2500 9TH ST S,Minneapolis,MN",44.96417,-93.23539,6,Seward,Longfellow,1,1,Kasota
+231,12/31/2019 04:14am,Snow Emergency,"2625 BLAISDELL AVE S,Minneapolis,MN",44.954741,-93.279505,10,Whittier,Powderhorn,1,1,Kasota
+232,12/31/2019 04:14am,Snow Emergency,"2631 W 44TH ST ,Minneapolis,MN",44.92297,-93.31321,13,Linden Hills,Southwest,3,1,Kasota
+233,12/31/2019 04:15am,Snow Emergency,"21 61ST ST W,Minneapolis,MN",44.89212,-93.27923,11,Windom,Southwest,3,1,Kasota
+234,12/31/2019 04:21am,Snow Emergency,"2450 BLAISDELL AVE S,Minneapolis,MN",44.95749,-93.2801,10,Whittier,Powderhorn,4,1,Kasota
+235,12/31/2019 04:23am,Snow Emergency,"2625 BLAISDELL AVE S,Minneapolis,MN",44.954741,-93.279505,10,Whittier,Powderhorn,1,1,Kasota
+236,12/31/2019 04:24am,Snow Emergency,"2625 BLAISDELL AVE S,Minneapolis,MN",44.954741,-93.279505,10,Whittier,Powderhorn,4,1,Kasota
+237,12/31/2019 04:28am,Snow Emergency,"2625 BLAISDELL AVE S,Minneapolis,MN",44.954741,-93.279505,10,Whittier,Powderhorn,1,1,Kasota
+238,12/31/2019 04:36am,Snow Emergency,"2500 9TH ST S,Minneapolis,MN",44.96417,-93.23539,6,Seward,Longfellow,3,1,Kasota
+239,12/31/2019 04:38am,Snow Emergency,"2625 BLAISDELL AVE S,Minneapolis,MN",44.954741,-93.279505,10,Whittier,Powderhorn,5,1,Kasota
+240,12/31/2019 04:43am,Snow Emergency,"2500 9TH ST S,Minneapolis,MN",44.96417,-93.23539,6,Seward,Longfellow,5,1,Kasota
+241,12/31/2019 05:08am,Snow Emergency,"2700 BLAISDELL AVE S,Minneapolis,MN",44.95359,-93.28002,10,Whittier,Powderhorn,4,1,Kasota
+242,12/31/2019 05:09am,Snow Emergency,"2500 9TH ST S,Minneapolis,MN",44.96417,-93.23539,6,Seward,Longfellow,4,1,Kasota
+243,12/31/2019 05:10am,Snow Emergency,"2700 BLAISDELL AVE S,Minneapolis,MN",44.95359,-93.28002,10,Whittier,Powderhorn,6,1,Kasota
+244,12/31/2019 05:33am,Snow Emergency,"61ST & LYNDALE AVE S,Minneapolis,MN",44.89235,-93.28834,11,Windom,Southwest,2,1,Kasota
+245,12/31/2019 05:36am,Snow Emergency,"15 W 61ST ST ,Minneapolis,MN",44.89212,-93.27867,11,Windom,Southwest,3,1,Kasota
+246,12/31/2019 06:03am,Snow Emergency,"5801 NICOLLET AVE S,Minneapolis,MN",44.89761,-93.27779,11,Windom,Southwest,2,1,Kasota
+247,12/31/2019 06:06am,Snow Emergency,"5450 NICOLLET AVE S,Minneapolis,MN",44.90375,-93.27841,11,Windom,Southwest,4,1,Kasota
+248,12/31/2019 06:08am,Snow Emergency,"501 W 61ST ST ,Minneapolis,MN",44.89147,-93.28581,11,Windom,Southwest,5,1,Kasota
+249,12/31/2019 06:12am,Snow Emergency,"5801 NICOLLET AVE S,Minneapolis,MN",44.89761,-93.27779,11,Windom,Southwest,1,1,Kasota
+250,12/31/2019 08:21am,Snow Emergency,"1774 BRYANT AVE S,Minneapolis,MN",44.965711,-93.290655,7,Lowry Hill,Calhoun Isle,1,2,Kasota
+251,12/31/2019 08:23am,Snow Emergency,"2418 3rd st n,Minneapolis,MN",45.003963,-93.283255,5,Hawthorne,Near North,4,2,Kasota
+252,12/31/2019 08:25am,Snow Emergency,"2416 3rd st n,Minneapolis,MN",45.003946,-93.283255,5,Hawthorne,Near North,5,2,Kasota
+253,12/31/2019 08:25am,Snow Emergency,"1922 Xerxes AVE N ,Minneapolis,MN",44.99966,-93.31806,5,Willard - Hay,Near North,3,2,Kasota
+254,12/31/2019 08:27am,Snow Emergency,"1634 Xerxes AVE N ,Minneapolis,MN",44.99625,-93.31809,5,Willard - Hay,Near North,2,2,Kasota
+255,12/31/2019 08:34am,Snow Emergency,"418 2nd ave se,Minneapolis,MN",44.987376,-93.252318,3,Marcy Holmes,University,1,2,Kasota
+256,12/31/2019 08:37am,Snow Emergency,"1772 BRYANT AVE S,Minneapolis,MN",44.965725,-93.290655,7,Lowry Hill,Calhoun Isle,4,2,Kasota
+257,12/31/2019 08:45am,Snow Emergency,"4206 Longfellow Avenue South,Minneapolis,MN",44.92657,-93.2464,12,Ericsson,Nokomis,5,2,Kasota
+258,12/31/2019 08:46am,Snow Emergency,"722 Aldrich Ave N,Minneapolis,MN",44.985745,-93.290137,5,Sumner - Glenwood,Near North,1,2,Kasota
+259,12/31/2019 08:47am,Snow Emergency,"3516 14th ave s,Minneapolis,MN",44.93885,-93.2553,9,Powderhorn Park,Powderhorn,2,2,Kasota
+260,12/31/2019 08:48am,Snow Emergency,"400 2nd Avenue se,Minneapolis,MN",44.98723,-93.252432,3,Marcy Holmes,University,3,2,Kasota
+261,12/31/2019 08:49am,Snow Emergency,"310 4th ave se,Minneapolis,MN",44.98531,-93.25014,3,Marcy Holmes,University,4,2,Kasota
+262,12/31/2019 08:52am,Snow Emergency,"2322 grand st ne,Minneapolis,MN",45.01179,-93.27049,3,Bottineau,Northeast,3,2,Kasota
+263,12/31/2019 08:52am,Snow Emergency,"410 2nd Avenue se,Minneapolis,MN",44.987293,-93.252383,3,Marcy Holmes,University,1,2,Kasota
+264,12/31/2019 08:52am,Snow Emergency,"324 3RD ave ne,Minneapolis,MN",44.99116,-93.25704,3,St. Anthony West,Northeast,3,2,Kasota
+265,12/31/2019 08:54am,Snow Emergency,"2426 grand st ne,Minneapolis,MN",45.01236,-93.270245,3,Bottineau,Northeast,3,2,Kasota
+266,12/31/2019 08:59am,Snow Emergency,"2422 grand st ne,Minneapolis,MN",45.01271,-93.27049,3,Bottineau,Northeast,3,2,Kasota
+267,12/31/2019 09:00am,Snow Emergency,"2432 grand st ne,Minneapolis,MN",45.012415,-93.270245,3,Bottineau,Northeast,4,2,Kasota
+268,12/31/2019 09:02am,Snow Emergency,"724 Aldrich Ave N,Minneapolis,MN",44.985745,-93.29016,5,Sumner - Glenwood,Near North,1,2,Kasota
+269,12/31/2019 09:03am,Snow Emergency,"122 14TH ST W,Minneapolis,MN",44.968907,-93.27975,7,Loring Park,Central,6,2,Kasota
+270,12/31/2019 09:04am,Snow Emergency,"506 3rd Avenue Southeast,Minneapolis,MN",44.987756,-93.250196,3,Marcy Holmes,University,3,2,Kasota
+271,12/31/2019 09:05am,Snow Emergency,"1824 BRYANT AVE S,Minneapolis,MN",44.96463,-93.2909,7,Lowry Hill,Calhoun Isle,3,2,Kasota
+272,12/31/2019 09:05am,Snow Emergency,"4024 14th ave,Minneapolis,MN",44.92972,-93.25529,8,Bancroft,Powderhorn,3,2,Kasota
+273,12/31/2019 09:06am,Snow Emergency,"1614 Xerxes AVE N ,Minneapolis,MN",44.9957,-93.31809,5,Willard - Hay,Near North,6,2,Kasota
+274,12/31/2019 09:06am,Snow Emergency,"416 2nd ave se,Minneapolis,MN",44.987355,-93.252334,3,Marcy Holmes,University,4,2,Kasota
+275,12/31/2019 09:07am,Snow Emergency,"3514 14th ave,Minneapolis,MN",44.93899,-93.2553,9,Powderhorn Park,Powderhorn,5,2,Kasota
+276,12/31/2019 09:08am,Snow Emergency,"1614 Xerxes AVE N ,Minneapolis,MN",44.9957,-93.31809,5,Willard - Hay,Near North,4,2,Kasota
+277,12/31/2019 09:10am,Snow Emergency,"1820 BRYANT AVE S ,Minneapolis,MN",44.96463,-93.2909,7,Lowry Hill,Calhoun Isle,4,2,Kasota
+278,12/31/2019 09:12am,Snow Emergency,"3116 3rd st n ,Minneapolis,MN",45.012226,-93.283181,5,Hawthorne,Near North,1,2,Kasota
+279,12/31/2019 09:15am,Snow Emergency,"3604 13th av s,Minneapolis,MN",44.93745,-93.25656,9,Powderhorn Park,Powderhorn,6,2,Kasota
+280,12/31/2019 09:16am,Snow Emergency,"806 Aldrich Ave N,Minneapolis,MN",44.985977,-93.290721,5,Sumner - Glenwood,Near North,6,2,Kasota
+281,12/31/2019 09:17am,Snow Emergency,"506 5th ave se,Minneapolis,MN",44.986517,-93.247226,3,Marcy Holmes,University,1,2,Kasota
+282,12/31/2019 09:17am,Snow Emergency,"3526 14th av s,Minneapolis,MN",44.93855,-93.2553,9,Powderhorn Park,Powderhorn,3,2,Kasota
+283,12/31/2019 09:19am,Snow Emergency,"2428 grand st ne,Minneapolis,MN",45.012378,-93.270245,3,Bottineau,Northeast,4,2,Kasota
+284,12/31/2019 09:20am,Snow Emergency,"1718 grand st ne,Minneapolis,MN",45.00559,-93.27049,3,Sheridan,Northeast,2,2,Kasota
+285,12/31/2019 09:21am,Snow Emergency,"3612 13th ave so,Minneapolis,MN",44.93718,-93.25655,9,Powderhorn Park,Powderhorn,5,2,Kasota
+286,12/31/2019 09:23am,Snow Emergency,"816 5TH AVE SE,Minneapolis,MN",44.98978,-93.24431,3,Marcy Holmes,University,3,2,Kasota
+287,12/31/2019 09:23am,Snow Emergency,"802 5th ave se,Minneapolis,MN",44.989441,-93.2449,3,Marcy Holmes,University,6,2,Kasota
+288,12/31/2019 09:23am,Snow Emergency,"1810 BRYANT AVE S,Minneapolis,MN",44.96493,-93.2909,7,Lowry Hill,Calhoun Isle,5,2,Kasota
+289,12/31/2019 09:25am,Snow Emergency,"2430 grand st ne,Minneapolis,MN",45.012396,-93.270245,3,Bottineau,Northeast,1,2,Kasota
+290,12/31/2019 09:26am,Snow Emergency,"2402 4th st n,Minneapolis,MN",45.00387,-93.284775,5,Hawthorne,Near North,4,2,Kasota
+291,12/31/2019 09:26am,Snow Emergency,"2112 grand st ne,Minneapolis,MN",45.00938,-93.270245,3,Bottineau,Northeast,4,2,Kasota
+292,12/31/2019 09:27am,Snow Emergency,"814 5th ave se,Minneapolis,MN",44.989787,-93.244642,3,Marcy Holmes,University,4,2,Kasota
+293,12/31/2019 09:27am,Snow Emergency,"614 5th ave se,Minneapolis,MN",44.987555,-93.24642,3,Marcy Holmes,University,2,2,Kasota
+294,12/31/2019 09:30am,Snow Emergency,"1534 40th st e,Minneapolis,MN",44.930648,-93.252849,8,Bancroft,Powderhorn,3,2,Kasota
+295,12/31/2019 09:30am,Snow Emergency,"3824 13th ave s,Minneapolis,MN",44.93329,-93.25652,8,Bancroft,Powderhorn,5,2,Kasota
+296,12/31/2019 09:32am,Snow Emergency,"3742 13th ave s,Minneapolis,MN",44.93444,-93.25653,9,Powderhorn Park,Powderhorn,5,2,Kasota
+297,12/31/2019 09:32am,Snow Emergency,"804 Aldrich Ave N,Minneapolis,MN",44.985971,-93.290715,5,Sumner - Glenwood,Near North,2,2,Kasota
+298,12/31/2019 09:34am,Snow Emergency,"1410 grand st ne,Minneapolis,MN",45.00191,-93.26993,3,Sheridan,Northeast,6,2,Kasota
+299,12/31/2019 09:35am,Snow Emergency,"3002 4th st n ,Minneapolis,MN",45.010858,-93.284699,5,Hawthorne,Near North,1,2,Kasota
+300,12/31/2019 09:36am,Snow Emergency,"1402 grand st ne,Minneapolis,MN",45.001786,-93.269604,3,Sheridan,Northeast,6,2,Kasota
+301,12/31/2019 09:37am,Snow Emergency,"1516 spruce pl ,Minneapolis,MN",44.966783,-93.280955,7,Loring Park,Central,4,2,Kasota
+302,12/31/2019 09:37am,Snow Emergency,"3820 12th ave s,Minneapolis,MN",44.9334,-93.25783,8,Bancroft,Powderhorn,6,2,Kasota
+303,12/31/2019 09:38am,Snow Emergency,"318 5th ave se,Minneapolis,MN",44.984637,-93.248724,3,Marcy Holmes,University,3,2,Kasota
+304,12/31/2019 09:39am,Snow Emergency,"3028 James ave s,Minneapolis,MN",44.9473,-93.30375,10,ECCO,Calhoun Isle,6,2,Kasota
+305,12/31/2019 09:40am,Snow Emergency,"716 5th av se,Minneapolis,MN",44.98881,-93.2451,3,Marcy Holmes,University,1,2,Kasota
+306,12/31/2019 09:40am,Snow Emergency,"2108 Vincent ave n ,Minneapolis,MN",45.000798,-93.315755,5,Willard - Hay,Near North,3,2,Kasota
+307,12/31/2019 09:40am,Snow Emergency,"4348 13th Avenue South,Minneapolis,MN",44.92353,-93.25655,11,Northrop,Nokomis,2,2,Kasota
+308,12/31/2019 09:41am,Snow Emergency,"1426 spruce place,Minneapolis,MN",44.967941,-93.280965,7,Loring Park,Central,3,2,Kasota
+309,12/31/2019 09:41am,Snow Emergency,"2608 4th St N,Minneapolis,MN",45.006216,-93.284785,5,Hawthorne,Near North,3,2,Kasota
+310,12/31/2019 09:42am,Snow Emergency,"302 8th ave se,Minneapolis,MN",44.982865,-93.24464,3,Marcy Holmes,University,3,2,Kasota
+311,12/31/2019 09:43am,Snow Emergency,"2626 Vincent ave n ,Minneapolis,MN",45.00682,-93.31552,4,Willard - Hay,Near North,6,2,Kasota
+312,12/31/2019 09:43am,Snow Emergency,"1334 SPRUCE PL,Minneapolis,MN",44.969513,-93.280955,7,Loring Park,Central,2,2,Kasota
+313,12/31/2019 09:43am,Snow Emergency,"424 2nd Avenue se,Minneapolis,MN",44.98739,-93.25227,3,Marcy Holmes,University,6,2,Kasota
+314,12/31/2019 09:44am,Snow Emergency,"404 3rd ave ne,Minneapolis,MN",44.99135,-93.25662,3,St. Anthony West,Northeast,1,2,Kasota
+315,12/31/2019 09:44am,Snow Emergency,"2214 4th St N,Minneapolis,MN",45.00198,-93.28449,5,Hawthorne,Near North,1,2,Kasota
+316,12/31/2019 09:45am,Snow Emergency,"332 4th ave ne,Minneapolis,MN",44.992357,-93.258775,3,St. Anthony West,Northeast,2,2,Kasota
+317,12/31/2019 09:47am,Snow Emergency,"328 4th Avenue se,Minneapolis,MN",44.985664,-93.250048,3,Marcy Holmes,University,2,2,Kasota
+318,12/31/2019 09:47am,Snow Emergency,"1330 grand st ne,Minneapolis,MN",45.00141,-93.26952,3,Sheridan,Northeast,1,2,Kasota
+319,12/31/2019 09:48am,Snow Emergency,"320 4TH AVE SE,Minneapolis,MN",44.985638,-93.250069,3,Marcy Holmes,University,4,2,Kasota
+320,12/31/2019 09:48am,Snow Emergency,"322 4th ave se,Minneapolis,MN",44.985644,-93.250064,3,Marcy Holmes,University,3,2,Kasota
+321,12/31/2019 09:48am,Snow Emergency,"3538 11th,Minneapolis,MN",44.93797,-93.258921,9,Powderhorn Park,Powderhorn,1,2,Kasota
+322,12/31/2019 09:48am,Snow Emergency,"1424 grand st ne,Minneapolis,MN",45.002652,-93.270221,3,Sheridan,Northeast,6,2,Kasota
+323,12/31/2019 09:50am,Snow Emergency,"3544 11TH AVE S,Minneapolis,MN",44.938719,-93.258931,9,Powderhorn Park,Powderhorn,4,2,Kasota
+324,12/31/2019 09:52am,Snow Emergency,"3508 Longfellow,Minneapolis,MN",44.93906,-93.246215,9,Corcoran,Powderhorn,4,2,Kasota
+325,12/31/2019 09:54am,Snow Emergency,"1512 SPRUCE PL,Minneapolis,MN",44.96717,-93.28122,7,Loring Park,Central,1,2,Kasota
+326,12/31/2019 09:57am,Snow Emergency,"1804 Colfax Ave South,Minneapolis,MN",44.965116,-93.291915,7,Lowry Hill,Calhoun Isle,5,2,Kasota
+327,12/31/2019 09:57am,Snow Emergency,"3020 4th st n ,Minneapolis,MN",45.01147,-93.28451,5,Hawthorne,Near North,2,2,Kasota
+328,12/31/2019 09:57am,Snow Emergency,"1546 SPRUCE PL,Minneapolis,MN",44.967066,-93.280955,7,Loring Park,Central,6,2,Kasota
+329,12/31/2019 09:57am,Snow Emergency,"1912 colfax ave s ,Minneapolis,MN",44.963505,-93.291925,7,Lowry Hill,Calhoun Isle,3,2,Kasota
+330,12/31/2019 09:58am,Snow Emergency,"1802 BRYANT AVE S ,Minneapolis,MN",44.965186,-93.290655,7,Lowry Hill,Calhoun Isle,2,2,Kasota
+331,12/31/2019 09:58am,Snow Emergency,"2518 4th st n,Minneapolis,MN",45.00541,-93.28447,5,Hawthorne,Near North,6,2,Kasota
+332,12/31/2019 09:59am,Snow Emergency,"722 6TH AVE SE,Minneapolis,MN",44.987901,-93.244298,3,Marcy Holmes,University,3,2,Kasota
+333,12/31/2019 10:00am,Snow Emergency,"1910 COLFAX AVE S,Minneapolis,MN",44.96392,-93.29217,7,Lowry Hill,Calhoun Isle,1,2,Kasota
+334,12/31/2019 10:03am,Snow Emergency,"324 5th ave se,Minneapolis,MN",44.984682,-93.248689,3,Marcy Holmes,University,3,2,Kasota
+335,12/31/2019 10:05am,Snow Emergency,"1408 spruce place,Minneapolis,MN",44.9685,-93.28115,7,Loring Park,Central,3,2,Kasota
+336,12/31/2019 10:05am,Snow Emergency,"324 4th ave se,Minneapolis,MN",44.985651,-93.250059,3,Marcy Holmes,University,3,2,Kasota
+337,12/31/2019 10:08am,Snow Emergency,"802 Aldrich ave n ,Minneapolis,MN",44.985965,-93.290709,5,Sumner - Glenwood,Near North,4,2,Kasota
+338,12/31/2019 10:08am,Snow Emergency,"412 4th ave se,Minneapolis,MN",44.98648,-93.24927,3,Marcy Holmes,University,1,2,Kasota
+339,12/31/2019 10:10am,Snow Emergency,"728 Aldrich ave n ,Minneapolis,MN",44.985802,-93.290466,5,Sumner - Glenwood,Near North,5,2,Kasota
+340,12/31/2019 10:13am,Snow Emergency,"3624 12th,Minneapolis,MN",44.93721,-93.257575,9,Powderhorn Park,Powderhorn,6,2,Kasota
+341,12/31/2019 10:14am,Snow Emergency,"1606 2ND AVE N,Minneapolis,MN",44.978992,-93.301317,5,Harrison,Near North,3,2,Kasota
+342,12/31/2019 10:14am,Snow Emergency,"2502 4th St N,Minneapolis,MN",45.004937,-93.284785,5,Hawthorne,Near North,5,2,Kasota
+343,12/31/2019 10:14am,Snow Emergency,"3226 6th st n,Minneapolis,MN",45.01399,-93.28606,4,McKinley,Camden,5,2,Kasota
+344,12/31/2019 10:15am,Snow Emergency,"1924 colfax ave s ,Minneapolis,MN",44.96344,-93.29217,7,Lowry Hill,Calhoun Isle,5,2,Kasota
+345,12/31/2019 10:16am,Snow Emergency,"3748 11th,Minneapolis,MN",44.93505,-93.258845,9,Powderhorn Park,Powderhorn,4,2,Kasota
+346,12/31/2019 10:16am,Snow Emergency,"912 Aldrich Ave N,Minneapolis,MN",44.989242,-93.289309,5,Near - North,Near North,3,2,Kasota
+347,12/31/2019 10:16am,Snow Emergency,"1940 COLFAX AVE S,Minneapolis,MN",44.963674,-93.291925,7,Lowry Hill,Calhoun Isle,6,2,Kasota
+348,12/31/2019 10:18am,Snow Emergency,"1326 grand st ne,Minneapolis,MN",45.001329,-93.269286,3,Sheridan,Northeast,4,2,Kasota
+349,12/31/2019 10:18am,Snow Emergency,"304 5th ave se,Minneapolis,MN",44.98453,-93.248808,3,Marcy Holmes,University,1,2,Kasota
+350,12/31/2019 10:19am,Snow Emergency,"804 6th ave se,Minneapolis,MN",44.988892,-93.243499,3,Marcy Holmes,University,4,2,Kasota
+351,12/31/2019 10:19am,Snow Emergency,"1324 grand st ne,Minneapolis,MN",45.0012,-93.26954,3,Sheridan,Northeast,5,2,Kasota
+352,12/31/2019 10:19am,Snow Emergency,"3422 6th st n,Minneapolis,MN",45.0174,-93.28621,4,McKinley,Camden,1,2,Kasota
+353,12/31/2019 10:19am,Snow Emergency,"830 40th st e,Minneapolis,MN",44.930685,-93.262032,8,Bancroft,Powderhorn,4,2,Kasota
+354,12/31/2019 10:21am,Snow Emergency,"1316 grand st ne,Minneapolis,MN",45.00093,-93.26935,3,Sheridan,Northeast,6,2,Kasota
+355,12/31/2019 10:22am,Snow Emergency,"3216 15th Avenue South,Minneapolis,MN",44.94417,-93.25411,9,Powderhorn Park,Powderhorn,5,2,Kasota
+356,12/31/2019 10:22am,Snow Emergency,"1918 dupont ave s,Minneapolis,MN",44.963739,-93.293195,7,Lowry Hill,Calhoun Isle,3,2,Kasota
+357,12/31/2019 10:22am,Snow Emergency,"1300 grand st ne,Minneapolis,MN",45.00062,-93.26897,3,Sheridan,Northeast,1,2,Kasota
+358,12/31/2019 10:23am,Snow Emergency,"320 8th ave se,Minneapolis,MN",44.98319,-93.24395,3,Marcy Holmes,University,4,2,Kasota
+359,12/31/2019 10:25am,Snow Emergency,"3126 James ave s,Minneapolis,MN",44.945394,-93.303505,10,ECCO,Calhoun Isle,1,2,Kasota
+360,12/31/2019 10:25am,Snow Emergency,"1902 dupont ave s ,Minneapolis,MN",44.964172,-93.293195,7,Lowry Hill,Calhoun Isle,1,2,Kasota
+361,12/31/2019 10:25am,Snow Emergency,"1818 Vincent Ave n ,Minneapolis,MN",44.998141,-93.315765,5,Willard - Hay,Near North,3,2,Kasota
+362,12/31/2019 10:27am,Snow Emergency,"426 8TH AVE SE,Minneapolis,MN",44.984293,-93.243498,3,Marcy Holmes,University,1,2,Kasota
+363,12/31/2019 10:29am,Snow Emergency,"1614 Vincent Ave n ,Minneapolis,MN",44.99574,-93.31551,5,Willard - Hay,Near North,3,2,Kasota
+364,12/31/2019 10:30am,Snow Emergency,"1836 37th st e,Minneapolis,MN",44.936045,-93.246616,12,Standish,Powderhorn,1,2,Kasota
+365,12/31/2019 10:31am,Snow Emergency,"1330 Vincent ave n ,Minneapolis,MN",44.99254,-93.31553,5,Willard - Hay,Near North,3,2,Kasota
+366,12/31/2019 10:32am,Snow Emergency,"412 7TH AVE SE,Minneapolis,MN",44.984461,-93.245191,3,Marcy Holmes,University,4,2,Kasota
+367,12/31/2019 10:34am,Snow Emergency,"610 7th ave se,Minneapolis,MN",44.98666,-93.24334,3,Marcy Holmes,University,4,2,Kasota
+368,12/31/2019 10:34am,Snow Emergency,"3732 10th ave s,Minneapolis,MN",44.93494,-93.26035,9,Powderhorn Park,Powderhorn,3,2,Kasota
+369,12/31/2019 10:34am,Snow Emergency,"804 5th Avenue se,Minneapolis,MN",44.989479,-93.244872,3,Marcy Holmes,University,6,2,Kasota
+370,12/31/2019 10:35am,Snow Emergency,"1034 Aldrich Ave N,Minneapolis,MN",44.989867,-93.289305,5,Near - North,Near North,2,2,Kasota
+371,12/31/2019 10:35am,Snow Emergency,"814 Vincent ave n ,Minneapolis,MN",44.98654,-93.31555,5,Willard - Hay,Near North,5,2,Kasota
+372,12/31/2019 10:36am,Snow Emergency,"406 7th ave se,Minneapolis,MN",44.984415,-93.245226,3,Marcy Holmes,University,1,2,Kasota
+373,12/31/2019 10:36am,Snow Emergency,"1722 Clinton av s ,Minneapolis,MN",44.965578,-93.271595,6,Steven's Square - Loring Heights,Central,1,2,Kasota
+374,12/31/2019 10:36am,Snow Emergency,"1940 DUPONT AVE S,Minneapolis,MN",44.96314,-93.29344,7,Lowry Hill,Calhoun Isle,6,2,Kasota
+375,12/31/2019 10:37am,Snow Emergency,"2016 2ND AVE N,Minneapolis,MN",44.97919,-93.30661,5,Harrison,Near North,3,2,Kasota
+376,12/31/2019 10:37am,Snow Emergency,"1922 emerson ave s ,Minneapolis,MN",44.96349,-93.294526,7,Lowry Hill,Calhoun Isle,3,2,Kasota
+377,12/31/2019 10:38am,Snow Emergency,"428 7th Avenue se,Minneapolis,MN",44.984583,-93.245094,3,Marcy Holmes,University,3,2,Kasota
+378,12/31/2019 10:37am,Snow Emergency,"820 6TH AVE SE,Minneapolis,MN",44.989249,-93.243225,3,Marcy Holmes,University,3,2,Kasota
+379,12/31/2019 10:39am,Snow Emergency,"624 7th ave se,Minneapolis,MN",44.986513,-93.24356,3,Marcy Holmes,University,3,2,Kasota
+380,12/31/2019 10:40am,Snow Emergency,"120 CLIFTON AVE,Minneapolis,MN",44.96503,-93.283564,7,Loring Park,Central,3,2,Kasota
+381,12/31/2019 10:41am,Snow Emergency,"1838 37 sst e,Minneapolis,MN",44.936045,-93.246527,12,Standish,Powderhorn,3,2,Kasota
+382,12/31/2019 10:42am,Snow Emergency,"414 7th Avenue se,Minneapolis,MN",44.98469,-93.2446,3,Marcy Holmes,University,4,2,Kasota
+383,12/31/2019 10:43am,Snow Emergency,"122 CLIFTON AVE,Minneapolis,MN",44.965036,-93.283545,7,Loring Park,Central,3,2,Kasota
+384,12/31/2019 10:44am,Snow Emergency,"3814 11th av s,Minneapolis,MN",44.933564,-93.258845,8,Bancroft,Powderhorn,4,2,Kasota
+385,12/31/2019 10:44am,Snow Emergency,"2102 6th st n,Minneapolis,MN",45.00086,-93.286335,5,Hawthorne,Near North,2,2,Kasota
+386,12/31/2019 10:47am,Snow Emergency,"4108 Longfellow av s,Minneapolis,MN",44.92836,-93.24641,12,Standish,Powderhorn,1,2,Kasota
+387,12/31/2019 10:48am,Snow Emergency,"604 8TH ave se,Minneapolis,MN",44.98572,-93.24218,3,Marcy Holmes,University,5,2,Kasota
+388,12/31/2019 10:48am,Snow Emergency,"2220 Emerson ave s ,Minneapolis,MN",44.96015,-93.29473,7,East Isles,Calhoun Isle,3,2,Kasota
+389,12/31/2019 10:49am,Snow Emergency,"1906 2ND AVE N,Minneapolis,MN",44.979074,-93.304787,5,Harrison,Near North,6,2,Kasota
+390,12/31/2019 10:50am,Snow Emergency,"208 7th ave ne ,Minneapolis,MN",44.995139,-93.262768,3,St. Anthony West,Northeast,2,2,Kasota
+391,12/31/2019 10:51am,Snow Emergency,"2908 4th St N,Minneapolis,MN",45.009978,-93.284765,5,Hawthorne,Near North,6,2,Kasota
+392,12/31/2019 10:52am,Snow Emergency,"1834 fremont ave s,Minneapolis,MN",44.96427,-93.296,7,Lowry Hill,Calhoun Isle,6,2,Kasota
+393,12/31/2019 10:53am,Snow Emergency,"314 5th st ne,Minneapolis,MN",44.992425,-93.256109,3,St. Anthony West,Northeast,2,2,Kasota
+394,12/31/2019 10:55am,Snow Emergency,"410 7th ave se,Minneapolis,MN",44.984446,-93.245203,3,Marcy Holmes,University,3,2,Kasota
+395,12/31/2019 10:55am,Snow Emergency,"316 5th st ne,Minneapolis,MN",44.9924,-93.2564,3,St. Anthony West,Northeast,5,2,Kasota
+396,12/31/2019 10:55am,Snow Emergency,"1834 37th st ,Minneapolis,MN",44.936045,-93.246705,12,Standish,Powderhorn,3,2,Kasota
+397,12/31/2019 10:56am,Snow Emergency,"3122 15th Avenue South,Minneapolis,MN",44.94593,-93.25413,9,Powderhorn Park,Powderhorn,3,2,Kasota
+398,12/31/2019 10:57am,Snow Emergency,"208 7th ave ne,Minneapolis,MN",44.995139,-93.262768,3,St. Anthony West,Northeast,1,2,Kasota
+399,12/31/2019 10:58am,Snow Emergency,"1840 Bryant Ave N,Minneapolis,MN",44.998466,-93.290905,5,Near - North,Near North,6,2,Kasota
+400,12/31/2019 10:58am,Snow Emergency,"228 5th st ne,Minneapolis,MN",44.99162,-93.25583,3,St. Anthony West,Northeast,3,2,Kasota
+401,12/31/2019 10:59am,Snow Emergency,"4004 11th ave s,Minneapolis,MN",44.93028,-93.25898,8,Bancroft,Powderhorn,4,2,Kasota
+402,12/31/2019 10:59am,Snow Emergency,"928 aldrich ave n ,Minneapolis,MN",44.989324,-93.289308,5,Near - North,Near North,3,2,Kasota
+403,12/31/2019 10:59am,Snow Emergency,"3110 James ave s,Minneapolis,MN",44.94598,-93.303505,10,ECCO,Calhoun Isle,6,2,Kasota
+404,12/31/2019 10:59am,Snow Emergency,"3110 6th st n,Minneapolis,MN",45.01218,-93.286275,5,Hawthorne,Near North,4,2,Kasota
+405,12/31/2019 10:59am,Snow Emergency,"628 8th ave se ,Minneapolis,MN",44.986001,-93.242149,3,Marcy Holmes,University,3,2,Kasota
+406,12/31/2019 11:00am,Snow Emergency,"208 4th ave ne,Minneapolis,MN",44.99177,-93.260448,3,St. Anthony West,Northeast,6,2,Kasota
+407,12/31/2019 11:00am,Snow Emergency,"3512 Longfellow,Minneapolis,MN",44.93898,-93.24642,9,Corcoran,Powderhorn,3,2,Kasota
+408,12/31/2019 11:01am,Snow Emergency,"612 8th ave se,Minneapolis,MN",44.986063,-93.2421,3,Marcy Holmes,University,4,2,Kasota
+409,12/31/2019 11:01am,Snow Emergency,"1770 FREMONT AVE S ,Minneapolis,MN",44.96611,-93.29599,7,Lowry Hill,Calhoun Isle,6,2,Kasota
+410,12/31/2019 11:01am,Snow Emergency,"1718 Clinton Ave. S.,Minneapolis,MN",44.96552,-93.27183,6,Steven's Square - Loring Heights,Central,1,2,Kasota
+411,12/31/2019 11:01am,Snow Emergency,"2208 2nd ave n ,Minneapolis,MN",44.979055,-93.308626,5,Harrison,Near North,4,2,Kasota
+412,12/31/2019 11:01am,Snow Emergency,"1210 Bryant ave n ,Minneapolis,MN",44.99057,-93.290885,5,Near - North,Near North,3,2,Kasota
+413,12/31/2019 11:02am,Snow Emergency,"3124 6th st n,Minneapolis,MN",45.012306,-93.286275,5,Hawthorne,Near North,4,2,Kasota
+414,12/31/2019 11:03am,Snow Emergency,"1818 Bryant Ave n ,Minneapolis,MN",44.99816,-93.29058,5,Near - North,Near North,3,2,Kasota
+415,12/31/2019 11:03am,Snow Emergency,"2020 Aldrich Ave n,Minneapolis,MN",44.99991,-93.28917,5,Hawthorne,Near North,6,2,Kasota
+416,12/31/2019 11:04am,Snow Emergency,"228 5th ave ne,Minneapolis,MN",44.993139,-93.26113,3,St. Anthony West,Northeast,5,2,Kasota
+417,12/31/2019 11:05am,Snow Emergency,"206 8TH AVE SE,Minneapolis,MN",44.981888,-93.245405,3,Marcy Holmes,University,6,2,Kasota
+418,12/31/2019 11:05am,Snow Emergency,"2016 Fremont AVE S,Minneapolis,MN",44.96215,-93.29599,7,Lowry Hill,Calhoun Isle,2,2,Kasota
+419,12/31/2019 11:07am,Snow Emergency,"2206 2ND AVE N ,Minneapolis,MN",44.979055,-93.308609,5,Harrison,Near North,4,2,Kasota
+420,12/31/2019 11:07am,Snow Emergency,"1828 Dupont ave n ,Minneapolis,MN",44.99839,-93.29213,5,Near - North,Near North,3,2,Kasota
+421,12/31/2019 11:13am,Snow Emergency,"1310 grand st ne,Minneapolis,MN",45.00082,-93.26928,3,Sheridan,Northeast,3,2,Kasota
+422,12/31/2019 11:14am,Snow Emergency,"3044 longfellow ave s,Minneapolis,MN",44.94669,-93.24649,9,Corcoran,Powderhorn,3,2,Kasota
+423,12/31/2019 11:15am,Snow Emergency,"320 4th st ne,Minneapolis,MN",44.99204,-93.25794,3,St. Anthony West,Northeast,6,2,Kasota
+424,12/31/2019 11:15am,Snow Emergency,"104 19TH ST E,Minneapolis,MN",44.96417,-93.2762,6,Steven's Square - Loring Heights,Central,6,2,Kasota
+425,12/31/2019 11:16am,Snow Emergency,"3004 15th ave so,Minneapolis,MN",44.948126,-93.253959,9,Powderhorn Park,Powderhorn,4,2,Kasota
+426,12/31/2019 11:16am,Snow Emergency,"212 5th st ne,Minneapolis,MN",44.99129,-93.25571,3,St. Anthony West,Northeast,3,2,Kasota
+427,12/31/2019 11:18am,Snow Emergency,"3308 Longfellow ave s,Minneapolis,MN",44.9425,-93.24645,9,Corcoran,Powderhorn,4,2,Kasota
+428,12/31/2019 11:20am,Snow Emergency,"3418 elliot,Minneapolis,MN",44.94073,-93.26165,9,Powderhorn Park,Powderhorn,3,2,Kasota
+429,12/31/2019 11:21am,Snow Emergency,"616 7TH ave se,Minneapolis,MN",44.98671,-93.243407,3,Marcy Holmes,University,5,2,Kasota
+430,12/31/2019 11:21am,Snow Emergency,"2310 fremont ave s,Minneapolis,MN",44.959413,-93.295755,7,East Isles,Calhoun Isle,3,2,Kasota
+431,12/31/2019 11:21am,Snow Emergency,"810 4th st ne,Minneapolis,MN",44.997462,-93.261304,3,St. Anthony West,Northeast,3,2,Kasota
+432,12/31/2019 11:22am,Snow Emergency,"3010 Longfellow Avenue South,Minneapolis,MN",44.948006,-93.246309,9,Corcoran,Powderhorn,1,2,Kasota
+433,12/31/2019 11:22am,Snow Emergency,"2000 3RD AVE N ,Minneapolis,MN",44.979915,-93.306496,5,Harrison,Near North,3,2,Kasota
+434,12/31/2019 11:22am,Snow Emergency,"326 7 th ave se,Minneapolis,MN",44.983584,-93.245897,3,Marcy Holmes,University,4,2,Kasota
+435,12/31/2019 11:23am,Snow Emergency,"330 4th ave ne,Minneapolis,MN",44.99235,-93.258798,3,St. Anthony West,Northeast,4,2,Kasota
+436,12/31/2019 11:25am,Snow Emergency,"700 8 th ave se,Minneapolis,MN",44.986773,-93.241539,3,Marcy Holmes,University,4,2,Kasota
+437,12/31/2019 11:25am,Snow Emergency,"2410 Aldrich Ave n,Minneapolis,MN",45.00412,-93.28908,5,Hawthorne,Near North,5,2,Kasota
+438,12/31/2019 11:25am,Snow Emergency,"2022 aldrich ave n,Minneapolis,MN",44.99998,-93.28906,5,Hawthorne,Near North,6,2,Kasota
+439,12/31/2019 11:26am,Snow Emergency,"2504 girard ave s ,Minneapolis,MN",44.95703,-93.29731,7,East Isles,Calhoun Isle,5,2,Kasota
+440,12/31/2019 11:28am,Snow Emergency,"1824 Bryant Ave N,Minneapolis,MN",44.998092,-93.290905,5,Near - North,Near North,3,2,Kasota
+441,12/31/2019 11:29am,Snow Emergency,"402 8th ave se,Minneapolis,MN",44.983848,-93.243861,3,Marcy Holmes,University,5,2,Kasota
+442,12/31/2019 11:30am,Snow Emergency,"718 Aldrich ave n ,Minneapolis,MN",44.985745,-93.2897,5,Sumner - Glenwood,Near North,4,2,Kasota
+443,12/31/2019 11:30am,Snow Emergency,"250 BRYANT AVE N,Minneapolis,MN",44.9803,-93.290705,5,Sumner - Glenwood,Near North,3,2,Kasota
+444,12/31/2019 11:32am,Snow Emergency,"526 11 ave se,Minneapolis,MN",44.98375,-93.23823,3,Marcy Holmes,University,1,2,Kasota
+445,12/31/2019 11:32am,Snow Emergency,"808 11th ave ss,Minneapolis,MN",44.986123,-93.236548,3,Marcy Holmes,University,3,2,Kasota
+446,12/31/2019 11:34am,Snow Emergency,"1320 Vincent Ave n ,Minneapolis,MN",44.9922,-93.31554,5,Willard - Hay,Near North,4,2,Kasota
+447,12/31/2019 11:34am,Snow Emergency,"2024 3RD AVE N,Minneapolis,MN",44.98005,-93.3068,5,Harrison,Near North,2,2,Kasota
+448,12/31/2019 11:35am,Snow Emergency,"2902 aldrich ave n,Minneapolis,MN",45.009691,-93.28905,5,Hawthorne,Near North,4,2,Kasota
+449,12/31/2019 11:35am,Snow Emergency,"422 11TH AVE SE,Minneapolis,MN",44.982326,-93.239573,3,Marcy Holmes,University,3,2,Kasota
+450,12/31/2019 11:35am,Snow Emergency,"3028 15th Avenue South,Minneapolis,MN",44.947552,-93.253952,9,Powderhorn Park,Powderhorn,2,2,Kasota
+451,12/31/2019 11:37am,Snow Emergency,"1922 Fremont ave s ,Minneapolis,MN",44.96336,-93.29599,7,Lowry Hill,Calhoun Isle,3,2,Kasota
+452,12/31/2019 11:37am,Snow Emergency,"704 13th ave se,Minneapolis,MN",44.984029,-93.23456,3,Marcy Holmes,University,3,2,Kasota
+453,12/31/2019 11:37am,Snow Emergency,"2906 4th St N,Minneapolis,MN",45.0098,-93.28445,5,Hawthorne,Near North,1,2,Kasota
+454,12/31/2019 11:37am,Snow Emergency,"3108 15th av s,Minneapolis,MN",44.94624,-93.25413,9,Powderhorn Park,Powderhorn,3,2,Kasota
+455,12/31/2019 11:38am,Snow Emergency,"1804 clinton,Minneapolis,MN",44.96488,-93.271653,6,Steven's Square - Loring Heights,Central,3,2,Kasota
+456,12/31/2019 11:38am,Snow Emergency,"2226 FREMONT AVE S ,Minneapolis,MN",44.960423,-93.295755,7,East Isles,Calhoun Isle,4,2,Kasota
+457,12/31/2019 11:39am,Snow Emergency,"502 7th Avenue se,Minneapolis,MN",44.985375,-93.24446,3,Marcy Holmes,University,3,2,Kasota
+458,12/31/2019 11:40am,Snow Emergency,"1820 Dupont ave n ,Minneapolis,MN",44.99802,-93.29213,5,Near - North,Near North,1,2,Kasota
+459,12/31/2019 11:41am,Snow Emergency,"714 7th ave se,Minneapolis,MN",44.98768,-93.24241,3,Marcy Holmes,University,1,2,Kasota
+460,12/31/2019 11:41am,Snow Emergency,"3118 15th av s,Minneapolis,MN",44.94587,-93.253885,9,Powderhorn Park,Powderhorn,1,2,Kasota
+461,12/31/2019 11:41am,Snow Emergency,"526 bryant ave n,Minneapolis,MN",44.983437,-93.290715,5,Sumner - Glenwood,Near North,1,2,Kasota
+462,12/31/2019 11:42am,Snow Emergency,"804 11th Avenue se ,Minneapolis,MN",44.9861,-93.236567,3,Marcy Holmes,University,5,2,Kasota
+463,12/31/2019 11:42am,Snow Emergency,"604 13th ave se,Minneapolis,MN",44.98305,-93.235339,3,Marcy Holmes,University,2,2,Kasota
+464,12/31/2019 11:44am,Snow Emergency,"510 12TH AVE se,Minneapolis,MN",44.98292,-93.23712,3,Marcy Holmes,University,1,2,Kasota
+465,12/31/2019 11:44am,Snow Emergency,"506 BRYANT AVE N,Minneapolis,MN",44.98287,-93.29074,5,Sumner - Glenwood,Near North,4,2,Kasota
+466,12/31/2019 11:44am,Snow Emergency,"212 5th st ne,Minneapolis,MN",44.99129,-93.25571,3,St. Anthony West,Northeast,3,2,Kasota
+467,12/31/2019 11:45am,Snow Emergency,"3210 Aldrich Ave N,Minneapolis,MN",45.01352,-93.2889,4,McKinley,Camden,3,2,Kasota
+468,12/31/2019 11:46am,Snow Emergency,"714 8th ave se,Minneapolis,MN",44.986877,-93.24146,3,Marcy Holmes,University,2,2,Kasota
+469,12/31/2019 11:47am,Snow Emergency,"1508 Dupont Ave N,Minneapolis,MN",44.99447,-93.29214,5,Near - North,Near North,1,2,Kasota
+470,12/31/2019 11:48am,Snow Emergency,"804 11th Ave se,Minneapolis,MN",44.9861,-93.236567,3,Marcy Holmes,University,5,2,Kasota
+471,12/31/2019 11:49am,Snow Emergency,"216 5th st ne,Minneapolis,MN",44.99129,-93.25571,3,St. Anthony West,Northeast,3,2,Kasota
+472,12/31/2019 11:50am,Snow Emergency,"3200 Aldrich Ave n,Minneapolis,MN",45.01327,-93.2889,4,McKinley,Camden,2,2,Kasota
+473,12/31/2019 11:51am,Snow Emergency,"312 9th ave ne,Minneapolis,MN",44.997616,-93.26267,3,St. Anthony West,Northeast,4,2,Kasota
+474,12/31/2019 11:51am,Snow Emergency,"726 8th ave se,Minneapolis,MN",44.987272,-93.241165,3,Marcy Holmes,University,1,2,Kasota
+475,12/31/2019 11:52am,Snow Emergency,"720 6th st ne,Minneapolis,MN",44.99771,-93.25809,3,St. Anthony West,Northeast,4,2,Kasota
+476,12/31/2019 11:53am,Snow Emergency,"2500 girard ave s ,Minneapolis,MN",44.95717,-93.2973,7,East Isles,Calhoun Isle,5,2,Kasota
+477,12/31/2019 11:54am,Snow Emergency,"3102 19th ave ,Minneapolis,MN",44.946302,-93.244985,9,Corcoran,Powderhorn,2,2,Kasota
+478,12/31/2019 11:55am,Snow Emergency,"3528 15th ave s,Minneapolis,MN",44.93844,-93.25404,9,Powderhorn Park,Powderhorn,6,2,Kasota
+479,12/31/2019 11:55am,Snow Emergency,"3136 15th Avenue South,Minneapolis,MN",44.94548,-93.25413,9,Powderhorn Park,Powderhorn,5,2,Kasota
+480,12/31/2019 11:42am,Snow Emergency,"1800 Washington Ave N,Minneapolis,MN",44.99759,-93.281371,5,Near - North,Near North,1,2,Kasota
+481,12/31/2019 11:43am,Snow Emergency,"1800 Washington Ave N,Minneapolis,MN",44.99759,-93.281371,5,Near - North,Near North,6,2,Kasota
+482,12/31/2019 11:59am,Snow Emergency,"508 4th st ne,Minneapolis,MN",44.994179,-93.259056,3,St. Anthony West,Northeast,5,2,Kasota
+483,12/31/2019 12:00pm,Snow Emergency,"1714 Clinton Ave. S.,Minneapolis,MN",44.96545,-93.271595,6,Steven's Square - Loring Heights,Central,3,2,Kasota
+484,12/31/2019 12:00pm,Snow Emergency,"3328 21st ave e,Minneapolis,MN",44.94183,-93.24267,9,Corcoran,Powderhorn,3,2,Kasota
+485,12/31/2019 12:01pm,Snow Emergency,"3026 15th ave s,Minneapolis,MN",44.94748,-93.25414,9,Powderhorn Park,Powderhorn,1,2,Kasota
+486,12/31/2019 12:02pm,Snow Emergency,"3404 20th ave ,Minneapolis,MN",44.94106,-93.24393,9,Corcoran,Powderhorn,5,2,Kasota
+487,12/31/2019 12:03pm,Snow Emergency,"250 IRVING AVE N,Minneapolis,MN",44.97957,-93.29908,5,Harrison,Near North,3,2,Kasota
+488,12/31/2019 12:04pm,Snow Emergency,"106 3rd ave ne,Minneapolis,MN",44.99003,-93.26044,3,St. Anthony West,Northeast,6,2,Kasota
+489,12/31/2019 12:04pm,Snow Emergency,"524 irving ave n,Minneapolis,MN",44.983163,-93.299265,5,Harrison,Near North,2,2,Kasota
+490,12/31/2019 12:05pm,Snow Emergency,"702 summer st ne,Minneapolis,MN",44.996755,-93.252202,3,St. Anthony East,Northeast,3,2,Kasota
+491,12/31/2019 12:06pm,Snow Emergency,"1408 6th st se,Minneapolis,MN",44.98206,-93.23386,3,Marcy Holmes,University,4,2,Kasota
+492,12/31/2019 12:06pm,Snow Emergency,"608 12th ave se,Minneapolis,MN",44.98387,-93.236516,3,Marcy Holmes,University,2,2,Kasota
+493,12/31/2019 12:07pm,Snow Emergency,"412 3rd ave ne,Minneapolis,MN",44.9915,-93.25619,3,St. Anthony West,Northeast,5,2,Kasota
+494,12/31/2019 12:07pm,Snow Emergency,"3322 aldrich ave n ,Minneapolis,MN",45.01567,-93.28891,4,McKinley,Camden,6,2,Kasota
+495,12/31/2019 12:07pm,Snow Emergency,"422 12TH AVE SE,Minneapolis,MN",44.981879,-93.238115,3,Marcy Holmes,University,4,2,Kasota
+496,12/31/2019 12:07pm,Snow Emergency,"1832 34th st ,Minneapolis,MN",44.941455,-93.246755,9,Corcoran,Powderhorn,1,2,Kasota
+497,12/31/2019 12:08pm,Snow Emergency,"242 CLIFTON AVE,Minneapolis,MN",44.965888,-93.282761,7,Loring Park,Central,4,2,Kasota
+498,12/31/2019 12:08pm,Snow Emergency,"418 3rd ave ne,Minneapolis,MN",44.99108,-93.25635,3,St. Anthony West,Northeast,5,2,Kasota
+499,12/31/2019 12:08pm,Snow Emergency,"1808 34th Street East,Minneapolis,MN",44.941465,-93.24801,9,Powderhorn Park,Powderhorn,1,2,Kasota
+500,12/31/2019 12:09pm,Snow Emergency,"2226 GIRARD AVE S ,Minneapolis,MN",44.96042,-93.297045,7,East Isles,Calhoun Isle,1,2,Kasota
+501,12/31/2019 12:09pm,Snow Emergency,"606 4th st ne,Minneapolis,MN",44.995052,-93.259651,3,St. Anthony West,Northeast,3,2,Kasota
+502,12/31/2019 12:09pm,Snow Emergency,"1122 Humboldt Ave N,Minneapolis,MN",44.989348,-93.298045,5,Near - North,Near North,6,2,Kasota
+503,12/31/2019 12:09pm,Snow Emergency,"1012 Vincent Ave n ,Minneapolis,MN",44.98831,-93.31554,5,Willard - Hay,Near North,3,2,Kasota
+504,12/31/2019 12:11pm,Snow Emergency,"306 CLIFTON AVE,Minneapolis,MN",44.966247,-93.283868,7,Loring Park,Central,4,2,Kasota
+505,12/31/2019 12:12pm,Snow Emergency,"1334 Washburn Ave n ,Minneapolis,MN",44.9927,-93.31683,5,Willard - Hay,Near North,4,2,Kasota
+506,12/31/2019 12:13pm,Snow Emergency,"3304 aldrich ave n ,Minneapolis,MN",45.015156,-93.289145,4,McKinley,Camden,4,2,Kasota
+507,12/31/2019 12:17pm,Snow Emergency,"802 13th av se,Minneapolis,MN",44.985011,-93.23378,3,Marcy Holmes,University,4,2,Kasota
+508,12/31/2019 12:17pm,Snow Emergency,"810 13th ave se,Minneapolis,MN",44.984992,-93.233794,3,Marcy Holmes,University,4,2,Kasota
+509,12/31/2019 12:18pm,Snow Emergency,"1326 Washburn ave n ,Minneapolis,MN",44.99244,-93.31683,5,Willard - Hay,Near North,4,2,Kasota
+510,12/31/2019 12:20pm,Snow Emergency,"1322 Washburn ave n ,Minneapolis,MN",44.99231,-93.31683,5,Willard - Hay,Near North,3,2,Kasota
+511,12/31/2019 12:20pm,Snow Emergency,"1902 4TH AVE N,Minneapolis,MN",44.981715,-93.304727,5,Harrison,Near North,1,2,Kasota
+512,12/31/2019 12:21pm,Snow Emergency,"410 5th st ne,Minneapolis,MN",44.9935,-93.25704,3,St. Anthony West,Northeast,3,2,Kasota
+513,12/31/2019 12:22pm,Snow Emergency,"1126 SE 5TH ST,Minneapolis,MN",44.98246,-93.23815,3,Marcy Holmes,University,3,2,Kasota
+514,12/31/2019 12:22pm,Snow Emergency,"100 9th ave ne,Minneapolis,MN",44.996089,-93.267084,3,St. Anthony West,Northeast,6,2,Kasota
+515,12/31/2019 12:22pm,Snow Emergency,"2004 5th ave n,Minneapolis,MN",44.982756,-93.306051,5,Harrison,Near North,4,2,Kasota
+516,12/31/2019 12:23pm,Snow Emergency,"512 11 ave se,Minneapolis,MN",44.9834,-93.23842,3,Marcy Holmes,University,6,2,Kasota
+517,12/31/2019 12:26pm,Snow Emergency,"1204 Humboldt Ave N,Minneapolis,MN",44.990983,-93.298,5,Near - North,Near North,1,2,Kasota
+518,12/31/2019 12:26pm,Snow Emergency,"1108 5th st se,Minneapolis,MN",44.982787,-93.238661,3,Marcy Holmes,University,2,2,Kasota
+519,12/31/2019 12:27pm,Snow Emergency,"3200 15th av s,Minneapolis,MN",44.94459,-93.25412,9,Powderhorn Park,Powderhorn,2,2,Kasota
+520,12/31/2019 12:27pm,Snow Emergency,"1710 5th st ne,Minneapolis,MN",45.0056,-93.26061,1,Holland,Northeast,3,2,Kasota
+521,12/31/2019 12:27pm,Snow Emergency,"812 5TH AVE N,Minneapolis,MN",44.98294,-93.29014,5,Sumner - Glenwood,Near North,1,2,Kasota
+522,12/31/2019 12:28pm,Snow Emergency,"1014 5th Avenue se,Minneapolis,MN",44.991238,-93.243502,3,Marcy Holmes,University,3,2,Kasota
+523,12/31/2019 12:28pm,Snow Emergency,"3718 Aldrich Ave n,Minneapolis,MN",45.02269,-93.28894,4,McKinley,Camden,3,2,Kasota
+524,12/31/2019 12:29pm,Snow Emergency,"2720 humboldt ve s ,Minneapolis,MN",44.953064,-93.299677,7,East Isles,Calhoun Isle,1,2,Kasota
+525,12/31/2019 12:30pm,Snow Emergency,"3128 15th av s,Minneapolis,MN",44.94569,-93.25413,9,Powderhorn Park,Powderhorn,3,2,Kasota
+526,12/31/2019 12:32pm,Snow Emergency,"1012 5th Avenue se ,Minneapolis,MN",44.991238,-93.243502,3,Marcy Holmes,University,5,2,Kasota
+527,12/31/2019 12:33pm,Snow Emergency,"410 12 ave se,Minneapolis,MN",44.981678,-93.238269,3,Marcy Holmes,University,1,2,Kasota
+528,12/31/2019 12:34pm,Snow Emergency,"610 3rd ave ne,Minneapolis,MN",44.99234,-93.2531,3,St. Anthony East,Northeast,3,2,Kasota
+529,12/31/2019 12:34pm,Snow Emergency,"1104 13th ave se,Minneapolis,MN",44.991,-93.23292,2,Como,University,1,2,Kasota
+530,12/31/2019 12:36pm,Snow Emergency,"3010 20th ave s,Minneapolis,MN",44.9479,-93.24398,9,Corcoran,Powderhorn,4,2,Kasota
+531,12/31/2019 12:36pm,Snow Emergency,"3732 Aldrich Ave N,Minneapolis,MN",45.023116,-93.289106,4,McKinley,Camden,4,2,Kasota
+532,12/31/2019 12:36pm,Snow Emergency,"1408 7th st se,Minneapolis,MN",44.98306,-93.23306,3,Marcy Holmes,University,2,2,Kasota
+533,12/31/2019 12:37pm,Snow Emergency,"428 12th Ave se,Minneapolis,MN",44.981979,-93.238038,3,Marcy Holmes,University,1,2,Kasota
+534,12/31/2019 12:38pm,Snow Emergency,"300 GRAMERCY AVE,Minneapolis,MN",44.9798,-93.30152,5,Harrison,Near North,4,2,Kasota
+535,12/31/2019 12:39pm,Snow Emergency,"4016 Aldrich Ave N,Minneapolis,MN",45.02808,-93.28899,4,Webber - Camden,Camden,6,2,Kasota
+536,12/31/2019 12:40pm,Snow Emergency,"2310 girard ave s,Minneapolis,MN",44.95977,-93.29728,7,East Isles,Calhoun Isle,5,2,Kasota
+537,12/31/2019 12:41pm,Snow Emergency,"1918 2ND AVE S ,Minneapolis,MN",44.96325,-93.27437,6,Steven's Square - Loring Heights,Central,2,2,Kasota
+538,12/31/2019 12:41pm,Snow Emergency,"424 12th Ave se,Minneapolis,MN",44.981912,-93.23809,3,Marcy Holmes,University,1,2,Kasota
+539,12/31/2019 12:42pm,Snow Emergency,"408 NEWTON AVE N,Minneapolis,MN",44.981772,-93.305685,5,Harrison,Near North,1,2,Kasota
+540,12/31/2019 12:42pm,Snow Emergency,"3146 22nd ave,Minneapolis,MN",44.945082,-93.240765,9,Corcoran,Powderhorn,6,2,Kasota
+541,12/31/2019 12:44pm,Snow Emergency,"510 knox ave n,Minneapolis,MN",44.98311,-93.30161,5,Harrison,Near North,5,2,Kasota
+542,12/31/2019 12:45pm,Snow Emergency,"704 Upton ave n ,Minneapolis,MN",44.98532,-93.31428,5,Willard - Hay,Near North,4,2,Kasota
+543,12/31/2019 12:46pm,Snow Emergency,"1314 Girard Ave N,Minneapolis,MN",44.99255,-93.29675,5,Near - North,Near North,6,2,Kasota
+544,12/31/2019 12:47pm,Snow Emergency,"3928 15th ave s,Minneapolis,MN",44.93142,-93.25402,8,Bancroft,Powderhorn,4,2,Kasota
+545,12/31/2019 12:48pm,Snow Emergency,"3128 22 nd ave,Minneapolis,MN",44.9457,-93.24111,9,Corcoran,Powderhorn,4,2,Kasota
+546,12/31/2019 12:50pm,Snow Emergency,"1940 Upton ave n ,Minneapolis,MN",44.999421,-93.314455,5,Willard - Hay,Near North,2,2,Kasota
+547,12/31/2019 12:51pm,Snow Emergency,"312 GRAMERCY AVE,Minneapolis,MN",44.98008,-93.3012,5,Harrison,Near North,5,2,Kasota
+548,12/31/2019 12:52pm,Snow Emergency,"3112 16th Avenue South,Minneapolis,MN",44.94607,-93.25157,9,Powderhorn Park,Powderhorn,5,2,Kasota
+549,12/31/2019 12:53pm,Snow Emergency,"420 7th st se,Minneapolis,MN",44.988732,-93.247151,3,Marcy Holmes,University,2,2,Kasota
+550,12/31/2019 12:53pm,Snow Emergency,"1104 14th ave se,Minneapolis,MN",44.99099,-93.23165,1,Como,University,5,2,Kasota
+551,12/31/2019 12:54pm,Snow Emergency,"1706 2nd ave s ,Minneapolis,MN",44.96592,-93.27438,6,Steven's Square - Loring Heights,Central,4,2,Kasota
+552,12/31/2019 12:54pm,Snow Emergency,"342 MORGAN AVE N,Minneapolis,MN",44.981238,-93.304355,5,Harrison,Near North,4,2,Kasota
+553,12/31/2019 12:54pm,Snow Emergency,"1820 Stevens ave s,Minneapolis,MN",44.96449,-93.27563,6,Steven's Square - Loring Heights,Central,1,2,Kasota
+554,12/31/2019 12:55pm,Snow Emergency,"1312 7th st se,Minneapolis,MN",44.98345,-93.23444,3,Marcy Holmes,University,3,2,Kasota
+555,12/31/2019 12:56pm,Snow Emergency,"1114 14th ave se,Minneapolis,MN",44.99131,-93.23165,1,Como,University,3,2,Kasota
+556,12/31/2019 12:57pm,Snow Emergency,"1014 7TH ST SE,Minneapolis,MN",44.9852,-93.23851,3,Marcy Holmes,University,3,2,Kasota
+557,12/31/2019 12:57pm,Snow Emergency,"1114 14th ave se,Minneapolis,MN",44.99131,-93.23165,1,Como,University,4,2,Kasota
+558,12/31/2019 12:58pm,Snow Emergency,"1092 14th ave se,Minneapolis,MN",44.99061,-93.23164,1,Como,University,2,2,Kasota
+559,12/31/2019 12:58pm,Snow Emergency,"1806 Upton Ave n ,Minneapolis,MN",44.99798,-93.31424,5,Willard - Hay,Near North,2,2,Kasota
+560,12/31/2019 12:58pm,Snow Emergency,"3326 Aldrich Ave n,Minneapolis,MN",45.01578,-93.28891,4,McKinley,Camden,3,2,Kasota
+561,12/31/2019 12:59pm,Snow Emergency,"3304 22nd ,Minneapolis,MN",44.94264,-93.24095,9,Corcoran,Powderhorn,2,2,Kasota
+562,12/31/2019 01:01pm,Snow Emergency,"2620 Thomas Ave n ,Minneapolis,MN",45.0066,-93.31295,4,Willard - Hay,Near North,2,2,Kasota
+563,12/31/2019 01:02pm,Snow Emergency,"1812 Clinton Ave. S.,Minneapolis,MN",44.96466,-93.27182,6,Steven's Square - Loring Heights,Central,1,2,Kasota
+564,12/31/2019 01:02pm,Snow Emergency,"214 19TH ST E,Minneapolis,MN",44.96431,-93.27309,6,Steven's Square - Loring Heights,Central,3,2,Kasota
+565,12/31/2019 01:02pm,Snow Emergency,"3406 22nd ave so,Minneapolis,MN",44.941077,-93.240725,9,Corcoran,Powderhorn,6,2,Kasota
+566,12/31/2019 01:03pm,Snow Emergency,"532 oliver ave n,Minneapolis,MN",44.983508,-93.306834,5,Harrison,Near North,4,2,Kasota
+567,12/31/2019 01:04pm,Snow Emergency,"1720 STEVENS AVE S ,Minneapolis,MN",44.965954,-93.275405,6,Steven's Square - Loring Heights,Central,5,2,Kasota
+568,12/31/2019 01:04pm,Snow Emergency,"802 15th ave ne,Minneapolis,MN",45.003305,-93.249555,1,Logan Park,Northeast,1,2,Kasota
+569,12/31/2019 01:05pm,Snow Emergency,"4042 bryant ave n,Minneapolis,MN",45.02889,-93.29026,4,Webber - Camden,Camden,4,2,Kasota
+570,12/31/2019 01:05pm,Snow Emergency,"312 19TH ST E,Minneapolis,MN",44.964075,-93.272076,6,Steven's Square - Loring Heights,Central,1,2,Kasota
+571,12/31/2019 01:06pm,Snow Emergency,"322 GRAMERCY AVE,Minneapolis,MN",44.980433,-93.300973,5,Harrison,Near North,3,2,Kasota
+572,12/31/2019 01:07pm,Snow Emergency,"2228 5TH AVE N,Minneapolis,MN",44.982775,-93.308801,5,Harrison,Near North,4,2,Kasota
+573,12/31/2019 01:07pm,Snow Emergency,"1144 15th ave se,Minneapolis,MN",44.992342,-93.230549,1,Como,University,4,2,Kasota
+574,12/31/2019 01:07pm,Snow Emergency,"1064 13th ave se,Minneapolis,MN",44.98985,-93.233,2,Como,University,3,2,Kasota
+575,12/31/2019 01:08pm,Snow Emergency,"3010 19th Avenue South,Minneapolis,MN",44.948054,-93.244975,9,Corcoran,Powderhorn,4,2,Kasota
+576,12/31/2019 01:09pm,Snow Emergency,"330 ulysses st ne,Minneapolis,MN",44.992631,-93.236041,1,Como,University,4,2,Kasota
+577,12/31/2019 01:09pm,Snow Emergency,"1402 Girard Ave N,Minneapolis,MN",44.99321,-93.29675,5,Near - North,Near North,1,2,Kasota
+578,12/31/2019 01:12pm,Snow Emergency,"1401 7th st se,Minneapolis,MN",44.983491,-93.233177,3,Marcy Holmes,University,3,2,Kasota
+579,12/31/2019 01:12pm,Snow Emergency,"3834 bryant ave n,Minneapolis,MN",45.02496,-93.29022,4,Webber - Camden,Camden,3,2,Kasota
+580,12/31/2019 01:15pm,Snow Emergency,"1420 6th st se,Minneapolis,MN",44.98191,-93.23348,3,Marcy Holmes,University,4,2,Kasota
+581,12/31/2019 01:15pm,Snow Emergency,"1314 3rd st ne,Minneapolis,MN",45.001154,-93.264745,3,Sheridan,Northeast,1,2,Kasota
+582,12/31/2019 01:15pm,Snow Emergency,"1824 Stevens ave S ,Minneapolis,MN",44.964264,-93.275405,6,Steven's Square - Loring Heights,Central,3,2,Kasota
+583,12/31/2019 01:17pm,Snow Emergency,"300 12th ave ne,Minneapolis,MN",44.99961,-93.26435,3,Sheridan,Northeast,4,2,Kasota
+584,12/31/2019 01:17pm,Snow Emergency,"3012 20th ave s,Minneapolis,MN",44.947903,-93.243755,9,Corcoran,Powderhorn,1,2,Kasota
+585,12/31/2019 01:18pm,Snow Emergency,"2108 6th st ne,Minneapolis,MN",45.00947,-93.25895,1,Holland,Northeast,3,2,Kasota
+586,12/31/2019 01:20pm,Snow Emergency,"1538 5th st ne,Minneapolis,MN",45.00421,-93.2606,3,Sheridan,Northeast,6,2,Kasota
+587,12/31/2019 01:20pm,Snow Emergency,"2202 5TH AVE N,Minneapolis,MN",44.982775,-93.308549,5,Harrison,Near North,4,2,Kasota
+588,12/31/2019 01:21pm,Snow Emergency,"1924 stevens ave s ,Minneapolis,MN",44.963,-93.27565,6,Steven's Square - Loring Heights,Central,3,2,Kasota
+589,12/31/2019 01:21pm,Snow Emergency,"1320 7th se,Minneapolis,MN",44.98334,-93.23379,3,Marcy Holmes,University,1,2,Kasota
+590,12/31/2019 01:21pm,Snow Emergency,"1224 6th ST se,Minneapolis,MN",44.983251,-93.236586,3,Marcy Holmes,University,5,2,Kasota
+591,12/31/2019 01:22pm,Snow Emergency,"414 7th st se,Minneapolis,MN",44.98851,-93.24711,3,Marcy Holmes,University,3,2,Kasota
+592,12/31/2019 01:23pm,Snow Emergency,"1814 Upton ave n ,Minneapolis,MN",44.99817,-93.31423,5,Willard - Hay,Near North,6,2,Kasota
+593,12/31/2019 01:24pm,Snow Emergency,"2410 Clinton ave s,Minneapolis,MN",44.95826,-93.27213,10,Whittier,Powderhorn,1,2,Kasota
+594,12/31/2019 01:24pm,Snow Emergency,"418 12th ave se,Minneapolis,MN",44.981812,-93.238167,3,Marcy Holmes,University,6,2,Kasota
+595,12/31/2019 01:25pm,Snow Emergency,"820 15th ave ne,Minneapolis,MN",45.003305,-93.249487,1,Logan Park,Northeast,6,2,Kasota
+596,12/31/2019 01:25pm,Snow Emergency,"920 6th st se ,Minneapolis,MN",44.984788,-93.240422,3,Marcy Holmes,University,4,2,Kasota
+597,12/31/2019 01:26pm,Snow Emergency,"706 15th ave ne,Minneapolis,MN",45.002945,-93.252168,1,Logan Park,Northeast,5,2,Kasota
+598,12/31/2019 01:26pm,Snow Emergency,"1406 7TH ST SE,Minneapolis,MN",44.98312,-93.2332,3,Marcy Holmes,University,1,2,Kasota
+599,12/31/2019 01:27pm,Snow Emergency,"1520 33rd st E,Minneapolis,MN",44.943055,-93.253009,9,Powderhorn Park,Powderhorn,4,2,Kasota
+600,12/31/2019 01:27pm,Snow Emergency,"3034 16th ave s,Minneapolis,MN",44.947315,-93.251415,9,Powderhorn Park,Powderhorn,5,2,Kasota
+601,12/31/2019 01:27pm,Snow Emergency,"1424 Girard Ave N,Minneapolis,MN",44.994,-93.2969,5,Near - North,Near North,5,2,Kasota
+602,12/31/2019 01:28pm,Snow Emergency,"1228 7 th st se,Minneapolis,MN",44.984214,-93.235764,3,Marcy Holmes,University,3,2,Kasota
+603,12/31/2019 01:28pm,Snow Emergency,"300 QUEEN AVE N,Minneapolis,MN",44.98003,-93.30935,5,Harrison,Near North,2,2,Kasota
+604,12/31/2019 01:29pm,Snow Emergency,"916 6th st se,Minneapolis,MN",44.98475,-93.24059,3,Marcy Holmes,University,5,2,Kasota
+605,12/31/2019 01:29pm,Snow Emergency,"3102 10th ave s,Minneapolis,MN",44.946302,-93.260289,9,Powderhorn Park,Powderhorn,2,2,Kasota
+606,12/31/2019 01:29pm,Snow Emergency,"1518 33rd st E,Minneapolis,MN",44.943055,-93.253063,9,Powderhorn Park,Powderhorn,4,2,Kasota
+607,12/31/2019 01:29pm,Snow Emergency,"2716 Upton ave n ,Minneapolis,MN",45.008042,-93.314445,4,Willard - Hay,Near North,1,2,Kasota
+608,12/31/2019 01:31pm,Snow Emergency,"1120 5th street SE,Minneapolis,MN",44.98246,-93.23845,3,Marcy Holmes,University,4,2,Kasota
+609,12/31/2019 01:31pm,Snow Emergency,"334 newton ave n,Minneapolis,MN",44.980954,-93.305685,5,Harrison,Near North,5,2,Kasota
+610,12/31/2019 01:32pm,Snow Emergency,"1526 37th st e,Minneapolis,MN",44.936055,-93.253025,9,Powderhorn Park,Powderhorn,5,2,Kasota
+611,12/31/2019 01:34pm,Snow Emergency,"3014 16th Avenue South,Minneapolis,MN",44.94801,-93.251419,9,Powderhorn Park,Powderhorn,1,2,Kasota
+612,12/31/2019 01:34pm,Snow Emergency,"1412 7th st se,Minneapolis,MN",44.983014,-93.232748,3,Marcy Holmes,University,3,2,Kasota
+613,12/31/2019 01:34pm,Snow Emergency,"324 QUEEN AVE N,Minneapolis,MN",44.980889,-93.309575,5,Harrison,Near North,4,2,Kasota
+614,12/31/2019 01:34pm,Snow Emergency,"3730 Bryant Ave n,Minneapolis,MN",45.02303,-93.2902,4,McKinley,Camden,3,2,Kasota
+615,12/31/2019 01:35pm,Snow Emergency,"802 12TH AVE SE,Minneapolis,MN",44.985536,-93.235199,3,Marcy Holmes,University,2,2,Kasota
+616,12/31/2019 01:35pm,Snow Emergency,"3506 15th av s,Minneapolis,MN",44.93923,-93.25405,9,Powderhorn Park,Powderhorn,2,2,Kasota
+617,12/31/2019 01:38pm,Snow Emergency,"1928 Clinton Ave. S.,Minneapolis,MN",44.96298,-93.27195,6,Steven's Square - Loring Heights,Central,3,2,Kasota
+618,12/31/2019 01:40pm,Snow Emergency,"1808 Stevens ave s ,Minneapolis,MN",44.96487,-93.27563,6,Steven's Square - Loring Heights,Central,4,2,Kasota
+619,12/31/2019 01:42pm,Snow Emergency,"332 NEWTON AVE N,Minneapolis,MN",44.980939,-93.305685,5,Harrison,Near North,4,2,Kasota
+620,12/31/2019 01:46pm,Snow Emergency,"1114 6th st ne,Minneapolis,MN",44.9992,-93.25926,3,Sheridan,Northeast,6,2,Kasota
+621,12/31/2019 01:48pm,Snow Emergency,"620 15th ave ne,Minneapolis,MN",45.002945,-93.25736,1,Logan Park,Northeast,6,2,Kasota
+622,12/31/2019 01:48pm,Snow Emergency,"1086 13th av se,Minneapolis,MN",44.99044,-93.23292,2,Como,University,2,2,Kasota
+623,12/31/2019 01:49pm,Snow Emergency,"2102 pleasant ave s,Minneapolis,MN",44.962315,-93.283055,10,Whittier,Powderhorn,2,2,Kasota
+624,12/31/2019 01:49pm,Snow Emergency,"318 QUEEN AVE N,Minneapolis,MN",44.980564,-93.309445,5,Harrison,Near North,1,2,Kasota
+625,12/31/2019 01:50pm,Snow Emergency,"1216 Jefferson St Ne,Minneapolis,MN",45.000382,-93.255115,1,Logan Park,Northeast,6,2,Kasota
+626,12/31/2019 01:53pm,Snow Emergency,"1518 Girard Ave N,Minneapolis,MN",44.99483,-93.29675,5,Near - North,Near North,3,2,Kasota
+627,12/31/2019 01:53pm,Snow Emergency,"2318 32nd st e,Minneapolis,MN",44.94497,-93.23794,9,Corcoran,Powderhorn,3,2,Kasota
+628,12/31/2019 01:55pm,Snow Emergency,"3120 Elliot ,Minneapolis,MN",44.94584,-93.26172,9,Powderhorn Park,Powderhorn,5,2,Kasota
+629,12/31/2019 01:58pm,Snow Emergency,"1806 talmage ave se,Minneapolis,MN",44.989495,-93.226672,1,Como,University,1,2,Kasota
+630,12/31/2019 01:58pm,Snow Emergency,"1410 jefferson st ne,Minneapolis,MN",45.00235,-93.25537,1,Logan Park,Northeast,5,2,Kasota
+631,12/31/2019 01:58pm,Snow Emergency,"3142 10th Avenue South,Minneapolis,MN",44.94531,-93.26045,9,Powderhorn Park,Powderhorn,3,2,Kasota
+632,12/31/2019 01:59pm,Snow Emergency,"406 NEWTON AVE N,Minneapolis,MN",44.981757,-93.305685,5,Harrison,Near North,5,2,Kasota
+633,12/31/2019 02:00pm,Snow Emergency,"3350 Bryant Ave n,Minneapolis,MN",45.01655,-93.29017,4,McKinley,Camden,3,2,Kasota
+634,12/31/2019 02:02pm,Snow Emergency,"1046 19TH AVE SE,Minneapolis,MN",44.98919,-93.22519,1,Como,University,5,2,Kasota
+635,12/31/2019 02:02pm,Snow Emergency,"124 Clifton ave ,Minneapolis,MN",44.965043,-93.283525,7,Loring Park,Central,1,2,Kasota
+636,12/31/2019 02:02pm,Snow Emergency,"976 17TH ave se,Minneapolis,MN",44.986933,-93.228408,2,Como,University,4,2,Kasota
+637,12/31/2019 02:04pm,Snow Emergency,"2338 Thomas ave n ,Minneapolis,MN",45.00352,-93.31296,5,Willard - Hay,Near North,2,2,Kasota
+638,12/31/2019 02:04pm,Snow Emergency,"3104 elliot,Minneapolis,MN",44.94629,-93.26172,9,Powderhorn Park,Powderhorn,1,2,Kasota
+639,12/31/2019 02:06pm,Snow Emergency,"336 ulysses st ne,Minneapolis,MN",44.992926,-93.235985,1,Como,University,6,2,Kasota
+640,12/31/2019 02:07pm,Snow Emergency,"208 19TH ST E,Minneapolis,MN",44.964075,-93.273758,6,Steven's Square - Loring Heights,Central,1,2,Kasota
+641,12/31/2019 02:07pm,Snow Emergency,"3046 18th Avenue South,Minneapolis,MN",44.9469,-93.24903,9,Powderhorn Park,Powderhorn,4,2,Kasota
+642,12/31/2019 02:07pm,Snow Emergency,"1140 winter st ne,Minneapolis,MN",44.993155,-93.236286,1,Como,University,4,2,Kasota
+643,12/31/2019 02:08pm,Snow Emergency,"4126 Bryant Ave N,Minneapolis,MN",45.03022,-93.29027,4,Webber - Camden,Camden,4,2,Kasota
+644,12/31/2019 02:08pm,Snow Emergency,"1642 Thomas ave n ,Minneapolis,MN",44.99641,-93.31297,5,Willard - Hay,Near North,2,2,Kasota
+645,12/31/2019 02:09pm,Snow Emergency,"142 19TH ST E,Minneapolis,MN",44.964075,-93.27492,6,Steven's Square - Loring Heights,Central,6,2,Kasota
+646,12/31/2019 02:11pm,Snow Emergency,"1408 Irving Ave N,Minneapolis,MN",44.99332,-93.29905,5,Near - North,Near North,4,2,Kasota
+647,12/31/2019 02:11pm,Snow Emergency,"46 OLIVER AVE N,Minneapolis,MN",44.97861,-93.306915,5,Harrison,Near North,3,2,Kasota
+648,12/31/2019 02:14pm,Snow Emergency,"400LOGAN AVE N,Minneapolis,MN",44.98172,-93.30289,5,Harrison,Near North,3,2,Kasota
+649,12/31/2019 02:14pm,Snow Emergency,"1020 24TH AVE SE,Minneapolis,MN",44.9886,-93.21862,1,Como,University,4,2,Kasota
+650,12/31/2019 02:14pm,Snow Emergency,"2706 Upton Ave n ,Minneapolis,MN",45.007992,-93.314445,4,Willard - Hay,Near North,5,2,Kasota
+651,12/31/2019 02:14pm,Snow Emergency,"2412 california st ne,Minneapolis,MN",45.012761,-93.269035,3,Bottineau,Northeast,3,2,Kasota
+652,12/31/2019 02:15pm,Snow Emergency,"878 19th ave se,Minneapolis,MN",44.9858,-93.22517,2,Como,University,3,2,Kasota
+653,12/31/2019 02:16pm,Snow Emergency,"2508 pleasant ave s,Minneapolis,MN",44.95696,-93.28336,10,Whittier,Powderhorn,4,2,Kasota
+654,12/31/2019 02:17pm,Snow Emergency,"2220 talmage ave se,Minneapolis,MN",44.989559,-93.221159,1,Como,University,4,2,Kasota
+655,12/31/2019 02:17pm,Snow Emergency,"1512 8th st se,Minneapolis,MN",44.983606,-93.231016,2,University of Minnesota,University,2,2,Kasota
+656,12/31/2019 02:18pm,Snow Emergency,"1514 Thomas Ave n ,Minneapolis,MN",44.99459,-93.31297,5,Willard - Hay,Near North,1,2,Kasota
+657,12/31/2019 02:19pm,Snow Emergency,"202 Clifton AVE,Minneapolis,MN",44.965283,-93.282772,7,Loring Park,Central,3,2,Kasota
+658,12/31/2019 02:20pm,Snow Emergency,"1010 16TH AVE se,Minneapolis,MN",44.9882,-93.2291,1,Como,University,3,2,Kasota
+659,12/31/2019 02:21pm,Snow Emergency,"134 14th ave ne,Minneapolis,MN",45.0017,-93.268992,3,Sheridan,Northeast,6,2,Kasota
+660,12/31/2019 02:24pm,Snow Emergency,"614 12th Ave se,Minneapolis,MN",44.984095,-93.236339,3,Marcy Holmes,University,4,2,Kasota
+661,12/31/2019 02:24pm,Snow Emergency,"2412 california st ne,Minneapolis,MN",45.012761,-93.269035,3,Bottineau,Northeast,5,2,Kasota
+662,12/31/2019 02:26pm,Snow Emergency,"4114 Bryant Ave N,Minneapolis,MN",45.02984,-93.29027,4,Webber - Camden,Camden,6,2,Kasota
+663,12/31/2019 02:26pm,Snow Emergency,"2414 california st ne,Minneapolis,MN",45.01249,-93.26918,3,Bottineau,Northeast,6,2,Kasota
+664,12/31/2019 02:28pm,Snow Emergency,"2216 california st ne,Minneapolis,MN",45.010687,-93.269035,3,Bottineau,Northeast,3,2,Kasota
+665,12/31/2019 02:29pm,Snow Emergency,"3022 12th ave,Minneapolis,MN",44.947675,-93.257754,9,Powderhorn Park,Powderhorn,6,2,Kasota
+666,12/31/2019 02:31pm,Snow Emergency,"326 QUEEN AVE S,Minneapolis,MN",44.97368,-93.309755,7,Bryn - Mawr,Calhoun Isle,4,2,Kasota
+667,12/31/2019 02:31pm,Snow Emergency,"1212 powderhorn,Minneapolis,MN",44.94588,-93.25709,9,Powderhorn Park,Powderhorn,5,2,Kasota
+668,12/31/2019 02:32pm,Snow Emergency,"1118 Irving Ave N,Minneapolis,MN",44.98965,-93.29939,5,Near - North,Near North,5,2,Kasota
+669,12/31/2019 02:33pm,Snow Emergency,"2218 HAWTHORNE AVE N,Minneapolis,MN",44.975475,-93.308699,7,Bryn - Mawr,Calhoun Isle,3,2,Kasota
+670,12/31/2019 02:33pm,Snow Emergency,"3522 bryant ave n,Minneapolis,MN",45.0193,-93.29018,4,McKinley,Camden,5,2,Kasota
+671,12/31/2019 02:34pm,Snow Emergency,"1522 Thomas ave n ,Minneapolis,MN",44.99481,-93.31297,5,Willard - Hay,Near North,3,2,Kasota
+672,12/31/2019 02:38pm,Snow Emergency,"1624 Sheridan ave n ,Minneapolis,MN",44.995896,-93.311915,5,Willard - Hay,Near North,2,2,Kasota
+673,12/31/2019 02:38pm,Snow Emergency,"3816 standish,Minneapolis,MN",44.93348,-93.24007,12,Standish,Powderhorn,3,2,Kasota
+674,12/31/2019 02:38pm,Snow Emergency,"302 Clifton ,Minneapolis,MN",44.96621,-93.2833,7,Loring Park,Central,3,2,Kasota
+675,12/31/2019 02:40pm,Snow Emergency,"646 buchanan st ne,Minneapolis,MN",44.99643,-93.24005,3,Beltrami,Northeast,4,2,Kasota
+676,12/31/2019 02:37pm,Snow Emergency,"718 SE 6THAVE ,Minneapolis,MN",44.988008,-93.244215,3,Marcy Holmes,University,3,2,Kasota
+677,12/31/2019 02:42pm,Snow Emergency,"1538 32nd Street East,Minneapolis,MN",44.944875,-93.252223,9,Powderhorn Park,Powderhorn,2,2,Kasota
+678,12/31/2019 02:44pm,Snow Emergency,"850 22nd ave se,Minneapolis,MN",44.98515,-93.2212,2,Como,University,3,2,Kasota
+679,12/31/2019 02:44pm,Snow Emergency,"3052 18th Avenue South,Minneapolis,MN",44.947399,-93.248805,9,Powderhorn Park,Powderhorn,1,2,Kasota
+680,12/31/2019 02:47pm,Snow Emergency,"1210 Irving Ave N,Minneapolis,MN",44.99051,-93.29908,5,Near - North,Near North,4,2,Kasota
+681,12/31/2019 02:49pm,Snow Emergency,"2226 Fairmont av se,Minneapolis,MN",44.985935,-93.221151,2,Como,University,3,2,Kasota
+682,12/31/2019 02:50pm,Snow Emergency,"842 23rd Avenue se ,Minneapolis,MN",44.98488,-93.21993,2,Como,University,4,2,Kasota
+683,12/31/2019 02:50pm,Snow Emergency,"2218 34th st e,Minneapolis,MN",44.941475,-93.240166,9,Corcoran,Powderhorn,2,2,Kasota
+684,12/31/2019 02:52pm,Snow Emergency,"2618 pleasant ave s,Minneapolis,MN",44.95487,-93.28336,10,Whittier,Powderhorn,3,2,Kasota
+685,12/31/2019 02:52pm,Snow Emergency,"1406 queen Ave n ,Minneapolis,MN",44.99357,-93.30912,5,Willard - Hay,Near North,2,2,Kasota
+686,12/31/2019 02:52pm,Snow Emergency,"2224 Fairmont st se,Minneapolis,MN",44.985935,-93.221168,2,Como,University,3,2,Kasota
+687,12/31/2019 02:54pm,Snow Emergency,"404 SHERIDAN AVE S,Minneapolis,MN",44.9733,-93.31254,7,Bryn - Mawr,Calhoun Isle,3,2,Kasota
+688,12/31/2019 02:54pm,Snow Emergency,"320 Clifton ,Minneapolis,MN",44.966325,-93.284101,7,Loring Park,Central,4,2,Kasota
+689,12/31/2019 02:55pm,Snow Emergency,"1712 2ND AVE S,Minneapolis,MN",44.965853,-93.274185,6,Steven's Square - Loring Heights,Central,2,2,Kasota
+690,12/31/2019 02:55pm,Snow Emergency,"914 Russell Ave n ,Minneapolis,MN",44.98739,-93.31062,5,Willard - Hay,Near North,1,2,Kasota
+691,12/31/2019 03:06pm,Snow Emergency,"1214 Irving Ave N,Minneapolis,MN",44.99064,-93.29908,5,Near - North,Near North,1,2,Kasota
+692,12/31/2019 03:06pm,Snow Emergency,"2320 33rd Street East,Minneapolis,MN",44.94319,-93.23777,9,Corcoran,Powderhorn,6,2,Kasota
+693,12/31/2019 03:09pm,Snow Emergency,"1076 14TH AVE SE ,Minneapolis,MN",44.99022,-93.23164,1,Como,University,4,2,Kasota
+694,12/31/2019 03:11pm,Snow Emergency,"3428 16th ave s,Minneapolis,MN",44.94041,-93.25151,9,Powderhorn Park,Powderhorn,2,2,Kasota
+695,12/31/2019 03:12pm,Snow Emergency,"328 Clifton ,Minneapolis,MN",44.966377,-93.284233,7,Loring Park,Central,1,2,Kasota
+696,12/31/2019 03:15pm,Snow Emergency,"928 20 th ave se,Minneapolis,MN",44.986773,-93.224018,2,Como,University,4,2,Kasota
+697,12/31/2019 03:18pm,Snow Emergency,"1030 16 ave se,Minneapolis,MN",44.98874,-93.2291,1,Como,University,4,2,Kasota
+698,12/31/2019 03:21pm,Snow Emergency,"3832 24th ave ,Minneapolis,MN",44.93309,-93.23757,12,Standish,Powderhorn,4,2,Kasota
+699,12/31/2019 03:21pm,Snow Emergency,"1006 13 ave se,Minneapolis,MN",44.9881,-93.23291,2,Como,University,3,2,Kasota
+700,12/31/2019 03:21pm,Snow Emergency,"910 Russell ave n,Minneapolis,MN",44.98731,-93.31073,5,Willard - Hay,Near North,3,2,Kasota
+701,12/31/2019 03:24pm,Snow Emergency,"3820 24th ave ,Minneapolis,MN",44.93342,-93.23757,12,Standish,Powderhorn,4,2,Kasota
+702,12/31/2019 03:31pm,Snow Emergency,"1026 13th ave se quote ,Minneapolis,MN",44.98861,-93.23291,2,Como,University,1,2,Kasota
+703,12/31/2019 03:38pm,Snow Emergency,"3554 17th ave s,Minneapolis,MN",44.93793,-93.25027,9,Powderhorn Park,Powderhorn,3,2,Kasota
+704,01/01/2020 08:15am,Snow Emergency,"2303 3rd st n ,Minneapolis,MN",45.002784,-93.283515,5,Hawthorne,Near North,5,3,Kasota
+705,01/01/2020 08:17am,Snow Emergency,"3009 Knox ave s,Minneapolis,MN",44.94794,-93.3043,10,ECCO,Calhoun Isle,5,3,Kasota
+706,01/01/2020 08:18am,Snow Emergency,"1705 Lyn Park Ave N,Minneapolis,MN",44.996774,-93.286352,5,Near - North,Near North,5,3,Kasota
+707,01/01/2020 08:18am,Snow Emergency,"1783 BRYANT AVE S,Minneapolis,MN",44.965654,-93.290385,7,Lowry Hill,Calhoun Isle,3,3,Kasota
+708,01/01/2020 08:22am,Snow Emergency,"4625 14th ave s,Minneapolis,MN",44.91889,-93.25458,11,Northrop,Nokomis,5,3,Kasota
+709,01/01/2020 08:23am,Snow Emergency,"1771 BRYANT AVE S ,Minneapolis,MN",44.965739,-93.290385,7,Lowry Hill,Calhoun Isle,4,3,Kasota
+710,01/01/2020 08:29am,Snow Emergency,"4551 14th Avenue South,Minneapolis,MN",44.91985,-93.25458,11,Northrop,Nokomis,3,3,Kasota
+711,01/01/2020 08:30am,Snow Emergency,"223 14TH ST W,Minneapolis,MN",44.968655,-93.281181,7,Loring Park,Central,1,3,Kasota
+712,01/01/2020 08:31am,Snow Emergency,"513 LYNDALE PL,Minneapolis,MN",44.98339,-93.28892,5,Sumner - Glenwood,Near North,4,3,Kasota
+713,01/01/2020 08:34am,Snow Emergency,"1825 Bryant Ave South,Minneapolis,MN",44.965156,-93.290385,7,Lowry Hill,Calhoun Isle,4,3,Kasota
+714,01/01/2020 08:35am,Snow Emergency,"225 14TH ST W,Minneapolis,MN",44.968655,-93.281194,7,Loring Park,Central,1,3,Kasota
+715,01/01/2020 08:35am,Snow Emergency,"827 Lyndale Pl,Minneapolis,MN",44.986841,-93.289748,5,Sumner - Glenwood,Near North,6,3,Kasota
+716,01/01/2020 08:36am,Snow Emergency,"2515 Vincent ave n ,Minneapolis,MN",45.005218,-93.316025,5,Willard - Hay,Near North,4,3,Kasota
+717,01/01/2020 08:37am,Snow Emergency,"1829 BRYANT AVE S ,Minneapolis,MN",44.965139,-93.290385,7,Lowry Hill,Calhoun Isle,3,3,Kasota
+718,01/01/2020 08:39am,Snow Emergency,"1827 Bryant Ave S,Minneapolis,MN",44.965148,-93.290385,7,Lowry Hill,Calhoun Isle,4,3,Kasota
+719,01/01/2020 08:40am,Snow Emergency,"509 LYNDALE PL,Minneapolis,MN",44.98318,-93.28893,5,Sumner - Glenwood,Near North,1,3,Kasota
+720,01/01/2020 08:40am,Snow Emergency,"4251 14th Avenue South,Minneapolis,MN",44.92525,-93.25455,8,Northrop,Nokomis,6,3,Kasota
+721,01/01/2020 08:42am,Snow Emergency,"2751 Vincent ave n ,Minneapolis,MN",45.008346,-93.316025,4,Willard - Hay,Near North,6,3,Kasota
+722,01/01/2020 08:42am,Snow Emergency,"4249 14th ave ,Minneapolis,MN",44.92534,-93.25455,8,Northrop,Nokomis,2,3,Kasota
+723,01/01/2020 08:43am,Snow Emergency,"523 2nd Avenue se,Minneapolis,MN",44.989032,-93.251453,3,Marcy Holmes,University,4,3,Kasota
+724,01/01/2020 08:43am,Snow Emergency,"829 lyndale pl,Minneapolis,MN",44.98678,-93.29017,5,Sumner - Glenwood,Near North,3,3,Kasota
+725,01/01/2020 08:44am,Snow Emergency,"3915 25th ave s,Minneapolis,MN",44.931748,-93.235785,12,Standish,Powderhorn,5,3,Kasota
+726,01/01/2020 08:46am,Snow Emergency,"831 Lyndale Pl,Minneapolis,MN",44.986573,-93.289648,5,Sumner - Glenwood,Near North,1,3,Kasota
+727,01/01/2020 08:46am,Snow Emergency,"527 2nd Avenue se ,Minneapolis,MN",44.98904,-93.25165,3,Marcy Holmes,University,6,3,Kasota
+728,01/01/2020 08:47am,Snow Emergency,"3043 James ave s,Minneapolis,MN",44.947585,-93.303158,10,ECCO,Calhoun Isle,1,3,Kasota
+729,01/01/2020 08:49am,Snow Emergency,"317 3rd ave ne,Minneapolis,MN",44.99151,-93.25758,3,St. Anthony West,Northeast,4,3,Kasota
+730,01/01/2020 08:51am,Snow Emergency,"213 3rd ave ne,Minneapolis,MN",44.9909,-93.25934,3,St. Anthony West,Northeast,5,3,Kasota
+731,01/01/2020 08:53am,Snow Emergency,"2427 3rd St N,Minneapolis,MN",45.004031,-93.283525,5,Hawthorne,Near North,6,3,Kasota
+732,01/01/2020 08:54am,Snow Emergency,"747 lyndale pl,Minneapolis,MN",44.986011,-93.289431,5,Sumner - Glenwood,Near North,5,3,Kasota
+733,01/01/2020 08:54am,Snow Emergency,"1805 colfax Ave s ,Minneapolis,MN",44.965106,-93.291645,7,Lowry Hill,Calhoun Isle,1,3,Kasota
+734,01/01/2020 08:56am,Snow Emergency,"1905 Colfax Ave South,Minneapolis,MN",44.963942,-93.291655,7,Lowry Hill,Calhoun Isle,1,3,Kasota
+735,01/01/2020 08:57am,Snow Emergency,"3953 14th Avenue South,Minneapolis,MN",44.93076,-93.25457,8,Bancroft,Powderhorn,1,3,Kasota
+736,01/01/2020 08:57am,Snow Emergency,"2603 3rd St N,Minneapolis,MN",45.00605,-93.283515,5,Hawthorne,Near North,6,3,Kasota
+737,01/01/2020 08:59am,Snow Emergency,"2325 3rd st n,Minneapolis,MN",45.002902,-93.283515,5,Hawthorne,Near North,4,3,Kasota
+738,01/01/2020 09:01am,Snow Emergency,"507 3Rd Ave Ne,Minneapolis,MN",44.992365,-93.255207,3,St. Anthony East,Northeast,4,3,Kasota
+739,01/01/2020 09:02am,Snow Emergency,"301 3RD AVE SE,Minneapolis,MN",44.98574,-93.25212,3,Marcy Holmes,University,3,3,Kasota
+740,01/01/2020 09:03am,Snow Emergency,"2511 3rd street n,Minneapolis,MN",45.00518,-93.2838,5,Hawthorne,Near North,5,3,Kasota
+741,01/01/2020 09:03am,Snow Emergency,"4453 14th ave s,Minneapolis,MN",44.92165,-93.25457,11,Northrop,Nokomis,3,3,Kasota
+742,01/01/2020 09:04am,Snow Emergency,"319 3rd ave se,Minneapolis,MN",44.98592,-93.25197,3,Marcy Holmes,University,1,3,Kasota
+743,01/01/2020 09:04am,Snow Emergency,"933 3Rd Ave Ne,Minneapolis,MN",44.99441,-93.25025,3,St. Anthony East,Northeast,5,3,Kasota
+744,01/01/2020 09:04am,Snow Emergency,"3545 14th ave s,Minneapolis,MN",44.93793,-93.25458,9,Powderhorn Park,Powderhorn,3,3,Kasota
+745,01/01/2020 09:04am,Snow Emergency,"723 5 AVE SE ,Minneapolis,MN",44.989237,-93.245485,3,Marcy Holmes,University,4,3,Kasota
+746,01/01/2020 09:07am,Snow Emergency,"4103 14th ave s,Minneapolis,MN",44.928444,-93.254731,8,Bancroft,Powderhorn,4,3,Kasota
+747,01/01/2020 09:07am,Snow Emergency,"2207 3rd st n,Minneapolis,MN",45.00175,-93.28368,5,Hawthorne,Near North,1,3,Kasota
+748,01/01/2020 09:08am,Snow Emergency,"4105 14th ave so,Minneapolis,MN",44.92844,-93.25456,8,Bancroft,Powderhorn,3,3,Kasota
+749,01/01/2020 09:10am,Snow Emergency,"1915 colfax Ave s ,Minneapolis,MN",44.96385,-93.29143,7,Lowry Hill,Calhoun Isle,3,3,Kasota
+750,01/01/2020 09:11am,Snow Emergency,"2715 Vincent ave n ,Minneapolis,MN",45.008069,-93.316025,4,Willard - Hay,Near North,3,3,Kasota
+751,01/01/2020 09:12am,Snow Emergency,"1813 Colfax Ave South,Minneapolis,MN",44.9649,-93.291645,7,Lowry Hill,Calhoun Isle,1,3,Kasota
+752,01/01/2020 09:15am,Snow Emergency,"1783 COLFAX AVE S,Minneapolis,MN",44.96575,-93.29141,7,Lowry Hill,Calhoun Isle,3,3,Kasota
+753,01/01/2020 09:16am,Snow Emergency,"3003 James ave s,Minneapolis,MN",44.948169,-93.30315,10,ECCO,Calhoun Isle,4,3,Kasota
+754,01/01/2020 09:16am,Snow Emergency,"1807 Vincent ave n ,Minneapolis,MN",44.998061,-93.316035,5,Willard - Hay,Near North,3,3,Kasota
+755,01/01/2020 09:17am,Snow Emergency,"3927 14th av s,Minneapolis,MN",44.93153,-93.25457,8,Bancroft,Powderhorn,4,3,Kasota
+756,01/01/2020 09:18am,Snow Emergency,"513 3rd ave ne,Minneapolis,MN",44.992512,-93.254886,3,St. Anthony East,Northeast,6,3,Kasota
+757,01/01/2020 09:20am,Snow Emergency,"327 4th ave ne,Minneapolis,MN",44.992598,-93.258929,3,St. Anthony West,Northeast,4,3,Kasota
+758,01/01/2020 09:21am,Snow Emergency,"227 14TH ST W,Minneapolis,MN",44.968655,-93.281206,7,Loring Park,Central,6,3,Kasota
+759,01/01/2020 09:21am,Snow Emergency,"4049 14th av 2,Minneapolis,MN",44.929631,-93.254734,8,Bancroft,Powderhorn,4,3,Kasota
+760,01/01/2020 09:21am,Snow Emergency,"2711 4th St N,Minneapolis,MN",45.007386,-93.285045,5,Hawthorne,Near North,3,3,Kasota
+761,01/01/2020 09:22am,Snow Emergency,"1903 DUPONT AVE S ,Minneapolis,MN",44.964134,-93.292925,7,Lowry Hill,Calhoun Isle,1,3,Kasota
+762,01/01/2020 09:24am,Snow Emergency,"739 lyndale place,Minneapolis,MN",44.985956,-93.289414,5,Sumner - Glenwood,Near North,4,3,Kasota
+763,01/01/2020 09:24am,Snow Emergency,"117 14TH ST W,Minneapolis,MN",44.968637,-93.279684,7,Loring Park,Central,6,3,Kasota
+764,01/01/2020 09:24am,Snow Emergency,"2709 4th St N,Minneapolis,MN",45.007367,-93.285045,5,Hawthorne,Near North,6,3,Kasota
+765,01/01/2020 09:25am,Snow Emergency,"725 Aldrich Ave N,Minneapolis,MN",44.985475,-93.29016,5,Sumner - Glenwood,Near North,1,3,Kasota
+766,01/01/2020 09:27am,Snow Emergency,"3817 Longfellow ave s,Minneapolis,MN",44.9334,-93.24568,12,Standish,Powderhorn,3,3,Kasota
+767,01/01/2020 09:27am,Snow Emergency,"1805 Bryant Ave S,Minneapolis,MN",44.965244,-93.290385,7,Lowry Hill,Calhoun Isle,1,3,Kasota
+768,01/01/2020 09:27am,Snow Emergency,"1623 2ND AVE N,Minneapolis,MN",44.978809,-93.301581,5,Harrison,Near North,1,3,Kasota
+769,01/01/2020 09:28am,Snow Emergency,"1929 Dupont Ave South,Minneapolis,MN",44.96331,-93.2927,7,Lowry Hill,Calhoun Isle,6,3,Kasota
+770,01/01/2020 09:28am,Snow Emergency,"329 4TH AVE SE,Minneapolis,MN",44.985873,-93.250292,3,Marcy Holmes,University,1,3,Kasota
+771,01/01/2020 09:30am,Snow Emergency,"1033 aldrich ave n,Minneapolis,MN",44.98914,-93.28963,5,Near - North,Near North,3,3,Kasota
+772,01/01/2020 09:31am,Snow Emergency,"519 5TH AVE SE,Minneapolis,MN",44.98708,-93.24736,3,Marcy Holmes,University,3,3,Kasota
+773,01/01/2020 09:32am,Snow Emergency,"603 5th Avenue se ,Minneapolis,MN",44.987704,-93.246715,3,Marcy Holmes,University,5,3,Kasota
+774,01/01/2020 09:33am,Snow Emergency,"2503 4th st n,Minneapolis,MN",45.00498,-93.285055,5,Hawthorne,Near North,1,3,Kasota
+775,01/01/2020 09:33am,Snow Emergency,"3011 James Ave S,Minneapolis,MN",44.94792,-93.303154,10,ECCO,Calhoun Isle,5,3,Kasota
+776,01/01/2020 09:34am,Snow Emergency,"253 6Th St Ne,Minneapolis,MN",44.992323,-93.25382,3,St. Anthony East,Northeast,3,3,Kasota
+777,01/01/2020 09:35am,Snow Emergency,"3531 13th,Minneapolis,MN",44.93839,-93.25584,9,Powderhorn Park,Powderhorn,5,3,Kasota
+778,01/01/2020 09:35am,Snow Emergency,"735 Lyndale pl ,Minneapolis,MN",44.985928,-93.289406,5,Sumner - Glenwood,Near North,5,3,Kasota
+779,01/01/2020 09:36am,Snow Emergency,"521 4th av se,Minneapolis,MN",44.9879,-93.24886,3,Marcy Holmes,University,3,3,Kasota
+780,01/01/2020 09:36am,Snow Emergency,"149 5th ave ne,Minneapolis,MN",44.992928,-93.262575,3,St. Anthony West,Northeast,4,3,Kasota
+781,01/01/2020 09:37am,Snow Emergency,"3547 13th,Minneapolis,MN",44.9379,-93.25593,9,Powderhorn Park,Powderhorn,3,3,Kasota
+782,01/01/2020 09:37am,Snow Emergency,"621 5th Avenue se ,Minneapolis,MN",44.98822,-93.2466,3,Marcy Holmes,University,4,3,Kasota
+783,01/01/2020 09:38am,Snow Emergency,"3013 James Ave S ,Minneapolis,MN",44.94781,-93.30303,10,ECCO,Calhoun Isle,1,3,Kasota
+784,01/01/2020 09:38am,Snow Emergency,"745 Aldrich Ave N,Minneapolis,MN",44.98593,-93.29119,5,Sumner - Glenwood,Near North,3,3,Kasota
+785,01/01/2020 09:38am,Snow Emergency,"1039 aldrich ave n ,Minneapolis,MN",44.98914,-93.28963,5,Near - North,Near North,1,3,Kasota
+786,01/01/2020 09:39am,Snow Emergency,"623 5th ave se,Minneapolis,MN",44.98824,-93.246294,3,Marcy Holmes,University,1,3,Kasota
+787,01/01/2020 09:39am,Snow Emergency,"521 3Rd Ave Ne,Minneapolis,MN",44.992759,-93.254296,3,St. Anthony East,Northeast,6,3,Kasota
+788,01/01/2020 09:39am,Snow Emergency,"1915 DUPONT AVE S ,Minneapolis,MN",44.963696,-93.292925,7,Lowry Hill,Calhoun Isle,4,3,Kasota
+789,01/01/2020 09:39am,Snow Emergency,"3509 longfellow ave s,Minneapolis,MN",44.93911,-93.24571,9,Corcoran,Powderhorn,1,3,Kasota
+790,01/01/2020 09:39am,Snow Emergency,"2101 2ND AVE N,Minneapolis,MN",44.97869,-93.3073,5,Harrison,Near North,3,3,Kasota
+791,01/01/2020 09:42am,Snow Emergency,"137 5th ave ne,Minneapolis,MN",44.992869,-93.262736,3,St. Anthony West,Northeast,3,3,Kasota
+792,01/01/2020 09:43am,Snow Emergency,"317 4th ave se,Minneapolis,MN",44.985835,-93.250324,3,Marcy Holmes,University,1,3,Kasota
+793,01/01/2020 09:46am,Snow Emergency,"3521 Longfellow Avenue South,Minneapolis,MN",44.9387,-93.2457,9,Corcoran,Powderhorn,4,3,Kasota
+794,01/01/2020 09:46am,Snow Emergency,"3539 13th Avenue s,Minneapolis,MN",44.938128,-93.256065,9,Powderhorn Park,Powderhorn,2,3,Kasota
+795,01/01/2020 09:48am,Snow Emergency,"1919 Dupont Ave South,Minneapolis,MN",44.96369,-93.29269,7,Lowry Hill,Calhoun Isle,3,3,Kasota
+796,01/01/2020 09:50am,Snow Emergency,"627 Vincent ave n ,Minneapolis,MN",44.98517,-93.31636,5,Willard - Hay,Near North,5,3,Kasota
+797,01/01/2020 09:50am,Snow Emergency,"325 4TH AVE SE,Minneapolis,MN",44.985861,-93.250303,3,Marcy Holmes,University,1,3,Kasota
+798,01/01/2020 09:52am,Snow Emergency,"1011 Vincent ave n ,Minneapolis,MN",44.98827,-93.31627,5,Willard - Hay,Near North,1,3,Kasota
+799,01/01/2020 09:52am,Snow Emergency,"2505 4th st n ,Minneapolis,MN",45.00504,-93.285055,5,Hawthorne,Near North,6,3,Kasota
+800,01/01/2020 09:52am,Snow Emergency,"2121 2ND AVE N,Minneapolis,MN",44.978785,-93.308074,5,Harrison,Near North,5,3,Kasota
+801,01/01/2020 09:53am,Snow Emergency,"311 5TH AVE SE,Minneapolis,MN",44.98501,-93.24898,3,Marcy Holmes,University,3,3,Kasota
+802,01/01/2020 09:54am,Snow Emergency,"1041 Aldrich Ave N,Minneapolis,MN",44.989357,-93.289689,5,Near - North,Near North,5,3,Kasota
+803,01/01/2020 09:55am,Snow Emergency,"417 oak grove st ,Minneapolis,MN",44.967417,-93.285332,7,Loring Park,Central,3,3,Kasota
+804,01/01/2020 09:56am,Snow Emergency,"3543 4th St N,Minneapolis,MN",45.01973,-93.2854,4,McKinley,Camden,4,3,Kasota
+805,01/01/2020 09:56am,Snow Emergency,"1403 40th Street East,Minneapolis,MN",44.930395,-93.254704,8,Bancroft,Powderhorn,3,3,Kasota
+806,01/01/2020 09:58am,Snow Emergency,"1531 40th st e,Minneapolis,MN",44.93039,-93.25289,8,Bancroft,Powderhorn,1,3,Kasota
+807,01/01/2020 10:00am,Snow Emergency,"3415 Longfellow av s,Minneapolis,MN",44.94073,-93.245945,9,Corcoran,Powderhorn,3,3,Kasota
+808,01/01/2020 10:00am,Snow Emergency,"509 HUMBOLDT AVE N,Minneapolis,MN",44.982953,-93.298325,5,Harrison,Near North,2,3,Kasota
+809,01/01/2020 10:02am,Snow Emergency,"3415 Longfellow av s,Minneapolis,MN",44.94073,-93.245945,9,Corcoran,Powderhorn,3,3,Kasota
+810,01/01/2020 10:03am,Snow Emergency,"2215 6th st n,Minneapolis,MN",45.00197,-93.28689,5,Hawthorne,Near North,4,3,Kasota
+811,01/01/2020 10:04am,Snow Emergency,"1831 Bryant Ave S,Minneapolis,MN",44.96513,-93.290385,7,Lowry Hill,Calhoun Isle,3,3,Kasota
+812,01/01/2020 10:05am,Snow Emergency,"2101 6th st n,Minneapolis,MN",45.00038,-93.2868,5,Hawthorne,Near North,3,3,Kasota
+813,01/01/2020 10:05am,Snow Emergency,"3211 4th St N,Minneapolis,MN",45.01354,-93.28522,4,McKinley,Camden,4,3,Kasota
+814,01/01/2020 10:05am,Snow Emergency,"1801 Dupont Ave S,Minneapolis,MN",44.96523,-93.29269,7,Lowry Hill,Calhoun Isle,4,3,Kasota
+815,01/01/2020 10:06am,Snow Emergency,"3411 15th Avenue South,Minneapolis,MN",44.94085,-93.25335,9,Powderhorn Park,Powderhorn,5,3,Kasota
+816,01/01/2020 10:06am,Snow Emergency,"1523 Upton Ave n ,Minneapolis,MN",44.99492,-93.31496,5,Willard - Hay,Near North,3,3,Kasota
+817,01/01/2020 10:07am,Snow Emergency,"337 Oak Grove Street,Minneapolis,MN",44.96702,-93.28452,7,Loring Park,Central,1,3,Kasota
+818,01/01/2020 10:08am,Snow Emergency,"3959 13th ave s,Minneapolis,MN",44.93066,-93.25583,8,Bancroft,Powderhorn,1,3,Kasota
+819,01/01/2020 10:08am,Snow Emergency,"307 4th av se,Minneapolis,MN",44.985471,-93.250622,3,Marcy Holmes,University,5,3,Kasota
+820,01/01/2020 10:08am,Snow Emergency,"335 OAK GROVE ST ,Minneapolis,MN",44.966935,-93.283631,7,Loring Park,Central,4,3,Kasota
+821,01/01/2020 10:09am,Snow Emergency,"427 oak grove st ,Minneapolis,MN",44.967598,-93.28582,7,Loring Park,Central,1,3,Kasota
+822,01/01/2020 10:10am,Snow Emergency,"1715 37th st e,Minneapolis,MN",44.93574,-93.24913,9,Powderhorn Park,Powderhorn,3,3,Kasota
+823,01/01/2020 10:10am,Snow Emergency,"1635 Upton Ave n ,Minneapolis,MN",44.99636,-93.31496,5,Willard - Hay,Near North,3,3,Kasota
+824,01/01/2020 10:10am,Snow Emergency,"2517 4th st n ,Minneapolis,MN",45.0054,-93.285055,5,Hawthorne,Near North,1,3,Kasota
+825,01/01/2020 10:10am,Snow Emergency,"327 6th ave se,Minneapolis,MN",44.984345,-93.247528,3,Marcy Holmes,University,4,3,Kasota
+826,01/01/2020 10:11am,Snow Emergency,"511 HUMBOLDT AVE N,Minneapolis,MN",44.983055,-93.298325,5,Harrison,Near North,4,3,Kasota
+827,01/01/2020 10:11am,Snow Emergency,"4307 15th ave s,Minneapolis,MN",44.92481,-93.2533,11,Northrop,Nokomis,2,3,Kasota
+828,01/01/2020 10:12am,Snow Emergency,"313 6th ave ne,Minneapolis,MN",44.99484,-93.26031,3,St. Anthony West,Northeast,3,3,Kasota
+829,01/01/2020 10:13am,Snow Emergency,"1047 Aldrich Ave N,Minneapolis,MN",44.989462,-93.289689,5,Near - North,Near North,1,3,Kasota
+830,01/01/2020 10:14am,Snow Emergency,"311 3rd ave ne,Minneapolis,MN",44.991151,-93.258357,3,St. Anthony West,Northeast,2,3,Kasota
+831,01/01/2020 10:14am,Snow Emergency,"519 OAK GROVE ST,Minneapolis,MN",44.96827,-93.28682,7,Loring Park,Central,3,3,Kasota
+832,01/01/2020 10:15am,Snow Emergency,"521 5TH AVE SE,Minneapolis,MN",44.98708,-93.24736,3,Marcy Holmes,University,4,3,Kasota
+833,01/01/2020 10:16am,Snow Emergency,"315 6th ave ne,Minneapolis,MN",44.994765,-93.260045,3,St. Anthony West,Northeast,4,3,Kasota
+834,01/01/2020 10:17am,Snow Emergency,"509 OAK GROVE ST,Minneapolis,MN",44.968491,-93.286345,7,Loring Park,Central,3,3,Kasota
+835,01/01/2020 10:18am,Snow Emergency,"715 6th st ne,Minneapolis,MN",44.997679,-93.257519,3,St. Anthony East,Northeast,4,3,Kasota
+836,01/01/2020 10:18am,Snow Emergency,"1319 Upton ave n ,Minneapolis,MN",44.99232,-93.31498,5,Willard - Hay,Near North,3,3,Kasota
+837,01/01/2020 10:19am,Snow Emergency,"3109 Holmes ave s,Minneapolis,MN",44.94614,-93.29922,10,ECCO,Calhoun Isle,3,3,Kasota
+838,01/01/2020 10:20am,Snow Emergency,"3746 longfellow ave s,Minneapolis,MN",44.935041,-93.246195,12,Standish,Powderhorn,6,3,Kasota
+839,01/01/2020 10:20am,Snow Emergency,"409 6th ave se,Minneapolis,MN",44.9853,-93.24692,3,Marcy Holmes,University,4,3,Kasota
+840,01/01/2020 10:20am,Snow Emergency,"309 6th ave ne,Minneapolis,MN",44.99479,-93.26045,3,St. Anthony West,Northeast,3,3,Kasota
+841,01/01/2020 10:20am,Snow Emergency,"1647 Upton ave n ,Minneapolis,MN",44.99675,-93.31496,5,Willard - Hay,Near North,3,3,Kasota
+842,01/01/2020 10:22am,Snow Emergency,"703 washington st ne,Minneapolis,MN",44.996956,-93.257385,3,St. Anthony East,Northeast,4,3,Kasota
+843,01/01/2020 10:22am,Snow Emergency,"3629 12th Ave S,Minneapolis,MN",44.93664,-93.25707,9,Powderhorn Park,Powderhorn,1,3,Kasota
+844,01/01/2020 10:23am,Snow Emergency,"1073 24th Avenue se ,Minneapolis,MN",44.9903,-93.21932,1,Como,University,3,3,Kasota
+845,01/01/2020 10:23am,Snow Emergency,"515 HUMBOLDT AVE N,Minneapolis,MN",44.983258,-93.298325,5,Harrison,Near North,4,3,Kasota
+846,01/01/2020 10:24am,Snow Emergency,"3637 12th ave,Minneapolis,MN",44.93636,-93.25707,9,Powderhorn Park,Powderhorn,5,3,Kasota
+847,01/01/2020 10:25am,Snow Emergency,"523 4th ave se,Minneapolis,MN",44.987843,-93.248714,3,Marcy Holmes,University,3,3,Kasota
+848,01/01/2020 10:26am,Snow Emergency,"1157 Bryant Ave N,Minneapolis,MN",44.990306,-93.291221,5,Near - North,Near North,1,3,Kasota
+849,01/01/2020 10:26am,Snow Emergency,"1089 24th Avenue se ,Minneapolis,MN",44.99073,-93.21932,1,Como,University,2,3,Kasota
+850,01/01/2020 10:27am,Snow Emergency,"415 oak grove st,Minneapolis,MN",44.96725,-93.28545,7,Loring Park,Central,3,3,Kasota
+851,01/01/2020 10:28am,Snow Emergency,"141 19th Street East,Minneapolis,MN",44.963805,-93.274945,6,Steven's Square - Loring Heights,Central,2,3,Kasota
+852,01/01/2020 10:28am,Snow Emergency,"525 4th ave se,Minneapolis,MN",44.98799,-93.2488,3,Marcy Holmes,University,2,3,Kasota
+853,01/01/2020 10:28am,Snow Emergency,"1017 24TH AV SE,Minneapolis,MN",44.98848,-93.21934,1,Como,University,3,3,Kasota
+854,01/01/2020 10:29am,Snow Emergency,"131 18TH ST E,Minneapolis,MN",44.965065,-93.274984,6,Steven's Square - Loring Heights,Central,4,3,Kasota
+855,01/01/2020 10:30am,Snow Emergency,"3241 Longfellow South,Minneapolis,MN",44.9432,-93.24574,9,Corcoran,Powderhorn,1,3,Kasota
+856,01/01/2020 10:31am,Snow Emergency,"311 18th St. E.,Minneapolis,MN",44.965075,-93.272175,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+857,01/01/2020 10:33am,Snow Emergency,"2121 6th st n,Minneapolis,MN",45.000904,-93.286605,5,Hawthorne,Near North,6,3,Kasota
+858,01/01/2020 10:33am,Snow Emergency,"329 7TH AVE SE,Minneapolis,MN",44.983801,-93.246138,3,Marcy Holmes,University,2,3,Kasota
+859,01/01/2020 10:33am,Snow Emergency,"525 Oak Grove St,Minneapolis,MN",44.968588,-93.286465,7,Loring Park,Central,1,3,Kasota
+860,01/01/2020 10:33am,Snow Emergency,"3541 4th St N,Minneapolis,MN",45.019636,-93.285115,4,McKinley,Camden,3,3,Kasota
+861,01/01/2020 10:34am,Snow Emergency,"3149 15th Avenue South,Minneapolis,MN",44.94512,-93.25341,9,Powderhorn Park,Powderhorn,6,3,Kasota
+862,01/01/2020 10:35am,Snow Emergency,"527 Oak Grove St,Minneapolis,MN",44.968601,-93.28648,7,Loring Park,Central,1,3,Kasota
+863,01/01/2020 10:36am,Snow Emergency,"517 HUMBOLDT AVE N,Minneapolis,MN",44.98336,-93.298325,5,Harrison,Near North,3,3,Kasota
+864,01/01/2020 10:36am,Snow Emergency,"405 7th ave se,Minneapolis,MN",44.98475,-93.24551,3,Marcy Holmes,University,3,3,Kasota
+865,01/01/2020 10:39am,Snow Emergency,"3025 6th st n,Minneapolis,MN",45.01147,-93.28685,5,Hawthorne,Near North,3,3,Kasota
+866,01/01/2020 10:39am,Snow Emergency,"2327 37th st e,Minneapolis,MN",44.935765,-93.238351,12,Standish,Powderhorn,3,3,Kasota
+867,01/01/2020 10:39am,Snow Emergency,"319 6th ave se,Minneapolis,MN",44.98462,-93.24758,3,Marcy Holmes,University,1,3,Kasota
+868,01/01/2020 10:40am,Snow Emergency,"1523 Upton Ave n ,Minneapolis,MN",44.99492,-93.31496,5,Willard - Hay,Near North,2,3,Kasota
+869,01/01/2020 10:40am,Snow Emergency,"3301 Longfellow av s,Minneapolis,MN",44.94278,-93.24573,9,Corcoran,Powderhorn,2,3,Kasota
+870,01/01/2020 10:40am,Snow Emergency,"627 summer st ne,Minneapolis,MN",44.99705,-93.25716,3,St. Anthony East,Northeast,5,3,Kasota
+871,01/01/2020 10:42am,Snow Emergency,"2905 4th St N,Minneapolis,MN",45.009678,-93.285035,5,Hawthorne,Near North,3,3,Kasota
+872,01/01/2020 10:42am,Snow Emergency,"2931 6th st n,Minneapolis,MN",45.010456,-93.286612,5,Hawthorne,Near North,3,3,Kasota
+873,01/01/2020 10:42am,Snow Emergency,"227 7th ave ne,Minneapolis,MN",44.995467,-93.262664,3,St. Anthony West,Northeast,5,3,Kasota
+874,01/01/2020 10:43am,Snow Emergency,"3417 Longfellow av s,Minneapolis,MN",44.94071,-93.24572,9,Corcoran,Powderhorn,2,3,Kasota
+875,01/01/2020 10:43am,Snow Emergency,"2019 Upton Ave n ,Minneapolis,MN",45.00025,-93.31493,5,Willard - Hay,Near North,5,3,Kasota
+876,01/01/2020 10:44am,Snow Emergency,"1801 upton ave n ,Minneapolis,MN",44.99791,-93.31495,5,Willard - Hay,Near North,1,3,Kasota
+877,01/01/2020 10:45am,Snow Emergency,"425 6th ave se,Minneapolis,MN",44.985312,-93.246767,3,Marcy Holmes,University,1,3,Kasota
+878,01/01/2020 10:46am,Snow Emergency,"3205 Holmes ave s,Minneapolis,MN",44.94441,-93.29923,10,ECCO,Calhoun Isle,5,3,Kasota
+879,01/01/2020 10:46am,Snow Emergency,"3125 Longfellow,Minneapolis,MN",44.9456,-93.24576,9,Corcoran,Powderhorn,5,3,Kasota
+880,01/01/2020 10:46am,Snow Emergency,"309 18th St. E.,Minneapolis,MN",44.965075,-93.27225,6,Steven's Square - Loring Heights,Central,6,3,Kasota
+881,01/01/2020 10:46am,Snow Emergency,"309 18th St. E.,Minneapolis,MN",44.965075,-93.27225,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+882,01/01/2020 10:46am,Snow Emergency,"217 18th Street East,Minneapolis,MN",44.965075,-93.273704,6,Steven's Square - Loring Heights,Central,4,3,Kasota
+883,01/01/2020 10:47am,Snow Emergency,"3113 Longfellow ave s,Minneapolis,MN",44.94599,-93.24576,9,Corcoran,Powderhorn,1,3,Kasota
+884,01/01/2020 10:48am,Snow Emergency,"111 5th st ne,Minneapolis,MN",44.990301,-93.254214,3,Nicollet Island - East Bank,University,2,3,Kasota
+885,01/01/2020 10:48am,Snow Emergency,"2351 upton ave n ,Minneapolis,MN",45.00386,-93.31503,5,Willard - Hay,Near North,1,3,Kasota
+886,01/01/2020 10:49am,Snow Emergency,"427 6th ave se,Minneapolis,MN",44.985328,-93.246755,3,Marcy Holmes,University,3,3,Kasota
+887,01/01/2020 10:49am,Snow Emergency,"413 oak grove st ,Minneapolis,MN",44.967406,-93.285285,7,Loring Park,Central,4,3,Kasota
+888,01/01/2020 10:49am,Snow Emergency,"131 19TH ST E ,Minneapolis,MN",44.963804,-93.275513,6,Steven's Square - Loring Heights,Central,2,3,Kasota
+889,01/01/2020 10:50am,Snow Emergency,"3141 Longfellow,Minneapolis,MN",44.94504,-93.24576,9,Corcoran,Powderhorn,6,3,Kasota
+890,01/01/2020 10:51am,Snow Emergency,"257 HUMBOLDT AVE N,Minneapolis,MN",44.97979,-93.29855,5,Harrison,Near North,1,3,Kasota
+891,01/01/2020 10:52am,Snow Emergency,"2109 6th st n,Minneapolis,MN",45.000578,-93.286605,5,Hawthorne,Near North,4,3,Kasota
+892,01/01/2020 10:57am,Snow Emergency,"1807 Bryant Ave N,Minneapolis,MN",44.997659,-93.291175,5,Near - North,Near North,4,3,Kasota
+893,01/01/2020 10:57am,Snow Emergency,"325 7TH AVE SE,Minneapolis,MN",44.983771,-93.246162,3,Marcy Holmes,University,6,3,Kasota
+894,01/01/2020 10:58am,Snow Emergency,"1009 24TH AVE SE,Minneapolis,MN",44.98826,-93.21934,1,Como,University,6,3,Kasota
+895,01/01/2020 10:59am,Snow Emergency,"3106 longfellow ave s,Minneapolis,MN",44.946174,-93.246245,9,Corcoran,Powderhorn,6,3,Kasota
+896,01/01/2020 10:59am,Snow Emergency,"419 7th ave se,Minneapolis,MN",44.984708,-93.245409,3,Marcy Holmes,University,6,3,Kasota
+897,01/01/2020 10:59am,Snow Emergency,"403 8th ave SE,Minneapolis,MN",44.9843,-93.24409,3,Marcy Holmes,University,3,3,Kasota
+898,01/01/2020 11:00am,Snow Emergency,"1029 24th av se,Minneapolis,MN",44.98881,-93.21934,1,Como,University,3,3,Kasota
+899,01/01/2020 11:01am,Snow Emergency,"253 HUMBOLDT ave N,Minneapolis,MN",44.97968,-93.29855,5,Harrison,Near North,4,3,Kasota
+900,01/01/2020 11:03am,Snow Emergency,"411 7th Avenue se ,Minneapolis,MN",44.98488,-93.24541,3,Marcy Holmes,University,5,3,Kasota
+901,01/01/2020 11:03am,Snow Emergency,"149 19TH ST E,Minneapolis,MN",44.963805,-93.274845,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+902,01/01/2020 11:05am,Snow Emergency,"225 Oak Grove St,Minneapolis,MN",44.9663,-93.28207,7,Loring Park,Central,3,3,Kasota
+903,01/01/2020 11:06am,Snow Emergency,"413 7th Avenue se ,Minneapolis,MN",44.98492,-93.24531,3,Marcy Holmes,University,3,3,Kasota
+904,01/01/2020 11:07am,Snow Emergency,"139 19TH ST E,Minneapolis,MN",44.963805,-93.27497,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+905,01/01/2020 11:07am,Snow Emergency,"205 18th Street East,Minneapolis,MN",44.965075,-93.273813,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+906,01/01/2020 11:08am,Snow Emergency,"227 Oak Grove St,Minneapolis,MN",44.96629,-93.28205,7,Loring Park,Central,5,3,Kasota
+907,01/01/2020 11:08am,Snow Emergency,"325 19th St. E.,Minneapolis,MN",44.963795,-93.271258,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+908,01/01/2020 11:08am,Snow Emergency,"3117 15th ave,Minneapolis,MN",44.94589,-93.25341,9,Powderhorn Park,Powderhorn,2,3,Kasota
+909,01/01/2020 11:08am,Snow Emergency,"221 18TH ST E ,Minneapolis,MN",44.965075,-93.273668,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+910,01/01/2020 11:08am,Snow Emergency,"3049 16th Avenue South,Minneapolis,MN",44.94681,-93.25087,9,Powderhorn Park,Powderhorn,1,3,Kasota
+911,01/01/2020 11:09am,Snow Emergency,"247 HUMBOLDT AVE N,Minneapolis,MN",44.979855,-93.298295,5,Harrison,Near North,3,3,Kasota
+912,01/01/2020 11:09am,Snow Emergency,"3015 Longfellow Avenue South,Minneapolis,MN",44.94778,-93.24577,9,Corcoran,Powderhorn,1,3,Kasota
+913,01/01/2020 11:10am,Snow Emergency,"3219 15th,Minneapolis,MN",44.94412,-93.2534,9,Powderhorn Park,Powderhorn,1,3,Kasota
+914,01/01/2020 11:11am,Snow Emergency,"3141 Holmes ave s,Minneapolis,MN",44.945165,-93.299445,10,ECCO,Calhoun Isle,3,3,Kasota
+915,01/01/2020 11:11am,Snow Emergency,"331 oak grove st ,Minneapolis,MN",44.966909,-93.283546,7,Loring Park,Central,6,3,Kasota
+916,01/01/2020 11:11am,Snow Emergency,"2427 4th St N,Minneapolis,MN",45.00453,-93.28535,5,Hawthorne,Near North,5,3,Kasota
+917,01/01/2020 11:13am,Snow Emergency,"213 7th ave ne,Minneapolis,MN",44.995416,-93.262815,3,St. Anthony West,Northeast,5,3,Kasota
+918,01/01/2020 11:14am,Snow Emergency,"3243 6th st n,Minneapolis,MN",45.01449,-93.28692,4,McKinley,Camden,5,3,Kasota
+919,01/01/2020 11:15am,Snow Emergency,"3127 James ave s,Minneapolis,MN",44.945687,-93.303235,10,ECCO,Calhoun Isle,4,3,Kasota
+920,01/01/2020 11:15am,Snow Emergency,"3617 27th ave s,Minneapolis,MN",44.93702,-93.23301,12,Standish,Powderhorn,3,3,Kasota
+921,01/01/2020 11:16am,Snow Emergency,"4545 15th ave s,Minneapolis,MN",44.92007,-93.25331,11,Northrop,Nokomis,5,3,Kasota
+922,01/01/2020 11:16am,Snow Emergency,"319 8th ave se,Minneapolis,MN",44.983184,-93.244803,3,Marcy Holmes,University,1,3,Kasota
+923,01/01/2020 11:16am,Snow Emergency,"1809 Bryant ave n ,Minneapolis,MN",44.997702,-93.291175,5,Near - North,Near North,1,3,Kasota
+924,01/01/2020 11:18am,Snow Emergency,"1811 Bryant ave n ,Minneapolis,MN",44.997745,-93.291175,5,Near - North,Near North,4,3,Kasota
+925,01/01/2020 11:18am,Snow Emergency,"259 IRVING AVE N ,Minneapolis,MN",44.979498,-93.299585,5,Harrison,Near North,3,3,Kasota
+926,01/01/2020 11:18am,Snow Emergency,"1523 Dupont Ave N,Minneapolis,MN",44.994954,-93.292725,5,Near - North,Near North,3,3,Kasota
+927,01/01/2020 11:19am,Snow Emergency,"427 7TH AVE SE,Minneapolis,MN",44.984768,-93.245361,3,Marcy Holmes,University,4,3,Kasota
+928,01/01/2020 11:19am,Snow Emergency,"3529 16th ave s,Minneapolis,MN",44.93864,-93.25081,9,Powderhorn Park,Powderhorn,4,3,Kasota
+929,01/01/2020 11:20am,Snow Emergency,"413 8th ave se,Minneapolis,MN",44.984452,-93.243785,3,Marcy Holmes,University,4,3,Kasota
+930,01/01/2020 11:20am,Snow Emergency,"321 8th ave se,Minneapolis,MN",44.983199,-93.244792,3,Marcy Holmes,University,3,3,Kasota
+931,01/01/2020 11:20am,Snow Emergency,"2523 Upton Ave n ,Minneapolis,MN",45.00567,-93.31503,5,Willard - Hay,Near North,1,3,Kasota
+932,01/01/2020 11:21am,Snow Emergency,"669 summer st ne,Minneapolis,MN",44.997035,-93.25434,3,St. Anthony East,Northeast,6,3,Kasota
+933,01/01/2020 11:21am,Snow Emergency,"3307 Longfellow ave s,Minneapolis,MN",44.942511,-93.245905,9,Corcoran,Powderhorn,3,3,Kasota
+934,01/01/2020 11:22am,Snow Emergency,"3013 Longfellow av s,Minneapolis,MN",44.94803,-93.245928,9,Corcoran,Powderhorn,3,3,Kasota
+935,01/01/2020 11:22am,Snow Emergency,"905 summer st ne,Minneapolis,MN",44.997035,-93.248404,3,St. Anthony East,Northeast,3,3,Kasota
+936,01/01/2020 11:23am,Snow Emergency,"2119 6th St N,Minneapolis,MN",45.00085,-93.28689,5,Hawthorne,Near North,4,3,Kasota
+937,01/01/2020 11:23am,Snow Emergency,"2107 6th st n,Minneapolis,MN",45.00049,-93.2869,5,Hawthorne,Near North,1,3,Kasota
+938,01/01/2020 11:23am,Snow Emergency,"323 8th ave se,Minneapolis,MN",44.983213,-93.24478,3,Marcy Holmes,University,3,3,Kasota
+939,01/01/2020 11:24am,Snow Emergency,"301 7TH AV SE,Minneapolis,MN",44.983592,-93.246306,3,Marcy Holmes,University,3,3,Kasota
+940,01/01/2020 11:24am,Snow Emergency,"107 11th ave ne,Minneapolis,MN",44.998303,-93.268452,3,St. Anthony West,Northeast,0,3,Kasota
+941,01/01/2020 11:24am,Snow Emergency,"3011 Longfellow av s,Minneapolis,MN",44.9481,-93.245929,9,Corcoran,Powderhorn,4,3,Kasota
+942,01/01/2020 11:26am,Snow Emergency,"117 11th ave ne,Minneapolis,MN",44.998339,-93.268349,3,St. Anthony West,Northeast,2,3,Kasota
+943,01/01/2020 11:27am,Snow Emergency,"125 11th ave ne,Minneapolis,MN",44.998368,-93.268265,3,St. Anthony West,Northeast,5,3,Kasota
+944,01/01/2020 11:27am,Snow Emergency,"261 IRVING AVE N,Minneapolis,MN",44.979528,-93.299585,5,Harrison,Near North,4,3,Kasota
+945,01/01/2020 11:27am,Snow Emergency,"145 18th Street East,Minneapolis,MN",44.965065,-93.274835,6,Steven's Square - Loring Heights,Central,5,3,Kasota
+946,01/01/2020 11:28am,Snow Emergency,"1427 spruce place ,Minneapolis,MN",44.968423,-93.280695,7,Loring Park,Central,4,3,Kasota
+947,01/01/2020 11:30am,Snow Emergency,"2523 aldrich ave n,Minneapolis,MN",45.00563,-93.28994,5,Hawthorne,Near North,2,3,Kasota
+948,01/01/2020 11:30am,Snow Emergency,"1831 Clinton Ave. S.,Minneapolis,MN",44.9641,-93.2711,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+949,01/01/2020 11:31am,Snow Emergency,"707 8th av se,Minneapolis,MN",44.9872,-93.24191,3,Marcy Holmes,University,4,3,Kasota
+950,01/01/2020 11:32am,Snow Emergency,"213 18TH ST E,Minneapolis,MN",44.96458,-93.27336,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+951,01/01/2020 11:34am,Snow Emergency,"3107 Humboldt Avenue S,Minneapolis,MN",44.946155,-93.300715,10,ECCO,Calhoun Isle,5,3,Kasota
+952,01/01/2020 11:36am,Snow Emergency,"3041 16th Avenue South,Minneapolis,MN",44.94704,-93.25087,9,Powderhorn Park,Powderhorn,5,3,Kasota
+953,01/01/2020 11:36am,Snow Emergency,"1821 CHESTNUT AVE W,Minneapolis,MN",44.976939,-93.303511,5,Harrison,Near North,1,3,Kasota
+954,01/01/2020 11:37am,Snow Emergency,"3027 Longfellow,Minneapolis,MN",44.947537,-93.245925,9,Corcoran,Powderhorn,3,3,Kasota
+955,01/01/2020 11:37am,Snow Emergency,"1011 Humboldt Ave N,Minneapolis,MN",44.98855,-93.29857,5,Near - North,Near North,6,3,Kasota
+956,01/01/2020 11:37am,Snow Emergency,"3219 6th st n ,Minneapolis,MN",45.01377,-93.28692,4,McKinley,Camden,6,3,Kasota
+957,01/01/2020 11:39am,Snow Emergency,"405 8TH AVE SE,Minneapolis,MN",44.984088,-93.244083,3,Marcy Holmes,University,4,3,Kasota
+958,01/01/2020 11:40am,Snow Emergency,"1415 Dupont ave n ,Minneapolis,MN",44.99358,-93.292725,5,Near - North,Near North,1,3,Kasota
+959,01/01/2020 11:41am,Snow Emergency,"3115 Girard ave s,Minneapolis,MN",44.94603,-93.29667,10,South Uptown,Calhoun Isle,4,3,Kasota
+960,01/01/2020 11:42am,Snow Emergency,"309 8th ave se,Minneapolis,MN",44.98311,-93.244861,3,Marcy Holmes,University,3,3,Kasota
+961,01/01/2020 11:43am,Snow Emergency,"419 8th ave se,Minneapolis,MN",44.98457,-93.24389,3,Marcy Holmes,University,6,3,Kasota
+962,01/01/2020 11:43am,Snow Emergency,"3023 Longfellow,Minneapolis,MN",44.947678,-93.245926,9,Corcoran,Powderhorn,6,3,Kasota
+963,01/01/2020 11:45am,Snow Emergency,"1423 spruce place ,Minneapolis,MN",44.968456,-93.280695,7,Loring Park,Central,5,3,Kasota
+964,01/01/2020 11:46am,Snow Emergency,"303 18th St E,Minneapolis,MN",44.965075,-93.272475,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+965,01/01/2020 11:46am,Snow Emergency,"1501 Girard ave n ,Minneapolis,MN",44.99432,-93.29755,5,Near - North,Near North,6,3,Kasota
+966,01/01/2020 11:46am,Snow Emergency,"311 8th ave se,Minneapolis,MN",44.983125,-93.24485,3,Marcy Holmes,University,6,3,Kasota
+967,01/01/2020 11:46am,Snow Emergency,"139 18th Street East,Minneapolis,MN",44.965065,-93.274899,6,Steven's Square - Loring Heights,Central,4,3,Kasota
+968,01/01/2020 11:47am,Snow Emergency,"3029 longfellow ave s,Minneapolis,MN",44.94725,-93.24577,9,Corcoran,Powderhorn,5,3,Kasota
+969,01/01/2020 11:49am,Snow Emergency,"3513 19th Avenue South,Minneapolis,MN",44.93898,-93.24445,9,Corcoran,Powderhorn,3,3,Kasota
+970,01/01/2020 11:49am,Snow Emergency,"517 8TH AVE SE,Minneapolis,MN",44.98545,-93.2432,3,Marcy Holmes,University,1,3,Kasota
+971,01/01/2020 11:49am,Snow Emergency,"307 Clifton Avenue,Minneapolis,MN",44.965913,-93.283734,7,Loring Park,Central,6,3,Kasota
+972,01/01/2020 11:50am,Snow Emergency,"527 8th av se,Minneapolis,MN",44.985197,-93.243189,3,Marcy Holmes,University,1,3,Kasota
+973,01/01/2020 11:50am,Snow Emergency,"407 7th Avenue se ,Minneapolis,MN",44.98474,-93.24551,3,Marcy Holmes,University,6,3,Kasota
+974,01/01/2020 11:50am,Snow Emergency,"127 11th ave ne,Minneapolis,MN",44.998375,-93.268244,3,St. Anthony West,Northeast,5,3,Kasota
+975,01/01/2020 11:50am,Snow Emergency,"321 19TH ST E,Minneapolis,MN",44.963805,-93.271743,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+976,01/01/2020 11:51am,Snow Emergency,"235 MORGAN AVE N,Minneapolis,MN",44.978789,-93.304645,5,Harrison,Near North,2,3,Kasota
+977,01/01/2020 11:51am,Snow Emergency,"1201 Humboldt Ave N,Minneapolis,MN",44.99027,-93.29857,5,Near - North,Near North,1,3,Kasota
+978,01/01/2020 11:52am,Snow Emergency,"3325 25th ave so,Minneapolis,MN",44.94205,-93.23554,9,Corcoran,Powderhorn,6,3,Kasota
+979,01/01/2020 11:54am,Snow Emergency,"129 11th ave ne,Minneapolis,MN",44.998382,-93.268224,3,St. Anthony West,Northeast,3,3,Kasota
+980,01/01/2020 11:54am,Snow Emergency,"3147 Holmes Ave ,Minneapolis,MN",44.944944,-93.299445,10,ECCO,Calhoun Isle,4,3,Kasota
+981,01/01/2020 11:54am,Snow Emergency,"3147 Holmes Ave ,Minneapolis,MN",44.944944,-93.299445,10,ECCO,Calhoun Isle,6,3,Kasota
+982,01/01/2020 11:54am,Snow Emergency,"429 7th Avenue se ,Minneapolis,MN",44.984784,-93.245349,3,Marcy Holmes,University,4,3,Kasota
+983,01/01/2020 11:56am,Snow Emergency,"103 12th ave ne,Minneapolis,MN",44.999945,-93.267415,3,Sheridan,Northeast,1,3,Kasota
+984,01/01/2020 11:57am,Snow Emergency,"329 8TH AVE SE,Minneapolis,MN",44.983258,-93.244745,3,Marcy Holmes,University,1,3,Kasota
+985,01/01/2020 11:58am,Snow Emergency,"3103 Holmes Ave,Minneapolis,MN",44.946358,-93.299445,10,ECCO,Calhoun Isle,3,3,Kasota
+986,01/01/2020 11:58am,Snow Emergency,"131 11th ave ne,Minneapolis,MN",44.998389,-93.268203,3,St. Anthony West,Northeast,3,3,Kasota
+987,01/01/2020 11:59am,Snow Emergency,"2523 Upton Ave n ,Minneapolis,MN",45.00567,-93.31503,5,Willard - Hay,Near North,4,3,Kasota
+988,01/01/2020 12:00pm,Snow Emergency,"1417 spruce place ,Minneapolis,MN",44.968504,-93.280695,7,Loring Park,Central,3,3,Kasota
+989,01/01/2020 12:00pm,Snow Emergency,"2219 33rd st e,Minneapolis,MN",44.942795,-93.240174,9,Corcoran,Powderhorn,4,3,Kasota
+990,01/01/2020 12:00pm,Snow Emergency,"147 19TH ST E,Minneapolis,MN",44.963805,-93.27487,6,Steven's Square - Loring Heights,Central,5,3,Kasota
+991,01/01/2020 12:02pm,Snow Emergency,"3215 6th st n,Minneapolis,MN",45.01365,-93.28692,4,McKinley,Camden,2,3,Kasota
+992,01/01/2020 12:02pm,Snow Emergency,"3827 aldrich ave n,Minneapolis,MN",45.02474,-93.28967,4,Webber - Camden,Camden,1,3,Kasota
+993,01/01/2020 12:03pm,Snow Emergency,"145 19TH ST E,Minneapolis,MN",44.963805,-93.274895,6,Steven's Square - Loring Heights,Central,2,3,Kasota
+994,01/01/2020 12:03pm,Snow Emergency,"1819 CHESTNUT AVE W,Minneapolis,MN",44.976938,-93.30349,5,Harrison,Near North,3,3,Kasota
+995,01/01/2020 12:04pm,Snow Emergency,"2643 Upton Ave n ,Minneapolis,MN",45.00726,-93.31496,4,Willard - Hay,Near North,3,3,Kasota
+996,01/01/2020 12:05pm,Snow Emergency,"665 summer st ne,Minneapolis,MN",44.997035,-93.254516,3,St. Anthony East,Northeast,2,3,Kasota
+997,01/01/2020 12:06pm,Snow Emergency,"3815 aldrich ave n,Minneapolis,MN",45.02441,-93.28967,4,Webber - Camden,Camden,3,3,Kasota
+998,01/01/2020 12:06pm,Snow Emergency,"507 8th ave se,Minneapolis,MN",44.985174,-93.243206,3,Marcy Holmes,University,4,3,Kasota
+999,01/01/2020 12:07pm,Snow Emergency,"3325 Longfellow av s,Minneapolis,MN",44.94196,-93.24573,9,Corcoran,Powderhorn,3,3,Kasota
+1000,01/01/2020 12:07pm,Snow Emergency,"123 18TH ST E ,Minneapolis,MN",44.965065,-93.27507,6,Steven's Square - Loring Heights,Central,4,3,Kasota
+1001,01/01/2020 12:07pm,Snow Emergency,"121 18th Street East,Minneapolis,MN",44.965065,-93.275541,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1002,01/01/2020 12:07pm,Snow Emergency,"735 jefferson st ne,Minneapolis,MN",44.9979,-93.25462,3,St. Anthony East,Northeast,2,3,Kasota
+1003,01/01/2020 12:07pm,Snow Emergency,"1519 34th Street East,Minneapolis,MN",44.941235,-93.253198,9,Powderhorn Park,Powderhorn,5,3,Kasota
+1004,01/01/2020 12:08pm,Snow Emergency,"1731 Clifton pl,Minneapolis,MN",44.966663,-93.2862,7,Loring Park,Central,2,3,Kasota
+1005,01/01/2020 12:08pm,Snow Emergency,"1707 Dupont ave n ,Minneapolis,MN",44.996602,-93.292705,5,Near - North,Near North,1,3,Kasota
+1006,01/01/2020 12:09pm,Snow Emergency,"1821 36th ST E,Minneapolis,MN",44.937595,-93.247624,9,Powderhorn Park,Powderhorn,3,3,Kasota
+1007,01/01/2020 12:09pm,Snow Emergency,"3303 Longfellow av s,Minneapolis,MN",44.942652,-93.245907,9,Corcoran,Powderhorn,1,3,Kasota
+1008,01/01/2020 12:10pm,Snow Emergency,"3519 20th ave s,Minneapolis,MN",44.938725,-93.243425,9,Corcoran,Powderhorn,3,3,Kasota
+1009,01/01/2020 12:10pm,Snow Emergency,"1425 Girard Ave N,Minneapolis,MN",44.994,-93.29755,5,Near - North,Near North,4,3,Kasota
+1010,01/01/2020 12:11pm,Snow Emergency,"3013 16th,Minneapolis,MN",44.94782,-93.25087,9,Powderhorn Park,Powderhorn,5,3,Kasota
+1011,01/01/2020 12:12pm,Snow Emergency,"1055 12TH AV SE,Minneapolis,MN",44.98943,-93.23494,2,Como,University,4,3,Kasota
+1012,01/01/2020 12:12pm,Snow Emergency,"1419 Girard ave n ,Minneapolis,MN",44.99374,-93.29755,5,Near - North,Near North,1,3,Kasota
+1013,01/01/2020 12:13pm,Snow Emergency,"203 MORGAN AVE N,Minneapolis,MN",44.978,-93.30477,5,Harrison,Near North,3,3,Kasota
+1014,01/01/2020 12:14pm,Snow Emergency,"1419 spruce place ,Minneapolis,MN",44.968488,-93.280695,7,Loring Park,Central,3,3,Kasota
+1015,01/01/2020 12:15pm,Snow Emergency,"217 7th ave ne,Minneapolis,MN",44.99543,-93.262772,3,St. Anthony West,Northeast,3,3,Kasota
+1016,01/01/2020 12:19pm,Snow Emergency,"1037 24 AVE SE,Minneapolis,MN",44.98903,-93.21933,1,Como,University,3,3,Kasota
+1017,01/01/2020 12:20pm,Snow Emergency,"3209 6th st n,Minneapolis,MN",45.013484,-93.286605,4,McKinley,Camden,5,3,Kasota
+1018,01/01/2020 12:21pm,Snow Emergency,"3911 aldrich ave n,Minneapolis,MN",45.02612,-93.28969,4,Webber - Camden,Camden,4,3,Kasota
+1019,01/01/2020 12:21pm,Snow Emergency,"3209 21st Avenue South,Minneapolis,MN",44.94429,-93.24182,9,Corcoran,Powderhorn,1,3,Kasota
+1020,01/01/2020 12:23pm,Snow Emergency,"331 8 th ave se,Minneapolis,MN",44.983272,-93.244734,3,Marcy Holmes,University,5,3,Kasota
+1021,01/01/2020 12:23pm,Snow Emergency,"237 HUMBOLDT AVE N,Minneapolis,MN",44.97924,-93.29854,5,Harrison,Near North,6,3,Kasota
+1022,01/01/2020 12:23pm,Snow Emergency,"1735 Clifton pl,Minneapolis,MN",44.966653,-93.286225,7,Loring Park,Central,6,3,Kasota
+1023,01/01/2020 12:23pm,Snow Emergency,"125 18TH ST E ,Minneapolis,MN",44.965065,-93.275048,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+1024,01/01/2020 12:24pm,Snow Emergency,"703 7th ave se,Minneapolis,MN",44.987535,-93.243166,3,Marcy Holmes,University,4,3,Kasota
+1025,01/01/2020 12:25pm,Snow Emergency,"513 8TH AVE SE ,Minneapolis,MN",44.98536,-93.24327,3,Marcy Holmes,University,5,3,Kasota
+1026,01/01/2020 12:25pm,Snow Emergency,"301 18TH ST E,Minneapolis,MN",44.965075,-93.27255,6,Steven's Square - Loring Heights,Central,6,3,Kasota
+1027,01/01/2020 12:25pm,Snow Emergency,"3855 Aldrich Ave N,Minneapolis,MN",45.02551,-93.28968,4,Webber - Camden,Camden,4,3,Kasota
+1028,01/01/2020 12:28pm,Snow Emergency,"325 8th ave se,Minneapolis,MN",44.98361,-93.2446,3,Marcy Holmes,University,4,3,Kasota
+1029,01/01/2020 12:28pm,Snow Emergency,"3313 25th ave so,Minneapolis,MN",44.94238,-93.23554,9,Corcoran,Powderhorn,4,3,Kasota
+1030,01/01/2020 12:28pm,Snow Emergency,"407 8th ave se,Minneapolis,MN",44.984121,-93.244056,3,Marcy Holmes,University,6,3,Kasota
+1031,01/01/2020 12:29pm,Snow Emergency,"1913 Clinton Ave S,Minneapolis,MN",44.963661,-93.271291,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1032,01/01/2020 12:29pm,Snow Emergency,"3147 21st Avenue South,Minneapolis,MN",44.94512,-93.242185,9,Corcoran,Powderhorn,4,3,Kasota
+1033,01/01/2020 12:31pm,Snow Emergency,"1815 Stevens Ave South,Minneapolis,MN",44.964903,-93.275135,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1034,01/01/2020 12:31pm,Snow Emergency,"1031 12th av se,Minneapolis,MN",44.98875,-93.23494,2,Como,University,3,3,Kasota
+1035,01/01/2020 12:31pm,Snow Emergency,"409 8 th ave se,Minneapolis,MN",44.984154,-93.24403,3,Marcy Holmes,University,6,3,Kasota
+1036,01/01/2020 12:31pm,Snow Emergency,"1357 spruce place ,Minneapolis,MN",44.969456,-93.280685,7,Loring Park,Central,1,3,Kasota
+1037,01/01/2020 12:32pm,Snow Emergency,"3015 20th Avenue South,Minneapolis,MN",44.947887,-93.243485,9,Corcoran,Powderhorn,1,3,Kasota
+1038,01/01/2020 12:32pm,Snow Emergency,"1507 Girard Ave N,Minneapolis,MN",44.99445,-93.29755,5,Near - North,Near North,6,3,Kasota
+1039,01/01/2020 12:33pm,Snow Emergency,"2313 33rd st e,Minneapolis,MN",44.942795,-93.238555,9,Corcoran,Powderhorn,3,3,Kasota
+1040,01/01/2020 12:34pm,Snow Emergency,"709 Sheridan Ave n ,Minneapolis,MN",44.985722,-93.312303,5,Willard - Hay,Near North,3,3,Kasota
+1041,01/01/2020 12:36pm,Snow Emergency,"215 12th ave ne,Minneapolis,MN",45.00014,-93.26538,3,Sheridan,Northeast,3,3,Kasota
+1042,01/01/2020 12:37pm,Snow Emergency,"615 Sheridan Ave n ,Minneapolis,MN",44.98478,-93.31247,5,Willard - Hay,Near North,2,3,Kasota
+1043,01/01/2020 12:37pm,Snow Emergency,"3205 20th ave ,Minneapolis,MN",44.94443,-93.24325,9,Corcoran,Powderhorn,3,3,Kasota
+1044,01/01/2020 12:37pm,Snow Emergency,"505 7th Avenue se ,Minneapolis,MN",44.98559,-93.244704,3,Marcy Holmes,University,3,3,Kasota
+1045,01/01/2020 12:38pm,Snow Emergency,"227 12th ave ne,Minneapolis,MN",44.999945,-93.265643,3,Sheridan,Northeast,2,3,Kasota
+1046,01/01/2020 12:38pm,Snow Emergency,"3233 Holmes Ave ,Minneapolis,MN",44.94361,-93.29923,10,ECCO,Calhoun Isle,6,3,Kasota
+1047,01/01/2020 12:38pm,Snow Emergency,"3151 Fremont ave s,Minneapolis,MN",44.945616,-93.29558,10,South Uptown,Calhoun Isle,4,3,Kasota
+1048,01/01/2020 12:38pm,Snow Emergency,"311 LOGAN AVE N,Minneapolis,MN",44.980193,-93.303402,5,Harrison,Near North,6,3,Kasota
+1049,01/01/2020 12:39pm,Snow Emergency,"1505 Girard ave n ,Minneapolis,MN",44.994405,-93.297305,5,Near - North,Near North,4,3,Kasota
+1050,01/01/2020 12:40pm,Snow Emergency,"3137 Holmes Ave,Minneapolis,MN",44.94525,-93.29922,10,ECCO,Calhoun Isle,2,3,Kasota
+1051,01/01/2020 12:40pm,Snow Emergency,"1201 BROOK AVE SE,Minneapolis,MN",44.9872,-93.23411,2,Como,University,1,3,Kasota
+1052,01/01/2020 12:40pm,Snow Emergency,"511 7th Avenue se ,Minneapolis,MN",44.985635,-93.24467,3,Marcy Holmes,University,4,3,Kasota
+1053,01/01/2020 12:41pm,Snow Emergency,"1727 Irving ave n ,Minneapolis,MN",44.99716,-93.2998,5,Near - North,Near North,1,3,Kasota
+1054,01/01/2020 12:41pm,Snow Emergency,"4161 aldrich ave n,Minneapolis,MN",45.031141,-93.289475,4,Webber - Camden,Camden,2,3,Kasota
+1055,01/01/2020 12:42pm,Snow Emergency,"215 Clifton Ave.,Minneapolis,MN",44.965584,-93.28274,7,Loring Park,Central,6,3,Kasota
+1056,01/01/2020 12:43pm,Snow Emergency,"3859 aldrich ave n,Minneapolis,MN",45.02562,-93.28968,4,Webber - Camden,Camden,4,3,Kasota
+1057,01/01/2020 12:46pm,Snow Emergency,"311 OAK GROVE ST,Minneapolis,MN",44.966783,-93.283121,7,Loring Park,Central,1,3,Kasota
+1058,01/01/2020 12:47pm,Snow Emergency,"3455 21st ave s,Minneapolis,MN",44.93967,-93.24198,9,Corcoran,Powderhorn,4,3,Kasota
+1059,01/01/2020 12:47pm,Snow Emergency,"137 18Th ST E,Minneapolis,MN",44.965065,-93.274921,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+1060,01/01/2020 12:48pm,Snow Emergency,"3251 Aldrich Ave n,Minneapolis,MN",45.01475,-93.28963,4,McKinley,Camden,2,3,Kasota
+1061,01/01/2020 12:49pm,Snow Emergency,"305 OAK GROVE ST,Minneapolis,MN",44.966746,-93.282994,7,Loring Park,Central,1,3,Kasota
+1062,01/01/2020 12:50pm,Snow Emergency,"229 Oak Grove Street,Minneapolis,MN",44.966327,-93.281337,7,Loring Park,Central,3,3,Kasota
+1063,01/01/2020 12:51pm,Snow Emergency,"1401 grand st ne,Minneapolis,MN",45.001938,-93.269309,3,Sheridan,Northeast,6,3,Kasota
+1064,01/01/2020 12:53pm,Snow Emergency,"727 8th ave se,Minneapolis,MN",44.987593,-93.241334,3,Marcy Holmes,University,2,3,Kasota
+1065,01/01/2020 12:53pm,Snow Emergency,"709 8th ave se,Minneapolis,MN",44.9872,-93.24191,3,Marcy Holmes,University,2,3,Kasota
+1066,01/01/2020 12:53pm,Snow Emergency,"2319 grand st ne,Minneapolis,MN",45.01172,-93.2697,3,Bottineau,Northeast,4,3,Kasota
+1067,01/01/2020 12:53pm,Snow Emergency,"417 MORGAN AVE N,Minneapolis,MN",44.982295,-93.304635,5,Harrison,Near North,6,3,Kasota
+1068,01/01/2020 12:53pm,Snow Emergency,"1723 Girard Ave N,Minneapolis,MN",44.99712,-93.29754,5,Near - North,Near North,3,3,Kasota
+1069,01/01/2020 12:56pm,Snow Emergency,"1827 36th ST E,Minneapolis,MN",44.937595,-93.247091,12,Standish,Powderhorn,4,3,Kasota
+1070,01/01/2020 12:56pm,Snow Emergency,"703 6TH AVE SE,Minneapolis,MN",44.988085,-93.244567,3,Marcy Holmes,University,4,3,Kasota
+1071,01/01/2020 12:56pm,Snow Emergency,"3457 Snelling Avenue South,Minneapolis,MN",44.93985,-93.2293,12,Howe,Longfellow,6,3,Kasota
+1072,01/01/2020 12:56pm,Snow Emergency,"4205 16th ave s,Minneapolis,MN",44.92656,-93.25076,8,Northrop,Nokomis,2,3,Kasota
+1073,01/01/2020 12:57pm,Snow Emergency,"1835 33rd ST E,Minneapolis,MN",44.942795,-93.246848,9,Corcoran,Powderhorn,4,3,Kasota
+1074,01/01/2020 12:59pm,Snow Emergency,"4239 16th ave s,Minneapolis,MN",44.92544,-93.25076,8,Northrop,Nokomis,2,3,Kasota
+1075,01/01/2020 12:59pm,Snow Emergency,"3329 Longfellow av s,Minneapolis,MN",44.94182,-93.24573,9,Corcoran,Powderhorn,1,3,Kasota
+1076,01/01/2020 01:01pm,Snow Emergency,"705 Sheridan Ave n ,Minneapolis,MN",44.98532,-93.31246,5,Willard - Hay,Near North,2,3,Kasota
+1077,01/01/2020 01:02pm,Snow Emergency,"4009 Longfellow av s,Minneapolis,MN",44.93013,-93.24569,12,Standish,Powderhorn,1,3,Kasota
+1078,01/01/2020 01:02pm,Snow Emergency,"1047 13TH AVE SE,Minneapolis,MN",44.9892,-93.23368,2,Como,University,5,3,Kasota
+1079,01/01/2020 01:03pm,Snow Emergency,"1315 Girard ave n ,Minneapolis,MN",44.99258,-93.29755,5,Near - North,Near North,2,3,Kasota
+1080,01/01/2020 01:04pm,Snow Emergency,"819 Thomas Ave n ,Minneapolis,MN",44.98668,-93.31372,5,Willard - Hay,Near North,5,3,Kasota
+1081,01/01/2020 01:05pm,Snow Emergency,"1333 Irving ave n ,Minneapolis,MN",44.992434,-93.299565,5,Near - North,Near North,3,3,Kasota
+1082,01/01/2020 01:07pm,Snow Emergency,"101 18TH ST E,Minneapolis,MN",44.965065,-93.27635,6,Steven's Square - Loring Heights,Central,6,3,Kasota
+1083,01/01/2020 01:09pm,Snow Emergency,"519 11TH AVE SE ,Minneapolis,MN",44.983475,-93.239084,3,Marcy Holmes,University,5,3,Kasota
+1084,01/01/2020 01:10pm,Snow Emergency,"144 Oak Grove St.,Minneapolis,MN",44.966495,-93.280017,7,Loring Park,Central,2,3,Kasota
+1085,01/01/2020 01:10pm,Snow Emergency,"3723 Aldrich Ave N,Minneapolis,MN",45.02281,-93.28966,4,McKinley,Camden,5,3,Kasota
+1086,01/01/2020 01:10pm,Snow Emergency,"1047 12th av se,Minneapolis,MN",44.9892,-93.23494,2,Como,University,6,3,Kasota
+1087,01/01/2020 01:10pm,Snow Emergency,"3553 25th ave s,Minneapolis,MN",44.93797,-93.23555,9,Corcoran,Powderhorn,4,3,Kasota
+1088,01/01/2020 01:10pm,Snow Emergency,"2201 bryant ave n,Minneapolis,MN",45.00161,-93.291175,5,Hawthorne,Near North,6,3,Kasota
+1089,01/01/2020 01:12pm,Snow Emergency,"2823 Aldrich Ave n,Minneapolis,MN",45.00925,-93.28962,5,Hawthorne,Near North,1,3,Kasota
+1090,01/01/2020 01:12pm,Snow Emergency,"3717 16th Avenue South,Minneapolis,MN",44.93536,-93.25078,9,Powderhorn Park,Powderhorn,3,3,Kasota
+1091,01/01/2020 01:14pm,Snow Emergency,"2421 bryant ave n,Minneapolis,MN",45.004377,-93.291185,5,Hawthorne,Near North,6,3,Kasota
+1092,01/01/2020 01:14pm,Snow Emergency,"1029 James Ave N,Minneapolis,MN",44.98849,-93.30104,5,Near - North,Near North,1,3,Kasota
+1093,01/01/2020 01:15pm,Snow Emergency,"1829 Stevens Ave South,Minneapolis,MN",44.964766,-93.275135,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1094,01/01/2020 01:16pm,Snow Emergency,"3703 Aldrich Ave N,Minneapolis,MN",45.022289,-93.289472,4,McKinley,Camden,3,3,Kasota
+1095,01/01/2020 01:16pm,Snow Emergency,"231 8th ave se,Minneapolis,MN",44.982274,-93.245519,3,Marcy Holmes,University,6,3,Kasota
+1096,01/01/2020 01:16pm,Snow Emergency,"3027 Fremont ave s,Minneapolis,MN",44.947324,-93.295615,10,South Uptown,Calhoun Isle,3,3,Kasota
+1097,01/01/2020 01:17pm,Snow Emergency,"729 8th ave se,Minneapolis,MN",44.98765,-93.24159,3,Marcy Holmes,University,2,3,Kasota
+1098,01/01/2020 01:17pm,Snow Emergency,"4349 Snelling ave so,Minneapolis,MN",44.92372,-93.21821,12,Hiawatha,Longfellow,6,3,Kasota
+1099,01/01/2020 01:19pm,Snow Emergency,"233 8TH AVE SE ,Minneapolis,MN",44.982289,-93.245507,3,Marcy Holmes,University,3,3,Kasota
+1100,01/01/2020 01:19pm,Snow Emergency,"205 18th st e ,Minneapolis,MN",44.965075,-93.273813,6,Steven's Square - Loring Heights,Central,2,3,Kasota
+1101,01/01/2020 01:21pm,Snow Emergency,"3459 Snelling Avenue South,Minneapolis,MN",44.940382,-93.229967,12,Howe,Longfellow,6,3,Kasota
+1102,01/01/2020 01:22pm,Snow Emergency,"515 7th ave se,Minneapolis,MN",44.98586,-93.24465,3,Marcy Holmes,University,4,3,Kasota
+1103,01/01/2020 01:25pm,Snow Emergency,"225 7th ave se,Minneapolis,MN",44.982782,-93.246947,3,Marcy Holmes,University,4,3,Kasota
+1104,01/01/2020 01:25pm,Snow Emergency,"227 7TH AVE SE,Minneapolis,MN",44.982798,-93.246935,3,Marcy Holmes,University,3,3,Kasota
+1105,01/01/2020 01:25pm,Snow Emergency,"619 7th ave se,Minneapolis,MN",44.986783,-93.243762,3,Marcy Holmes,University,4,3,Kasota
+1106,01/01/2020 01:25pm,Snow Emergency,"3403 Humboldt Ave S,Minneapolis,MN",44.941042,-93.300693,10,ECCO,Calhoun Isle,4,3,Kasota
+1107,01/01/2020 01:26pm,Snow Emergency,"1031 James ave n ,Minneapolis,MN",44.988352,-93.300894,5,Near - North,Near North,4,3,Kasota
+1108,01/01/2020 01:27pm,Snow Emergency,"2315 grand st ne,Minneapolis,MN",45.01161,-93.2697,3,Bottineau,Northeast,5,3,Kasota
+1109,01/01/2020 01:27pm,Snow Emergency,"103 18TH ST E,Minneapolis,MN",44.965065,-93.276269,6,Steven's Square - Loring Heights,Central,5,3,Kasota
+1110,01/01/2020 01:28pm,Snow Emergency,"429 NEWTON AVE N ,Minneapolis,MN",44.9825,-93.30617,5,Harrison,Near North,3,3,Kasota
+1111,01/01/2020 01:28pm,Snow Emergency,"1021 James ave n ,Minneapolis,MN",44.98814,-93.30105,5,Near - North,Near North,1,3,Kasota
+1112,01/01/2020 01:29pm,Snow Emergency,"807 jame's ave n ,Minneapolis,MN",44.987492,-93.300901,5,Near - North,Near North,4,3,Kasota
+1113,01/01/2020 01:29pm,Snow Emergency,"1301 grand st ne,Minneapolis,MN",45.00081,-93.26839,3,Sheridan,Northeast,3,3,Kasota
+1114,01/01/2020 01:29pm,Snow Emergency,"513 MORGAN AVE N,Minneapolis,MN",44.983145,-93.304677,5,Harrison,Near North,1,3,Kasota
+1115,01/01/2020 01:30pm,Snow Emergency,"1525 Spruce Pl.,Minneapolis,MN",44.967297,-93.280685,7,Loring Park,Central,3,3,Kasota
+1116,01/01/2020 01:30pm,Snow Emergency,"2015 3rd st ne,Minneapolis,MN",45.00905,-93.26417,3,Bottineau,Northeast,4,3,Kasota
+1117,01/01/2020 01:31pm,Snow Emergency,"2705 Aldrich Ave n,Minneapolis,MN",45.007891,-93.28945,5,Hawthorne,Near North,5,3,Kasota
+1118,01/01/2020 01:31pm,Snow Emergency,"3307 17th ave ,Minneapolis,MN",44.94262,-93.24954,9,Powderhorn Park,Powderhorn,3,3,Kasota
+1119,01/01/2020 01:32pm,Snow Emergency,"909. James Ave n ,Minneapolis,MN",44.987545,-93.3009,5,Near - North,Near North,3,3,Kasota
+1120,01/01/2020 01:34pm,Snow Emergency,"3013 17th ave s,Minneapolis,MN",44.947949,-93.249748,9,Powderhorn Park,Powderhorn,4,3,Kasota
+1121,01/01/2020 01:35pm,Snow Emergency,"1073 13th ave se,Minneapolis,MN",44.990067,-93.233445,2,Como,University,3,3,Kasota
+1122,01/01/2020 01:35pm,Snow Emergency,"341 16th ave ne,Minneapolis,MN",45.004325,-93.262743,3,Sheridan,Northeast,4,3,Kasota
+1123,01/01/2020 01:35pm,Snow Emergency,"715 11TH AVE SE,Minneapolis,MN",44.985416,-93.237549,3,Marcy Holmes,University,4,3,Kasota
+1124,01/01/2020 01:36pm,Snow Emergency,"1827 Stevens Ave South,Minneapolis,MN",44.964786,-93.275135,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+1125,01/01/2020 01:37pm,Snow Emergency,"3043 17th Avenue South,Minneapolis,MN",44.94688,-93.24956,9,Powderhorn Park,Powderhorn,1,3,Kasota
+1126,01/01/2020 01:38pm,Snow Emergency,"1019 James Ave N,Minneapolis,MN",44.98803,-93.30105,5,Near - North,Near North,1,3,Kasota
+1127,01/01/2020 01:39pm,Snow Emergency,"409 17th ave ne,Minneapolis,MN",45.005402,-93.261288,1,Holland,Northeast,3,3,Kasota
+1128,01/01/2020 01:40pm,Snow Emergency,"137 19TH ST E,Minneapolis,MN",44.963805,-93.274995,6,Steven's Square - Loring Heights,Central,6,3,Kasota
+1129,01/01/2020 01:41pm,Snow Emergency,"1913 2nd ave s ,Minneapolis,MN",44.963663,-93.273895,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+1130,01/01/2020 01:42pm,Snow Emergency,"505 11th av se,Minneapolis,MN",44.98337,-93.239165,3,Marcy Holmes,University,2,3,Kasota
+1131,01/01/2020 01:42pm,Snow Emergency,"515 NEWTON AVE N,Minneapolis,MN",44.98312,-93.30616,5,Harrison,Near North,1,3,Kasota
+1132,01/01/2020 01:43pm,Snow Emergency,"209 19TH ST E,Minneapolis,MN",44.96368,-93.27351,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1133,01/01/2020 01:44pm,Snow Emergency,"3029 Fremont ave s ,Minneapolis,MN",44.9473,-93.29538,10,South Uptown,Calhoun Isle,6,3,Kasota
+1134,01/01/2020 01:44pm,Snow Emergency,"311 6th st se,Minneapolis,MN",44.988629,-93.249362,3,Marcy Holmes,University,2,3,Kasota
+1135,01/01/2020 01:45pm,Snow Emergency,"1513 Spruce Pl.,Minneapolis,MN",44.9673,-93.2804,7,Loring Park,Central,6,3,Kasota
+1136,01/01/2020 01:47pm,Snow Emergency,"525 NEWTON AVE N,Minneapolis,MN",44.983448,-93.306005,5,Harrison,Near North,6,3,Kasota
+1137,01/01/2020 01:48pm,Snow Emergency,"117 18 TH ST E,Minneapolis,MN",44.965065,-93.275703,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1138,01/01/2020 01:48pm,Snow Emergency,"1027 JAMES AVE N,Minneapolis,MN",44.98837,-93.30104,5,Near - North,Near North,5,3,Kasota
+1139,01/01/2020 01:49pm,Snow Emergency,"313 17th ave ne,Minneapolis,MN",45.00548,-93.26416,3,Bottineau,Northeast,4,3,Kasota
+1140,01/01/2020 01:49pm,Snow Emergency,"1111 James Ave N,Minneapolis,MN",44.98944,-93.30103,5,Near - North,Near North,1,3,Kasota
+1141,01/01/2020 01:50pm,Snow Emergency,"1217 james ave n,Minneapolis,MN",44.9906,-93.30102,5,Near - North,Near North,5,3,Kasota
+1142,01/01/2020 01:51pm,Snow Emergency,"311 17th ave ne,Minneapolis,MN",45.00548,-93.26416,3,Bottineau,Northeast,5,3,Kasota
+1143,01/01/2020 01:51pm,Snow Emergency,"3309 22nd ave s,Minneapolis,MN",44.9425,-93.24011,9,Corcoran,Powderhorn,3,3,Kasota
+1144,01/01/2020 01:51pm,Snow Emergency,"3337 17th ave s,Minneapolis,MN",44.94158,-93.24963,9,Powderhorn Park,Powderhorn,3,3,Kasota
+1145,01/01/2020 01:52pm,Snow Emergency,"1103 James ave n ,Minneapolis,MN",44.98912,-93.30104,5,Near - North,Near North,4,3,Kasota
+1146,01/01/2020 01:53pm,Snow Emergency,"1209 James Ave N,Minneapolis,MN",44.99046,-93.30102,5,Near - North,Near North,6,3,Kasota
+1147,01/01/2020 01:54pm,Snow Emergency,"1329 james ave n,Minneapolis,MN",44.99246,-93.30104,5,Near - North,Near North,6,3,Kasota
+1148,01/01/2020 01:55pm,Snow Emergency,"119 18th Street East,Minneapolis,MN",44.965065,-93.275622,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1149,01/01/2020 01:55pm,Snow Emergency,"2911 Aldrich Ave n,Minneapolis,MN",45.00988,-93.28962,5,Hawthorne,Near North,4,3,Kasota
+1150,01/01/2020 01:56pm,Snow Emergency,"3309 17th ave s,Minneapolis,MN",44.94249,-93.24954,9,Powderhorn Park,Powderhorn,3,3,Kasota
+1151,01/01/2020 01:58pm,Snow Emergency,"2121 5TH AVE N,Minneapolis,MN",44.982505,-93.307434,5,Harrison,Near North,6,3,Kasota
+1152,01/01/2020 01:59pm,Snow Emergency,"3453 Snelling Avenue South,Minneapolis,MN",44.93995,-93.22937,12,Howe,Longfellow,3,3,Kasota
+1153,01/01/2020 02:00pm,Snow Emergency,"723 11TH AVE SE,Minneapolis,MN",44.985475,-93.2375,3,Marcy Holmes,University,6,3,Kasota
+1154,01/01/2020 02:01pm,Snow Emergency,"407 Clifton Ave,Minneapolis,MN",44.966542,-93.285403,7,Loring Park,Central,2,3,Kasota
+1155,01/01/2020 02:02pm,Snow Emergency,"4107 Snelling ave so,Minneapolis,MN",44.92843,-93.221,12,Hiawatha,Longfellow,1,3,Kasota
+1156,01/01/2020 02:02pm,Snow Emergency,"1429 Knox Ave n ,Minneapolis,MN",44.994,-93.30229,5,Willard - Hay,Near North,1,3,Kasota
+1157,01/01/2020 02:03pm,Snow Emergency,"719 9TH AVE SE ,Minneapolis,MN",44.98693,-93.2401,3,Marcy Holmes,University,4,3,Kasota
+1158,01/01/2020 02:03pm,Snow Emergency,"405 Clifton Ave,Minneapolis,MN",44.966528,-93.28537,7,Loring Park,Central,2,3,Kasota
+1159,01/01/2020 02:06pm,Snow Emergency,"1427 Knox Ave n ,Minneapolis,MN",44.99389,-93.30229,5,Willard - Hay,Near North,4,3,Kasota
+1160,01/01/2020 02:07pm,Snow Emergency,"331 18th st e,Minneapolis,MN",44.96493,-93.2711,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1161,01/01/2020 02:07pm,Snow Emergency,"1067 14th ave se,Minneapolis,MN",44.98985,-93.2324,2,Como,University,4,3,Kasota
+1162,01/01/2020 02:09pm,Snow Emergency,"1405 James Ave N,Minneapolis,MN",44.992885,-93.300815,5,Near - North,Near North,5,3,Kasota
+1163,01/01/2020 02:10pm,Snow Emergency,"305 QUEEN AVE N,Minneapolis,MN",44.980388,-93.309715,5,Harrison,Near North,4,3,Kasota
+1164,01/01/2020 02:10pm,Snow Emergency,"3149 22nd ave s,Minneapolis,MN",44.94516,-93.24018,9,Corcoran,Powderhorn,3,3,Kasota
+1165,01/01/2020 02:12pm,Snow Emergency,"1503 32nd ST E,Minneapolis,MN",44.944605,-93.253458,9,Powderhorn Park,Powderhorn,1,3,Kasota
+1166,01/01/2020 02:12pm,Snow Emergency,"1807 STEVENS AVE S ,Minneapolis,MN",44.964982,-93.275135,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+1167,01/01/2020 02:13pm,Snow Emergency,"427 20th ave ne,Minneapolis,MN",45.008674,-93.260383,1,Holland,Northeast,4,3,Kasota
+1168,01/01/2020 02:14pm,Snow Emergency,"3101 13th ave,Minneapolis,MN",44.94642,-93.25594,9,Powderhorn Park,Powderhorn,1,3,Kasota
+1169,01/01/2020 02:14pm,Snow Emergency,"425 20th ave ne,Minneapolis,MN",45.0088,-93.26039,1,Holland,Northeast,2,3,Kasota
+1170,01/01/2020 02:15pm,Snow Emergency,"111 19th St. E,Minneapolis,MN",44.963791,-93.276076,6,Steven's Square - Loring Heights,Central,4,3,Kasota
+1171,01/01/2020 02:15pm,Snow Emergency,"3141 Fremont ave s,Minneapolis,MN",44.94515,-93.2954,10,South Uptown,Calhoun Isle,3,3,Kasota
+1172,01/01/2020 02:16pm,Snow Emergency,"519 3rd ave se,Minneapolis,MN",44.98849,-93.25038,3,Marcy Holmes,University,5,3,Kasota
+1173,01/01/2020 02:18pm,Snow Emergency,"4021 SNELLING AVE S ,Minneapolis,MN",44.92999,-93.22215,12,Hiawatha,Longfellow,5,3,Kasota
+1174,01/01/2020 02:18pm,Snow Emergency,"641 19th ave ne,Minneapolis,MN",45.00773,-93.25612,1,Holland,Northeast,4,3,Kasota
+1175,01/01/2020 02:18pm,Snow Emergency,"2655 colfax Ave n,Minneapolis,MN",45.00759,-93.29214,5,Hawthorne,Near North,2,3,Kasota
+1176,01/01/2020 02:18pm,Snow Emergency,"521 11th Avenue se ,Minneapolis,MN",44.98349,-93.239073,3,Marcy Holmes,University,5,3,Kasota
+1177,01/01/2020 02:19pm,Snow Emergency,"1805 Stevens Ave South,Minneapolis,MN",44.965001,-93.275135,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+1178,01/01/2020 02:19pm,Snow Emergency,"1807 IRVING AVE N ,Minneapolis,MN",44.99767,-93.29979,5,Willard - Hay,Near North,3,3,Kasota
+1179,01/01/2020 02:20pm,Snow Emergency,"601 17th ave ne,Minneapolis,MN",45.00543,-93.25864,1,Holland,Northeast,1,3,Kasota
+1180,01/01/2020 02:20pm,Snow Emergency,"1009 17th av se,Minneapolis,MN",44.988135,-93.228315,1,Como,University,5,3,Kasota
+1181,01/01/2020 02:20pm,Snow Emergency,"2229 HAWTHORNE AVE W,Minneapolis,MN",44.975205,-93.308787,7,Bryn - Mawr,Calhoun Isle,5,3,Kasota
+1182,01/01/2020 02:21pm,Snow Emergency,"1329 James ave n ,Minneapolis,MN",44.99246,-93.30104,5,Near - North,Near North,3,3,Kasota
+1183,01/01/2020 02:21pm,Snow Emergency,"3351 Snelling Avenue South,Minneapolis,MN",44.94164,-93.23061,9,Longfellow,Longfellow,2,3,Kasota
+1184,01/01/2020 02:21pm,Snow Emergency,"3433 25th av s,Minneapolis,MN",44.94032,-93.23556,9,Corcoran,Powderhorn,5,3,Kasota
+1185,01/01/2020 02:22pm,Snow Emergency,"301 17th ave ne,Minneapolis,MN",45.00548,-93.26416,3,Bottineau,Northeast,6,3,Kasota
+1186,01/01/2020 02:22pm,Snow Emergency,"3201 22nd ave ,Minneapolis,MN",44.94458,-93.24012,9,Corcoran,Powderhorn,3,3,Kasota
+1187,01/01/2020 02:22pm,Snow Emergency,"207 7 th ave se,Minneapolis,MN",44.982646,-93.247053,3,Marcy Holmes,University,6,3,Kasota
+1188,01/01/2020 02:24pm,Snow Emergency,"3113 22nd ave s,Minneapolis,MN",44.94611,-93.24027,9,Corcoran,Powderhorn,1,3,Kasota
+1189,01/01/2020 02:25pm,Snow Emergency,"1831 4th ave s ,Minneapolis,MN",44.964643,-93.270033,6,Steven's Square - Loring Heights,Central,5,3,Kasota
+1190,01/01/2020 02:25pm,Snow Emergency,"307 6th ave se,Minneapolis,MN",44.984195,-93.247644,3,Marcy Holmes,University,5,3,Kasota
+1191,01/01/2020 02:26pm,Snow Emergency,"3135 22nd ave ,Minneapolis,MN",44.94557,-93.24026,9,Corcoran,Powderhorn,3,3,Kasota
+1192,01/01/2020 02:28pm,Snow Emergency,"713 8th ave se,Minneapolis,MN",44.9872,-93.24191,3,Marcy Holmes,University,5,3,Kasota
+1193,01/01/2020 02:29pm,Snow Emergency,"807 11TH AVE SE ,Minneapolis,MN",44.986316,-93.236807,3,Marcy Holmes,University,5,3,Kasota
+1194,01/01/2020 02:29pm,Snow Emergency,"2007 willow ave n,Minneapolis,MN",45.00354,-93.30638,5,Jordan,Near North,3,3,Kasota
+1195,01/01/2020 02:33pm,Snow Emergency,"721 7th ave se,Minneapolis,MN",44.987668,-93.243061,3,Marcy Holmes,University,6,3,Kasota
+1196,01/01/2020 02:33pm,Snow Emergency,"1923 willow ave n,Minneapolis,MN",45.00341,-93.30616,5,Jordan,Near North,1,3,Kasota
+1197,01/01/2020 02:33pm,Snow Emergency,"1503 Knox Ave N,Minneapolis,MN",44.9943,-93.30229,5,Willard - Hay,Near North,5,3,Kasota
+1198,01/01/2020 02:35pm,Snow Emergency,"3421 Snelling ave so,Minneapolis,MN",44.94074,-93.22993,12,Howe,Longfellow,4,3,Kasota
+1199,01/01/2020 02:36pm,Snow Emergency,"713 9th ave se,Minneapolis,MN",44.98675,-93.24046,3,Marcy Holmes,University,3,3,Kasota
+1200,01/01/2020 02:36pm,Snow Emergency,"3105 22nd Avenue South,Minneapolis,MN",44.94638,-93.24014,9,Corcoran,Powderhorn,4,3,Kasota
+1201,01/01/2020 02:37pm,Snow Emergency,"2943 DuPont Ave n,Minneapolis,MN",45.01091,-93.29341,5,Hawthorne,Near North,5,3,Kasota
+1202,01/01/2020 02:38pm,Snow Emergency,"1907 STEVENS AVE S ,Minneapolis,MN",44.96366,-93.27493,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1203,01/01/2020 02:38pm,Snow Emergency,"1909 willow ave N,Minneapolis,MN",45.003109,-93.305456,5,Jordan,Near North,1,3,Kasota
+1204,01/01/2020 02:39pm,Snow Emergency,"829 7 TH ST SE ,Minneapolis,MN",44.986735,-93.241347,3,Marcy Holmes,University,1,3,Kasota
+1205,01/01/2020 02:40pm,Snow Emergency,"1085 15th ave se,Minneapolis,MN",44.990488,-93.230895,1,Como,University,4,3,Kasota
+1206,01/01/2020 02:42pm,Snow Emergency,"1907 willow ave n ,Minneapolis,MN",45.00305,-93.30562,5,Jordan,Near North,3,3,Kasota
+1207,01/01/2020 02:43pm,Snow Emergency,"1917 Stevens Avenue South,Minneapolis,MN",44.96325,-93.27493,6,Steven's Square - Loring Heights,Central,3,3,Kasota
+1208,01/01/2020 02:43pm,Snow Emergency,"719 11th ave se,Minneapolis,MN",44.985446,-93.237524,3,Marcy Holmes,University,6,3,Kasota
+1209,01/01/2020 02:44pm,Snow Emergency,"137 11th ave ne,Minneapolis,MN",44.998411,-93.268141,3,St. Anthony West,Northeast,1,3,Kasota
+1210,01/01/2020 02:45pm,Snow Emergency,"2307 Sheridan Ave n ,Minneapolis,MN",45.00264,-93.3124,5,Willard - Hay,Near North,3,3,Kasota
+1211,01/01/2020 02:45pm,Snow Emergency,"103 19th St E,Minneapolis,MN",44.963786,-93.276301,6,Steven's Square - Loring Heights,Central,4,3,Kasota
+1212,01/01/2020 02:46pm,Snow Emergency,"3209 Fremont ave s,Minneapolis,MN",44.94431,-93.29541,10,South Uptown,Calhoun Isle,1,3,Kasota
+1213,01/01/2020 02:48pm,Snow Emergency,"1823 2nd Ave S,Minneapolis,MN",44.96431,-93.27365,6,Steven's Square - Loring Heights,Central,6,3,Kasota
+1214,01/01/2020 02:50pm,Snow Emergency,"123 19TH ST E,Minneapolis,MN",44.963799,-93.275738,6,Steven's Square - Loring Heights,Central,1,3,Kasota
+1215,01/01/2020 02:51pm,Snow Emergency,"2005 2nd ave s ,Minneapolis,MN",44.96231,-93.27365,10,Whittier,Powderhorn,1,3,Kasota
+1216,01/01/2020 02:52pm,Snow Emergency,"1315 Knox Ave N,Minneapolis,MN",44.991818,-93.302075,5,Willard - Hay,Near North,5,3,Kasota
+1217,01/01/2020 02:53pm,Snow Emergency,"1023 7TH ST SE,Minneapolis,MN",44.985602,-93.238525,3,Marcy Holmes,University,4,3,Kasota
+1218,01/01/2020 02:53pm,Snow Emergency,"1917 2ND AVE S,Minneapolis,MN",44.96327,-93.27364,6,Steven's Square - Loring Heights,Central,6,3,Kasota
+1219,01/01/2020 02:55pm,Snow Emergency,"331 19th St. E.,Minneapolis,MN",44.96379,-93.27119,6,Steven's Square - Loring Heights,Central,2,3,Kasota
+1220,01/01/2020 02:59pm,Snow Emergency,"3007 DuPont Ave n ,Minneapolis,MN",45.0116,-93.29341,5,Hawthorne,Near North,2,3,Kasota
+1221,01/01/2020 02:59pm,Snow Emergency,"1083 17th avE se,Minneapolis,MN",44.99031,-93.22858,1,Como,University,6,3,Kasota
+1222,01/01/2020 03:05pm,Snow Emergency,"1919 4th ave s ,Minneapolis,MN",44.963596,-93.270037,6,Steven's Square - Loring Heights,Central,2,3,Kasota
+1223,01/01/2020 03:07pm,Snow Emergency,"1317 Knox Ave N,Minneapolis,MN",44.99216,-93.30229,5,Willard - Hay,Near North,5,3,Kasota
+1224,01/01/2020 03:08pm,Snow Emergency,"3218 snelling ave s,Minneapolis,MN",44.9438,-93.23343,9,Longfellow,Longfellow,5,3,Kasota
+1225,01/01/2020 03:09pm,Snow Emergency,"1113 jefferson st ne,Minneapolis,MN",44.998925,-93.254845,1,Logan Park,Northeast,2,3,Kasota
+1226,01/01/2020 03:09pm,Snow Emergency,"1837 34th ST E,Minneapolis,MN",44.941185,-93.246634,9,Corcoran,Powderhorn,3,3,Kasota
+1227,01/01/2020 03:11pm,Snow Emergency,"1415 w 32nd st,Minneapolis,MN",44.944585,-93.29785,10,South Uptown,Calhoun Isle,3,3,Kasota
+1228,01/01/2020 03:11pm,Snow Emergency,"4535 Snelling Avenue South,Minneapolis,MN",44.92055,-93.21651,12,Hiawatha,Longfellow,3,3,Kasota
+1229,01/01/2020 03:11pm,Snow Emergency,"1835 36th ST E,Minneapolis,MN",44.937595,-93.246818,12,Standish,Powderhorn,2,3,Kasota
+1230,01/01/2020 03:12pm,Snow Emergency,"3835 snelling ave s,Minneapolis,MN",44.933559,-93.225001,12,Howe,Longfellow,3,3,Kasota
+1231,01/01/2020 03:12pm,Snow Emergency,"425 newton AVE N,Minneapolis,MN",44.982326,-93.305955,5,Harrison,Near North,2,3,Kasota
+1232,01/01/2020 03:12pm,Snow Emergency,"149 12th ave ne,Minneapolis,MN",45.00014,-93.26697,3,Sheridan,Northeast,3,3,Kasota
+1233,01/01/2020 03:12pm,Snow Emergency,"1907 2ND AVE S,Minneapolis,MN",44.963722,-93.273895,6,Steven's Square - Loring Heights,Central,4,3,Kasota
+1234,01/01/2020 03:13pm,Snow Emergency,"303 6 th ave se,Minneapolis,MN",44.984165,-93.247667,3,Marcy Holmes,University,2,3,Kasota
+1235,01/01/2020 03:14pm,Snow Emergency,"1223 5th st ne,Minneapolis,MN",45.00039,-93.25985,3,Sheridan,Northeast,1,3,Kasota
+1236,01/01/2020 03:16pm,Snow Emergency,"731 JEFFERSON ST NE,Minneapolis,MN",44.99779,-93.25462,3,St. Anthony East,Northeast,0,3,Kasota
+1237,01/01/2020 03:17pm,Snow Emergency,"1025 7TH ST SE,Minneapolis,MN",44.985594,-93.238504,3,Marcy Holmes,University,0,3,Kasota
+1238,01/01/2020 03:19pm,Snow Emergency,"1321 knox ave n,Minneapolis,MN",44.99226,-93.30229,5,Willard - Hay,Near North,0,3,Kasota
+1239,01/01/2020 03:19pm,Snow Emergency,"4535 Snelling Ave so,Minneapolis,MN",44.92055,-93.21651,12,Hiawatha,Longfellow,0,3,Kasota
+1240,01/01/2020 03:20pm,Snow Emergency,"207 18th St E,Minneapolis,MN",44.965075,-93.273795,6,Steven's Square - Loring Heights,Central,0,3,Kasota
+1241,01/01/2020 03:21pm,Snow Emergency,"115 19TH ST E,Minneapolis,MN",44.963794,-93.275963,6,Steven's Square - Loring Heights,Central,0,3,Kasota
+1242,01/01/2020 03:22pm,Snow Emergency,"723 7 th ave se,Minneapolis,MN",44.987683,-93.24305,3,Marcy Holmes,University,0,3,Kasota
+1243,01/01/2020 03:24pm,Snow Emergency,"1703 Stevens Ave S,Minneapolis,MN",44.966098,-93.275135,6,Steven's Square - Loring Heights,Central,0,3,Kasota
+1244,01/01/2020 03:24pm,Snow Emergency,"825 Russell Ave n ,Minneapolis,MN",44.98695,-93.31142,5,Willard - Hay,Near North,0,3,Kasota
+1245,01/01/2020 03:27pm,Snow Emergency,"717 Russell Ave n ,Minneapolis,MN",44.985767,-93.311175,5,Willard - Hay,Near North,0,3,Kasota
+1246,01/01/2020 03:49pm,Snow Emergency,"3531 HUMBOLDT AVE S,Minneapolis,MN",44.938446,-93.300745,10,ECCO,Calhoun Isle,0,3,Kasota

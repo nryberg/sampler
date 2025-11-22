@@ -1,0 +1,18 @@
+station_id,state_name,city_name,elevation,heatIndex,relativeHumidity,station,temperature,textDescription,timestamp,visibility,windChill,windDirection,windSpeed,temp_F,temp_F_round
+KCRP,Texas,Corpus Christi,13,24.63068991601,87.515784017394,https://api.weather.gov/stations/KCRP,23.9,Cloudy,2025-04-21T23:51:00+00:00,16090,,100,20.52,75.02,75
+KDFW,Texas,Dallas-Fort Worth,182,24.27533064050389,27.565854317177,https://api.weather.gov/stations/KDFW,25,Mostly Clear,2025-04-21T23:53:00+00:00,16090,,120,11.16,77,77
+KGPI,Montana,Kalispell,906,,53.191916466365,https://api.weather.gov/stations/KGPI,7.2,Mostly Cloudy,2025-04-21T23:55:00+00:00,16090,4.510255307194444,350,14.76,44.96,45
+KIAH,Texas,Houston,33,28.560328252597778,47.557922512366,https://api.weather.gov/stations/KIAH,28.3,Partly Cloudy,2025-04-21T23:53:00+00:00,16090,,180,5.4,82.94,83
+KINL,Minnesota,International Falls,361,,32.808572074644,https://api.weather.gov/stations/KINL,13.9,Mostly Cloudy,2025-04-21T23:54:00+00:00,16090,,340,16.56,57.02,57
+KJFK,New York,New York,7,,71.300446309395,https://api.weather.gov/stations/KJFK,11.1,Cloudy,2025-04-21T23:51:00+00:00,16090,,130,14.76,51.98,52
+KLAX,California,Los Angeles,32,,69.876502911497,https://api.weather.gov/stations/KLAX,16.1,Mostly Clear,2025-04-21T23:53:00+00:00,16090,,250,20.52,60.980000000000004,61
+KMCI,Missouri,Kansas City,312,,58.55887506803,https://api.weather.gov/stations/KMCI,18.9,Mostly Cloudy,2025-04-21T23:53:00+00:00,16090,,200,14.76,66.02,66
+KMIA,Florida,Miami,4,24.571937510630555,64.201862109253,https://api.weather.gov/stations/KMIA,24.4,Mostly Cloudy,2025-04-21T23:53:00+00:00,16090,,70,18.36,75.92,76
+KMSP,Minnesota,Minneapolis-Saint Paul,255,,28.125875270292,https://api.weather.gov/stations/KMSP,15.6,Partly Cloudy,2025-04-21T23:53:00+00:00,16090,,260,7.56,60.08,60
+KORD,Illinois,Chicago,205,,58.917436953004,https://api.weather.gov/stations/KORD,12.2,Mostly Cloudy,2025-04-21T23:51:00+00:00,16090,,290,14.76,53.96,54
+KPDX,Oregon,Portland,12,,42.218135507507,https://api.weather.gov/stations/KPDX,15.6,Partly Cloudy,2025-04-21T23:53:00+00:00,16090,,,11.16,60.08,60
+KPHX,Arizona,Pheonix,337,,,https://api.weather.gov/stations/KPHX,32.2,Mostly Cloudy,2025-04-21T23:51:00+00:00,16090,,250,16.56,89.96000000000001,90
+KSEA,Washington,Seattle,137,,40.073323923865,https://api.weather.gov/stations/KSEA,13.3,Mostly Cloudy,2025-04-21T23:53:00+00:00,16090,,240,12.96,55.94,56
+KSFO,California,San Francisco,5,,60.799253674469,https://api.weather.gov/stations/KSFO,18.3,Mostly Clear,2025-04-21T23:56:00+00:00,16090,,,,64.94,65
+PANC,Alaska,Anchorage,44,,,https://api.weather.gov/stations/PANC,7.2,Cloudy,2025-04-21T23:53:00+00:00,16090,5.082966812782222,,11.16,44.96,45
+PHNL,Hawaii,Honolulu,5,31.34803133702889,46.385645157686,https://api.weather.gov/stations/PHNL,30.6,Partly Cloudy and Windy,2025-04-21T23:53:00+00:00,16090,,70,31.68,87.08000000000001,87
