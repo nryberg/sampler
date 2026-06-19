@@ -21,14 +21,14 @@ A collection of various sample datasets that can be used for testing and develop
 | M | [Minnesota Geography](./minne_lakes) | Minnesota Lake Towns |
 | N | TBD | TBD |
 | O | TBD | TBD |
-| P | TBD | TBD |
+| P | [Parking Tickets](./parking_tickets) | Snow Emergency Related Fines |
 | Q | TBD | TBD |
-| R | TBD | TBD |
-| S | TBD | TBD |
-| T | TBD | TBD |
+| R | [Retail Therapy](./retail_therapy) | Store Location Data over 30 years |
+| S | [Soccer Player Pay](./soccer_player_pay) | Annual Salary Data for Soccer Players |
+| T | [TBD] | TBD |
 | U | TBD | TBD |
 | V | TBD | TBD |
-| W | TBD | TBD |
+| W | [Weather or Not](./weather_or_not) | Weather History |
 | X | TBD | TBD |
 | Y | TBD | TBD |
 | Z | TBD | TBD |
