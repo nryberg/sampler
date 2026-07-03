@@ -15,9 +15,9 @@ A collection of various sample datasets that can be used for testing and develop
 | G | TBD | TBD |
 | H | [Holidays](./holidays) | Holiday Music Plays |
 | I | TBD | TBD |
-| J | TBD | TBD |
+| J | [Junk Mail](./junk_mail) | SPAM, spam, SPAM! |
 | K | TBD | TBD |
-| L | TBD | TBD |
+| L | [Lunar Cycles](./lunar_cycles) | Tracking Moon's Lunar Cycles |
 | M | [Minnesota Geography](./minne_lakes) | Minnesota Lake Towns |
 | N | TBD | TBD |
 | O | TBD | TBD |

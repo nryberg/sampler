@@ -1,0 +1,148 @@
+sender_id,domain_id,from_email,from_name,email_count,first_seen,last_seen
+1,23,AmazonAntitrustLitigation@e.epiqnotice.com,DeCoster v. Amazon.com Class Action Administrator,1,2026-06-14 16:10:15+00:00,2026-06-14 16:10:15+00:00
+2,85,Microsoftstore@microsoftstore.microsoft.com,Microsoft Store,9,2023-09-08 21:18:40+00:00,2024-08-23 00:08:25+00:00
+3,1,News@InsideApple.Apple.com,Apple,1,2015-04-06 10:30:52+00:00,2015-04-06 10:30:52+00:00
+4,61,OpenTable_at_mgs_opentable_com_jja9p271rscayg_7bds4967@icloud.com,OpenTable,1,2024-11-12 20:27:16+00:00,2024-11-12 20:27:16+00:00
+5,46,TheCoca-ColaCompany@emailusa.coca-cola.com,Coca-Cola Brands,1,2019-09-10 23:40:27+00:00,2019-09-10 23:40:27+00:00
+6,41,TodayTix@email.todaytix.com,TodayTix,5,2022-01-27 14:03:04+00:00,2022-11-03 13:01:30+00:00
+7,90,TuneIn@news.tunein.com,TuneIn,6,2024-02-09 01:30:23+00:00,2024-08-12 19:30:40+00:00
+8,111,UofMAdmissions@uofminn.org,University of Minnesota,1,2013-03-04 16:26:21+00:00,2013-03-04 16:26:21+00:00
+9,49,Xbox@engage.xbox.com,Xbox,3,2011-04-16 17:07:04+00:00,2012-10-05 00:57:06+00:00
+10,114,admin@vagaro.com,KMS Men's Grooming,1,2021-08-19 16:18:31+00:00,2021-08-19 16:18:31+00:00
+11,34,ancestry@email.ancestry.com,Ancestry,1,2022-10-07 20:50:07+00:00,2022-10-07 20:50:07+00:00
+12,116,anna@vividcortex.com,Anna Navatsyk,1,2015-12-14 01:15:21+00:00,2015-12-14 01:15:21+00:00
+13,58,apps-noreply@google.com,The Google Apps Team,2,2013-02-13 22:29:50+00:00,2015-04-28 13:48:09+00:00
+14,30,artemail@em.art.com,Art.com,5,2018-09-17 16:18:09+00:00,2019-01-21 19:01:57+00:00
+15,38,azure@email.microsoft.com,Microsoft Azure Team,1,2020-10-13 22:03:32+00:00,2020-10-13 22:03:32+00:00
+16,69,bessin@intuilab.com,Geoff Bessin,1,2015-01-14 14:12:20+00:00,2015-01-14 14:12:20+00:00
+17,26,cartwheel@e.target.com,Cartwheel by Target,1,2017-03-14 19:35:51+00:00,2017-03-14 19:35:51+00:00
+18,108,cmanns@stjoan.com,Women of St. Joan of Arc Steering Committee,1,2018-01-08 13:00:14+00:00,2018-01-08 13:00:14+00:00
+19,87,community@miro.com,Miro Community,1,2022-03-16 17:42:49+00:00,2022-03-16 17:42:49+00:00
+20,22,davidsbridal@e.davidsbridal.com,David's Bridal,1,2014-12-10 17:10:39+00:00,2014-12-10 17:10:39+00:00
+21,74,deals@livingsocial.com,LivingSocial Deals,9,2012-08-30 13:46:49+00:00,2013-01-22 21:06:59+00:00
+22,83,deals@market-us.sheinmail.com,SHEIN,9,2023-03-23 02:00:08+00:00,2023-10-21 15:06:34+00:00
+23,108,dheaney@stjoan.com,St. Joan of Arc Catholic Community,7,2020-06-05 22:00:11+00:00,2026-06-26 22:00:20+00:00
+24,4,discover@airbnb.com,Airbnb,7,2017-06-10 14:35:19+00:00,2025-02-13 07:14:54+00:00
+25,40,do-not-reply@email.thecompanystore.com,The Company Store,1,2022-08-20 13:45:03+00:00,2022-08-20 13:45:03+00:00
+26,62,do-not-reply@imdb.com,IMDb.com,16,2017-08-31 12:30:13+00:00,2025-05-01 07:19:47+00:00
+27,17,do312@do312.com,Do312,14,2018-04-02 17:49:10+00:00,2018-10-31 15:51:48+00:00
+28,15,doordash@delighted.com,DoorDash Support,1,2019-07-05 17:29:32+00:00,2019-07-05 17:29:32+00:00
+29,109,drstephenleebphd@substack.com,"Stephen Leeb, PhD: Turbulent Times Investor",8,2026-06-03 18:11:56+00:00,2026-07-01 15:57:29+00:00
+30,104,ebay@reply.ebay.com,eBay,11,2022-11-29 17:14:02+00:00,2024-02-14 20:53:43+00:00
+31,2,email@a.grubhub.com,Grubhub,5,2017-12-16 02:32:14+00:00,2018-05-03 00:02:11+00:00
+32,31,email@em.sherwin-williams.com,Sherwin-Williams,1,2022-09-09 15:44:33+00:00,2022-09-09 15:44:33+00:00
+33,50,email@et.uber.com,Uber,1,2016-11-21 20:24:46+00:00,2016-11-21 20:24:46+00:00
+34,81,email@mail1.prezi.com,Prezi,1,2014-11-20 21:18:58+00:00,2014-11-20 21:18:58+00:00
+35,77,emails@mail.etsy.com,Etsy,2,2014-11-21 20:06:06+00:00,2015-01-02 19:57:35+00:00
+36,19,exclusive@e-exclusive.dominos.com,Domino's Pizza,1,2021-12-16 16:14:01+00:00,2021-12-16 16:14:01+00:00
+37,53,freeprints@freeprintsapp.com,FreePrints,5,2026-06-02 15:04:31+00:00,2026-06-30 15:05:21+00:00
+38,96,freeprints@photoaffections.com,FreePrints,3,2020-05-24 14:46:48+00:00,2022-05-09 15:26:01+00:00
+39,94,fromthetimes-noreply@nytimes.com,The New York Times,3,2025-05-25 23:03:15+00:00,2025-07-22 18:49:10+00:00
+40,45,hello5@emails.skype.com,Skype,1,2014-10-17 03:02:05+00:00,2014-10-17 03:02:05+00:00
+41,55,hello@getimpressapp.com,Megan S,1,2019-05-22 15:00:59+00:00,2019-05-22 15:00:59+00:00
+42,71,hello@khanacademy.org,Hailey from Khan Academy,1,2023-10-12 19:12:07+00:00,2023-10-12 19:12:07+00:00
+43,79,hello@mail.parkmobile.io,ParkMobile,1,2024-06-25 19:09:43+00:00,2024-06-25 19:09:43+00:00
+44,93,hello@noteplan.co,Eduard at NotePlan,1,2026-06-18 19:49:00+00:00,2026-06-18 19:49:00+00:00
+45,102,hello@quikly.com,Domino's Pizza via Quikly,2,2018-12-10 19:09:33+00:00,2021-07-14 19:52:01+00:00
+46,117,hello@weebly.com,Weebly,1,2016-12-28 22:12:14+00:00,2016-12-28 22:12:14+00:00
+47,118,hello@whispermemos.com,Whisper Memos,2,2026-01-14 17:00:06+00:00,2026-06-02 15:23:24+00:00
+48,115,hey@vina.io,VINA,2,2017-11-07 23:37:25+00:00,2018-01-16 22:05:40+00:00
+49,56,hi@glass.photo,Daniel from Glass,8,2022-11-28 18:59:35+00:00,2024-05-17 22:59:37+00:00
+50,43,honda@emails.honda.com,Honda,1,2016-05-09 21:05:06+00:00,2016-05-09 21:05:06+00:00
+51,73,iheartradio@listen.iheart.com,iHeartRadio,1,2019-02-07 11:37:39+00:00,2019-02-07 11:37:39+00:00
+52,121,info1@zingmyorder.com,Fiesta Mexican Oak Park Heights,5,2024-05-10 14:02:03+00:00,2024-08-08 15:14:03+00:00
+53,10,info@chicago-fire.com,Chicago Fire Football Club,1,2020-06-15 20:01:39+00:00,2020-06-15 20:01:39+00:00
+54,29,info@e4.llbean.com,L.L.Bean,2,2024-06-17 00:03:44+00:00,2024-08-01 13:01:34+00:00
+55,33,info@email-aaaminneapolis.com,AAA Minneapolis,4,2020-10-30 12:31:07+00:00,2021-04-08 19:01:04+00:00
+56,51,info@fanmail.chicagofirefc.com,Chicago Fire FC,16,2021-08-14 16:11:26+00:00,2026-07-01 19:22:59+00:00
+57,68,info@intuiface.com,The Intuiface Team,1,2019-02-26 15:09:33+00:00,2019-02-26 15:09:33+00:00
+58,69,info@intuilab.com,The IntuiFace Team,2,2015-10-27 08:15:59+00:00,2017-10-27 12:12:04+00:00
+59,98,info@poshmark.com,Poshmark,3,2022-05-30 18:11:23+00:00,2026-06-25 17:51:48+00:00
+60,112,info@update.uefa.com,UEFA All Access,2,2022-11-01 16:54:53+00:00,2022-11-21 16:21:24+00:00
+61,61,info_at_news_johnstonandmurphy-email_com_nqr7ffnywca88g_gd2p7006@icloud.com,Johnston & Murphy,4,2023-07-02 11:08:34+00:00,2023-10-14 11:14:02+00:00
+62,8,insider@cafezupas.com,Café Zupas,1,2020-12-07 15:37:34+00:00,2020-12-07 15:37:34+00:00
+63,35,insider@email.cafezupas.com,Café Zupas,8,2024-10-31 16:32:02+00:00,2025-03-06 17:49:23+00:00
+64,88,inspiration@mp1.tripadvisor.com,Tripadvisor,1,2025-02-04 17:34:58+00:00,2025-02-04 17:34:58+00:00
+65,44,jjill@emails.jjill.com,J.Jill,2,2020-05-11 11:03:58+00:00,2020-06-30 12:09:52+00:00
+66,54,lettre@geneanet.org,Geneanet,1,2017-04-28 02:46:13+00:00,2017-04-28 02:46:13+00:00
+67,71,lizzier@khanacademy.org,Lizzie from Khan Academy,1,2017-06-05 19:54:47+00:00,2017-06-05 19:54:47+00:00
+68,28,llbean@e1.llbean.com,L.L.Bean,9,2024-01-22 17:09:00+00:00,2024-06-07 00:01:07+00:00
+69,63,mail@info.adobesystems.com,Adobe Creative Cloud,1,2017-11-08 07:44:49+00:00,2017-11-08 07:44:49+00:00
+70,75,mail@mail.adobe.com,Adobe Acrobat,7,2019-02-02 22:15:28+00:00,2026-06-30 14:09:33+00:00
+71,101,market-update@prop.trulia.com,Trulia,2,2020-09-11 12:56:57+00:00,2020-09-18 15:09:57+00:00
+72,86,microsoftstore@microsoftstoreemail.com,Microsoft Store,17,2020-09-09 22:21:50+00:00,2022-12-21 21:53:43+00:00
+73,13,mitra@count.co,Mitra from Count,3,2026-06-03 10:57:55+00:00,2026-06-19 12:53:19+00:00
+74,101,more-properties@prop.trulia.com,Trulia,1,2021-02-21 23:14:50+00:00,2021-02-21 23:14:50+00:00
+75,11,msa@communication.microsoft.com,Microsoft,2,2020-09-06 04:24:24+00:00,2023-09-01 20:48:43+00:00
+76,80,my-saved-home@mail.zillow.com,Zillow,1,2018-07-17 17:17:28+00:00,2018-07-17 17:17:28+00:00
+77,64,myqinfo@info.chamberlain.com,myQ Updates,4,2022-10-07 12:36:57+00:00,2023-03-20 14:17:07+00:00
+78,6,news@app.postmates.com,Postmates,15,2017-11-07 16:01:57+00:00,2021-03-30 00:31:54+00:00
+79,9,news@chess.com,♟Chess.com,1,2020-03-29 07:22:03+00:00,2020-03-29 07:22:03+00:00
+80,91,news@news.ubisoft.com,Tom Clancy's The Division 2,1,2019-09-09 12:36:04+00:00,2019-09-09 12:36:04+00:00
+81,99,news@postmates.com,Postmates,1,2017-05-31 07:05:25+00:00,2017-05-31 07:05:25+00:00
+82,100,news_at_shop_kobo_com_jnfpknpspf_223cbe50@privaterelay.appleid.com,Kobo,9,2021-12-07 13:07:58+00:00,2023-07-04 12:32:34+00:00
+83,66,newsdigest@insideapple.apple.com,Apple News,7,2016-07-23 11:13:55+00:00,2021-05-13 12:15:07+00:00
+84,12,newsletter@concepts.app,Concepts App,3,2022-06-12 13:19:52+00:00,2023-04-01 13:04:57+00:00
+85,65,newsletter@info.movietickets.com,MovieTickets.com,1,2011-02-26 02:06:05+00:00,2011-02-26 02:06:05+00:00
+86,78,newsletter@mail.ia.net,iA Newsletter,1,2024-10-21 13:34:31+00:00,2024-10-21 13:34:31+00:00
+87,61,no-reply+11092898_at_toast-restaurants_com_z9nyd299q78b28_b7nn9045@icloud.com,El Camino Taco Deli,1,2023-01-11 00:04:15+00:00,2023-01-11 00:04:15+00:00
+88,6,no-reply@app.postmates.com,Postmates,1,2017-09-02 17:47:58+00:00,2017-09-02 17:47:58+00:00
+89,16,no-reply@discover.offerup.com,OfferUp,1,2018-10-19 20:21:27+00:00,2018-10-19 20:21:27+00:00
+90,18,no-reply@doordash.com,DoorDash,26,2019-08-09 17:47:31+00:00,2026-06-27 16:57:44+00:00
+91,36,no-reply@email.jjill.com,J.Jill,1,2020-06-17 14:09:00+00:00,2020-06-17 14:09:00+00:00
+92,59,no-reply@gopuff.com,goPuff,11,2019-02-01 21:30:51+00:00,2021-11-22 22:01:44+00:00
+93,80,no-reply@mail.zillow.com,Zillow,1,2018-06-17 01:28:19+00:00,2018-06-17 01:28:19+00:00
+94,84,no-reply@messages.doordash.com,DoorDash,12,2024-01-06 19:35:30+00:00,2026-06-13 19:17:18+00:00
+95,92,no-reply@noreply.gopuff.com,Gopuff,1,2023-03-16 21:02:00+00:00,2023-03-16 21:02:00+00:00
+96,105,no-reply@ride.bird.co,Bird,1,2025-07-26 00:40:27+00:00,2025-07-26 00:40:27+00:00
+97,109,no-reply@substack.com,Substack,1,2026-06-05 18:03:36+00:00,2026-06-05 18:03:36+00:00
+98,7,noreply@bumble.com,Bumble,2,2019-04-17 00:45:55+00:00,2021-01-19 17:58:54+00:00
+99,60,noreply@hello.chamberlain.com,myQ Updates,6,2025-11-21 22:03:26+00:00,2026-06-29 11:08:48+00:00
+100,76,noreply@mail.airtable.com,The Airtable Team,1,2022-09-19 16:01:26+00:00,2022-09-19 16:01:26+00:00
+101,82,noreply@mailing.fifa.com,FIFA,15,2024-11-24 10:03:24+00:00,2026-06-26 18:09:56+00:00
+102,97,noreply@popmenu.com,Revival,2,2024-03-12 20:55:05+00:00,2024-04-16 19:51:50+00:00
+103,103,noreply@r.groupon.com,Groupon,415,2017-07-01 15:18:18+00:00,2026-03-31 00:20:51+00:00
+104,106,noreply@shakeshack.com,Shake Shack,1,2026-06-17 14:29:11+00:00,2026-06-17 14:29:11+00:00
+105,61,noreply_at_portillos-hotdogs_com_f1f7v5q466fbhe_94wv4967@icloud.com,Portillo's Hot Dogs,12,2023-04-03 21:09:03+00:00,2023-11-29 18:05:25+00:00
+106,107,notifications@spe.zyngamail.com,Words With Friends,1,2019-06-13 00:34:01+00:00,2019-06-13 00:34:01+00:00
+107,25,nytimes@e.newyorktimes.com,The New York Times,27,2023-09-30 22:05:04+00:00,2026-06-20 23:38:22+00:00
+108,20,offers@e-offers.dominos.com,Domino's Pizza,1,2024-11-20 16:30:21+00:00,2024-11-20 16:30:21+00:00
+109,110,offers@toppers.com,Toppers Pizza,1,2015-03-01 16:26:13+00:00,2015-03-01 16:26:13+00:00
+110,119,offers@wish.com,Wish,45,2019-05-17 16:23:17+00:00,2022-05-27 16:17:20+00:00
+111,120,offers@your.offers.dominos.com,Domino's Pizza,6,2020-09-12 21:22:50+00:00,2020-12-17 22:11:49+00:00
+112,53,photobooks@freeprintsapp.com,FreePrints Photobooks,3,2026-06-03 15:15:35+00:00,2026-06-24 15:16:11+00:00
+113,96,photobooks@photoaffections.com,FreePrints Photobooks,2,2018-08-05 15:03:47+00:00,2021-07-24 15:02:49+00:00
+114,95,photos@onedrive.com,OneDrive,2,2023-04-22 00:24:31+00:00,2023-05-15 17:46:07+00:00
+115,3,premium@academia-mail.com,Academia.edu,1,2019-07-17 22:16:34+00:00,2019-07-17 22:16:34+00:00
+116,101,properties@prop.trulia.com,Trulia,2,2021-02-24 12:12:51+00:00,2021-07-09 13:19:57+00:00
+117,101,rec-stream@prop.trulia.com,Trulia,1,2020-08-30 16:20:26+00:00,2020-08-30 16:20:26+00:00
+118,67,recommendations@inspire.pinterest.com,Pinterest,1,2023-06-18 16:15:19+00:00,2023-06-18 16:15:19+00:00
+119,52,reply@fanmail.mlssoccer.com,Major League Soccer,4,2026-06-10 23:02:11+00:00,2026-06-24 12:26:30+00:00
+120,14,research@data.world,Research from data.world,2,2020-08-11 21:41:17+00:00,2020-09-03 22:19:49+00:00
+121,21,rewards@e-rewards.dominos.com,Domino's Pizza,1,2024-11-02 17:03:20+00:00,2024-11-02 17:03:20+00:00
+122,80,search-updates@mail.zillow.com,Zillow,6,2018-07-13 08:55:54+00:00,2018-09-05 08:56:12+00:00
+123,42,shein@email.us.shein.com,SHEIN,11,2026-06-04 06:37:55+00:00,2026-06-30 05:06:02+00:00
+124,89,shein@news.emailmarket.shein.com,SHEIN,22,2026-06-05 06:17:09+00:00,2026-07-02 06:14:42+00:00
+125,113,shein@usmail.shein.com,SHEIN,5,2023-02-16 01:26:23+00:00,2023-07-09 21:38:51+00:00
+126,37,shop@email.macys.com,Macy's,11,2014-02-21 14:34:00+00:00,2015-03-21 12:31:43+00:00
+127,98,shop@poshmark.com,Poshmark Shopping,9,2021-07-13 01:22:20+00:00,2026-06-29 01:55:00+00:00
+128,115,society@vina.io,VINAZINE,1,2018-08-01 18:11:45+00:00,2018-08-01 18:11:45+00:00
+129,108,stjoanevents@stjoan.com,St. Joan of Arc Concert Series,1,2025-11-28 13:04:14+00:00,2025-11-28 13:04:14+00:00
+130,57,stjoanofarcchoir@gmail.com,Fred Vagle,2,2020-12-10 21:04:23+00:00,2021-09-09 16:32:51+00:00
+131,5,store-news@amazon.com,Amazon.com,1,2021-11-25 16:00:59+00:00,2021-11-25 16:00:59+00:00
+132,14,summit@data.world,The data.world summit team,1,2021-02-04 18:22:52+00:00,2021-02-04 18:22:52+00:00
+133,39,support@email.shipt.com,Shipt,8,2020-05-06 13:38:30+00:00,2021-01-24 14:49:38+00:00
+134,70,support@ivrose.com,IvRose,2,2017-08-22 13:40:34+00:00,2017-08-23 15:56:46+00:00
+135,26,targetnews@e.target.com,Target,18,2017-01-20 17:16:27+00:00,2017-11-22 13:54:58+00:00
+136,32,targetnews@em.target.com,Target,13,2017-09-04 16:23:59+00:00,2018-08-04 12:48:12+00:00
+137,24,team@e.miro.com,The Miro Team,2,2022-06-02 14:39:43+00:00,2023-10-11 15:31:10+00:00
+138,76,team@mail.airtable.com,The Airtable Team,6,2023-03-07 17:31:29+00:00,2025-12-11 01:00:52+00:00
+139,40,thecompanystore@email.thecompanystore.com,The Company Store,1,2022-07-13 21:00:00+00:00,2022-07-13 21:00:00+00:00
+140,48,thecompanystore@eml.thecompanystore.com,The Company Store,13,2022-10-10 11:08:29+00:00,2023-03-05 12:10:21+00:00
+141,47,thenewyorker@eml.condenast.com,The New Yorker,24,2021-07-14 13:58:33+00:00,2024-09-03 13:16:26+00:00
+142,51,tickets@fanmail.chicagofirefc.com,Chicago Fire FC Ticket Sales,1,2023-04-26 00:01:28+00:00,2023-04-26 00:01:28+00:00
+143,72,updates@learn.mailgun.com,The Mailgun Team,1,2026-04-27 15:10:46+00:00,2026-04-27 15:10:46+00:00
+144,74,updates@livingsocial.com,LivingSocial,1,2013-04-27 06:01:28+00:00,2013-04-27 06:01:28+00:00
+145,88,updates@mp1.tripadvisor.com,Tripadvisor,1,2024-12-12 18:01:47+00:00,2024-12-12 18:01:47+00:00
+146,27,xbox@e.xbox.com,Xbox,2,2024-12-17 14:14:48+00:00,2025-02-18 21:58:59+00:00
+147,49,xboxreps@engage.xbox.com,Xbox,4,2022-03-29 01:55:55+00:00,2024-05-04 07:38:18+00:00

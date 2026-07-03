@@ -1,0 +1,11 @@
+email_type_id,email_type
+1,Legal Notice
+2,Policy Update
+3,Social Notification
+4,Event Invite
+5,Community Update
+6,Product Update
+7,Promotional
+8,Newsletter
+9,Content / News
+10,General / Other
