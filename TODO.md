@@ -3,7 +3,6 @@
 - [ ] Identify sample data folders missing a `README.md`
 
   Folders with sample data but **no** `README.md`:
-  - `flights_of_fancy`
   - `holly_holidays`
   - `lunar_cycles`
   - `minne_lakes`
@@ -18,5 +17,6 @@
   - `bicycles`
   - `coffee_habits`
   - `junk_mail`
+  - `flights_of_fancy` ✅ (added)
 
   (`pages/` excluded — it's the mkdocs site generator, not a sample data folder.)
