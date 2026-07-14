@@ -10,7 +10,7 @@ A collection of various sample datasets that can be used for testing and develop
 | B | [bicycles](./bicycles) | Bicycles | Bike Rental Data |
 | C | [Coffee Habits](./coffee_habits) | Coffee Purchase Data |
 | D | [Dogs](./dogs) | Dog Show History |
-| E | TBD | TBD
+| E | [Elephants](./elephant_circus) | Elephantine Circus history for 100 years of routes
 | F | [Flights of Fancy](./flights_of_fancy) | Air Traffic Tracking
 | G | TBD | TBD |
 | H | [Holidays](./holidays) | Holiday Music Plays |

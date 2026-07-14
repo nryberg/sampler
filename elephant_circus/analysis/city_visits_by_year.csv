@@ -1,0 +1,191 @@
+City,Year,Engagements,DistinctCircuses,StopDays
+Atlanta,1870,0,0,0
+Atlanta,1875,1,1,2
+Atlanta,1880,2,2,4
+Atlanta,1885,1,1,1
+Atlanta,1890,2,2,2
+Atlanta,1895,1,1,6
+Atlanta,1900,1,1,1
+Atlanta,1905,1,1,1
+Atlanta,1910,3,3,4
+Atlanta,1915,2,2,3
+Atlanta,1920,3,3,4
+Atlanta,1925,1,1,2
+Atlanta,1930,1,1,2
+Atlanta,1935,1,1,1
+Atlanta,1940,1,1,2
+Atlanta,1945,1,1,3
+Atlanta,1950,1,1,1
+Atlanta,1955,1,1,2
+Atlanta,1960,1,1,3
+Boston,1870,0,0,0
+Boston,1875,2,2,17
+Boston,1880,5,4,33
+Boston,1885,2,2,14
+Boston,1890,2,2,8
+Boston,1895,2,2,19
+Boston,1900,3,3,19
+Boston,1905,1,1,6
+Boston,1910,2,1,6
+Boston,1915,1,1,6
+Boston,1920,2,2,12
+Boston,1925,2,2,12
+Boston,1930,1,1,11
+Boston,1935,1,1,6
+Boston,1940,1,1,10
+Boston,1945,1,1,12
+Boston,1950,1,1,7
+Boston,1955,1,1,5
+Boston,1960,1,1,6
+Chicago,1870,0,0,0
+Chicago,1875,1,1,6
+Chicago,1880,6,5,33
+Chicago,1885,2,2,25
+Chicago,1890,1,1,13
+Chicago,1895,2,2,36
+Chicago,1900,2,2,16
+Chicago,1905,0,0,0
+Chicago,1910,3,3,31
+Chicago,1915,3,3,20
+Chicago,1920,2,2,33
+Chicago,1925,0,0,0
+Chicago,1930,0,0,0
+Chicago,1935,3,3,41
+Chicago,1940,1,1,9
+Chicago,1945,0,0,0
+Chicago,1950,3,3,43
+Chicago,1955,1,1,9
+Chicago,1960,6,2,31
+Dallas,1870,0,0,0
+Dallas,1875,0,0,0
+Dallas,1880,2,2,2
+Dallas,1885,1,1,1
+Dallas,1890,2,2,2
+Dallas,1895,4,4,4
+Dallas,1900,2,2,2
+Dallas,1905,1,1,1
+Dallas,1910,2,2,2
+Dallas,1915,2,2,5
+Dallas,1920,2,2,2
+Dallas,1925,1,1,2
+Dallas,1930,1,1,1
+Dallas,1935,2,2,4
+Dallas,1940,1,1,2
+Dallas,1945,1,1,3
+Dallas,1950,1,1,3
+Dallas,1955,1,1,1
+Dallas,1960,1,1,5
+Denver,1870,0,0,0
+Denver,1875,0,0,0
+Denver,1880,2,2,6
+Denver,1885,1,1,1
+Denver,1890,1,1,1
+Denver,1895,2,2,4
+Denver,1900,1,1,2
+Denver,1905,1,1,2
+Denver,1910,1,1,1
+Denver,1915,1,1,2
+Denver,1920,2,2,4
+Denver,1925,1,1,2
+Denver,1930,0,0,0
+Denver,1935,2,2,4
+Denver,1940,1,1,2
+Denver,1945,1,1,3
+Denver,1950,1,1,3
+Denver,1955,1,1,2
+Denver,1960,1,1,4
+Minneapolis,1870,1,1,2
+Minneapolis,1875,1,1,2
+Minneapolis,1880,4,4,5
+Minneapolis,1885,2,2,2
+Minneapolis,1890,1,1,2
+Minneapolis,1895,1,1,1
+Minneapolis,1900,2,2,2
+Minneapolis,1905,2,2,2
+Minneapolis,1910,2,2,2
+Minneapolis,1915,3,3,6
+Minneapolis,1920,2,2,3
+Minneapolis,1925,1,1,2
+Minneapolis,1930,0,0,0
+Minneapolis,1935,0,0,0
+Minneapolis,1940,1,1,2
+Minneapolis,1945,1,1,3
+Minneapolis,1950,0,0,0
+Minneapolis,1955,1,1,2
+Minneapolis,1960,0,0,0
+New Orleans,1870,0,0,0
+New Orleans,1875,1,1,13
+New Orleans,1880,1,1,1
+New Orleans,1885,2,2,16
+New Orleans,1890,1,1,2
+New Orleans,1895,2,2,3
+New Orleans,1900,1,1,4
+New Orleans,1905,0,0,0
+New Orleans,1910,3,3,7
+New Orleans,1915,1,1,2
+New Orleans,1920,2,2,5
+New Orleans,1925,0,0,0
+New Orleans,1930,1,1,2
+New Orleans,1935,1,1,2
+New Orleans,1940,1,1,2
+New Orleans,1945,1,1,4
+New Orleans,1950,1,1,3
+New Orleans,1955,1,1,3
+New Orleans,1960,0,0,0
+New York City,1870,0,0,0
+New York City,1875,5,2,43
+New York City,1880,4,3,53
+New York City,1885,1,1,34
+New York City,1890,0,0,0
+New York City,1895,1,1,20
+New York City,1900,2,2,19
+New York City,1905,1,1,31
+New York City,1910,3,3,37
+New York City,1915,1,1,24
+New York City,1920,1,1,38
+New York City,1925,1,1,36
+New York City,1930,1,1,21
+New York City,1935,1,1,24
+New York City,1940,1,1,26
+New York City,1945,1,1,47
+New York City,1950,2,2,38
+New York City,1955,1,1,40
+New York City,1960,1,1,46
+San Francisco,1870,0,0,0
+San Francisco,1875,0,0,0
+San Francisco,1880,0,0,0
+San Francisco,1885,1,1,10
+San Francisco,1890,1,1,6
+San Francisco,1895,1,1,9
+San Francisco,1900,1,1,8
+San Francisco,1905,1,1,8
+San Francisco,1910,2,2,10
+San Francisco,1915,1,1,5
+San Francisco,1920,1,1,4
+San Francisco,1925,1,1,3
+San Francisco,1930,1,1,4
+San Francisco,1935,2,2,8
+San Francisco,1940,0,0,0
+San Francisco,1945,0,0,0
+San Francisco,1950,0,0,0
+San Francisco,1955,1,1,4
+San Francisco,1960,2,1,6
+Seattle,1870,0,0,0
+Seattle,1875,0,0,0
+Seattle,1880,0,0,0
+Seattle,1885,0,0,0
+Seattle,1890,1,1,1
+Seattle,1895,0,0,0
+Seattle,1900,1,1,1
+Seattle,1905,1,1,2
+Seattle,1910,2,2,5
+Seattle,1915,2,2,5
+Seattle,1920,2,2,5
+Seattle,1925,2,2,4
+Seattle,1930,1,1,3
+Seattle,1935,2,2,4
+Seattle,1940,1,1,3
+Seattle,1945,2,2,11
+Seattle,1950,1,1,3
+Seattle,1955,2,2,5
+Seattle,1960,1,1,4
