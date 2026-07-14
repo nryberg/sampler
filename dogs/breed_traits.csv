@@ -1,0 +1,52 @@
+Breed,CanonicalBreed,Variety,Group,SizeCategory,WeightRangeLbs,LifespanYears,OriginCountry,HistoricalPurpose
+Affenpinscher,Affenpinscher,,Toy,Toy,7-10,12-15,Germany,Ratting/vermin control
+Afghan Hound,Afghan Hound,,Hound,Large,50-60,12-18,Afghanistan,Sighthound - hunting gazelle and hare
+Airedale Terrier,Airedale Terrier,,Terrier,Large,40-65,11-14,England,All-purpose working terrier - vermin and otter hunting
+Beagle (15 Inch),Beagle,15 Inch,Hound,Small-Medium,20-30,12-15,England,Scent hound - hunting rabbits in packs
+Bedlington Terrier,Bedlington Terrier,,Terrier,Medium,17-23,11-16,England,Vermin hunting
+Bichon Frise,Bichon Frise,,Non-Sporting,Small,12-18,14-15,Mediterranean (France/Belgium),Companion lapdog
+Bloodhound,Bloodhound,,Hound,Giant,80-110,10-12,Belgium/France,Scent tracking
+Boxer,Boxer,,Working,Large,50-80,10-12,Germany,Guarding/working dog; descended from bull-baiting stock
+Bull Terrier (Colored),Bull Terrier,Colored,Terrier,Medium-Large,50-70,12-13,England,Vermin hunting/ratting; descended from bull-baiting stock
+Bull Terrier (White),Bull Terrier,White,Terrier,Medium-Large,50-70,12-13,England,Vermin hunting/ratting; descended from bull-baiting stock
+Bulldog,Bulldog,,Non-Sporting,Medium,40-50,8-10,England,Bull-baiting (historical); now companion
+Collie (Rough),Collie,Rough coat,Working,Large,50-75,12-14,Scotland,Herding sheep
+Doberman Pinscher,Doberman Pinscher,,Working,Large,60-100,10-13,Germany,Guarding/personal protection
+Fox Terrier (Smooth),Fox Terrier,Smooth coat,Terrier,Small,15-19,12-15,England,Fox hunting - bolting foxes from dens
+Fox Terrier (Wire),Fox Terrier,Wire coat,Terrier,Small,15-19,12-15,England,Fox hunting - bolting foxes from dens
+German Shepherd,German Shepherd Dog,,Herding,Large,50-90,9-13,Germany,Herding sheep; later military/police work
+German Shepherd Dog,German Shepherd Dog,,Herding,Large,50-90,9-13,Germany,Herding sheep; later military/police work
+Giant Schnauzer,Giant Schnauzer,,Working,Giant,55-85,10-12,Germany,Cattle droving/guarding
+Kerry Blue Terrier,Kerry Blue Terrier,,Terrier,Medium,33-40,12-15,Ireland,Vermin hunting/general farm dog
+Lakeland Terrier,Lakeland Terrier,,Terrier,Small,15-17,12-16,England,Fox and vermin hunting in the Lake District
+Newfoundland,Newfoundland,,Working,Giant,100-150,9-10,Canada,Water rescue/fishing assistance
+Norwich Terrier,Norwich Terrier,,Terrier,Small,11-12,12-15,England,Vermin hunting/fox bolting; smallest working terrier
+Old English Sheepdog,Old English Sheepdog,,Working,Large,60-100,10-12,England,Herding/droving sheep and cattle
+Papillon,Papillon,,Toy,Toy,5-10,14-16,France/Belgium,Companion lapdog
+Pekingese,Pekingese,,Toy,Toy,7-14,12-14,China,Imperial palace companion
+Petit Basset Griffon Vendeen,Petit Basset Griffon Vendeen,,Hound,Small-Medium,25-40,13-15,France,Scent hound - hunting hare/small game in rough terrain
+Pointer,Pointer,,Sporting,Large,45-75,12-17,England,Pointing game birds
+Pointer (German Shorthaired),German Shorthaired Pointer,,Sporting,Large,45-70,12-14,Germany,Versatile pointing/retrieving gun dog
+Pomeranian,Pomeranian,,Toy,Toy,3-7,12-16,Germany/Poland (Pomerania region),Companion; descended from larger spitz sled dogs
+Poodle (Miniature),Poodle,Miniature,Non-Sporting,Small-Medium,15-17,12-15,Germany/France,Water retrieving (Standard); companion
+Poodle (Standard),Poodle,Standard,Non-Sporting,Large,45-70,12-15,Germany/France,Water retrieving
+Poodle (Toy),Poodle,Toy,Toy,Toy,4-6,12-15,Germany/France,Companion
+Pug,Pug,,Toy,Toy,14-18,12-15,China,Imperial companion
+Scottish Deerhound,Scottish Deerhound,,Hound,Giant,75-110,8-11,Scotland,Sighthound - hunting red deer
+Scottish Terrier,Scottish Terrier,,Terrier,Small,18-22,11-13,Scotland,Vermin/fox/badger hunting
+Sealyham Terrier,Sealyham Terrier,,Terrier,Small-Medium,20-24,12-14,Wales,Badger/otter/fox hunting
+Setter (English),English Setter,,Sporting,Large,45-80,10-12,England,Setting/pointing upland game birds
+Siberian Husky,Siberian Husky,,Working,Medium-Large,35-60,12-14,Siberia (Chukchi people),Sled pulling
+Skye Terrier,Skye Terrier,,Terrier,Medium,25-40,12-15,Scotland (Isle of Skye),Vermin/fox/badger hunting
+Spaniel (Clumber),Clumber Spaniel,,Sporting,Large,55-85,10-12,England/France,Flushing/retrieving heavy game birds
+Spaniel (Cocker) ASCOB[B],Cocker Spaniel,ASCOB (Any Solid Color Other than Black),Sporting,Small-Medium,24-28,12-15,England/United States,Flushing woodcock
+Spaniel (Cocker) Black[B],Cocker Spaniel,Black,Sporting,Small-Medium,24-28,12-15,England/United States,Flushing woodcock
+Spaniel (Cocker) Parti[B],Cocker Spaniel,Parti-color,Sporting,Small-Medium,24-28,12-15,England/United States,Flushing woodcock
+Spaniel (English Springer),English Springer Spaniel,,Sporting,Medium,40-50,12-14,England,Flushing/springing game birds
+Spaniel (Irish Water),Irish Water Spaniel,,Sporting,Large,45-68,10-12,Ireland,Waterfowl retrieving
+Standard Schnauzer,Standard Schnauzer,,Working,Medium,35-50,13-16,Germany,Ratting/guarding/all-purpose farm dog
+Sussex Spaniel,Sussex Spaniel,,Sporting,Medium,35-45,11-13,England,Flushing game in dense underbrush
+Welsh Terrier,Welsh Terrier,,Terrier,Small,20-21,12-15,Wales,Fox/badger/otter hunting
+West Highland White Terrier,West Highland White Terrier,,Terrier,Small,15-20,13-15,Scotland,Vermin hunting
+Whippet,Whippet,,Hound,Medium,25-40,12-15,England,Sighthound - rabbit coursing/racing
+Yorkshire Terrier,Yorkshire Terrier,,Toy,Toy,4-7,13-16,England,Originally ratting in textile mills; now companion
