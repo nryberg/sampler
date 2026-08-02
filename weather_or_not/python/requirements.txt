@@ -1,0 +1,4 @@
+# Dependencies for flight_rules.py
+# (sqlite3, argparse, pathlib are in the Python standard library)
+pandas>=2.0
+numpy>=1.23
