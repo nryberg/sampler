@@ -22,7 +22,7 @@ A collection of various sample datasets that can be used for testing and develop
 | N | TBD | TBD |
 | O | TBD | TBD |
 | P | [Parking Tickets](./parking_tickets) | Snow Emergency Related Fines |
-| Q | TBD | TBD |
+| Q | [Quarterbacks](./quarterbacks) | The Travelling Quarterback Problem |
 | R | [Retail Therapy](./retail_therapy) | Store Location Data over 30 years |
 | S | [Soccer Player Pay](./soccer_player_pay) | Annual Salary Data for Soccer Players |
 | T | [TBD] | TBD |
